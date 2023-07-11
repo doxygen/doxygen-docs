@@ -1,0 +1,15 @@
+<map id="SymbolIndexContext::Private" name="SymbolIndexContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="856,83,1015,123"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="531,26,610,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,44,832,80,856,84,855,90,832,85,623,50"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="452,75,689,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="703,100,856,100,856,105,703,105"/>
+<area shape="rect" id="Node000004" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,7,162,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,15,296,21,363,31,429,47,453,60,484,73,482,78,451,65,427,52,362,36,296,27,176,21"/>
+<area shape="rect" id="Node000005" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,89,191,129"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="204,107,428,105,452,105,452,110,428,111,204,112"/>
+<area shape="rect" id="Node000006" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="468,155,673,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="686,149,855,116,856,121,687,155"/>
+<area shape="rect" id="Node000007" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,162,169,187"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="183,172,468,172,468,177,183,177"/>
+</map>

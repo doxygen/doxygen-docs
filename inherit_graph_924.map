@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$da/d1b/class_template_context.html" title="Abstract interface for a template context." alt="" coords="5,5,139,31"/>
+<area shape="rect" id="Node000001" href="$da/dbf/class_template_context_impl.html" title="Internal class representing the implementation of a template context." alt="" coords="187,5,349,31"/>
+<area shape="poly" id="edge292_Node000000_Node000001" title=" " alt="" coords="152,15,187,15,187,21,152,21"/>
+</map>

@@ -1,0 +1,97 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d5/de9/class_template.html" title="Abstract interface for a template." alt="" coords="22,5,105,31"/>
+<area shape="rect" id="Node000001" href="$d6/d07/class_template_impl.html" title="Internal class representing the implementation of a template." alt="" coords="235,5,346,31"/>
+<area shape="poly" id="edge245_Node000000_Node000001" title=" " alt="" coords="118,15,235,15,235,21,118,21"/>
+<area shape="rect" id="Node000002" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,767,121,792"/>
+<area shape="poly" id="edge288_Node000002_Node000001" title=" " alt="" coords="62,753,64,607,77,393,90,283,109,181,134,98,150,66,167,42,182,30,199,22,234,14,235,19,200,27,185,34,171,45,154,69,139,100,114,183,95,283,83,393,70,607,67,753"/>
+<area shape="rect" id="Node000003" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="199,55,382,95"/>
+<area shape="poly" id="edge246_Node000002_Node000003" title=" " alt="" coords="62,753,67,618,82,424,96,324,114,233,137,158,151,128,167,106,181,93,198,85,200,89,184,98,171,109,156,131,142,159,119,234,101,325,88,425,73,619,68,753"/>
+<area shape="rect" id="Node000005" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="169,119,412,159"/>
+<area shape="poly" id="edge248_Node000002_Node000005" title=" " alt="" coords="63,753,70,629,86,455,100,365,117,283,140,216,153,190,167,170,181,158,185,162,171,173,157,192,145,218,123,285,105,366,92,455,75,630,68,753"/>
+<area shape="rect" id="Node000007" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="196,183,385,223"/>
+<area shape="poly" id="edge250_Node000002_Node000007" title=" " alt="" coords="63,753,72,641,90,486,104,407,121,334,142,275,167,234,194,215,197,219,171,237,147,277,126,336,109,408,96,487,77,642,69,753"/>
+<area shape="rect" id="Node000009" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="199,247,382,287"/>
+<area shape="poly" id="edge252_Node000002_Node000009" title=" " alt="" coords="64,752,75,653,95,516,108,448,125,385,145,333,167,297,198,277,201,282,171,301,149,335,130,386,114,449,100,517,80,653,70,753"/>
+<area shape="rect" id="Node000011" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="188,311,393,351"/>
+<area shape="poly" id="edge254_Node000002_Node000011" title=" " alt="" coords="65,753,78,665,99,548,129,436,147,392,167,361,186,347,189,351,171,365,152,394,134,437,104,549,83,666,70,753"/>
+<area shape="rect" id="Node000013" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="195,375,386,415"/>
+<area shape="poly" id="edge256_Node000002_Node000013" title=" " alt="" coords="62,753,65,687,79,599,93,552,111,506,136,463,168,425,194,408,197,412,171,429,140,466,116,508,98,554,85,600,71,688,67,753"/>
+<area shape="rect" id="Node000015" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="207,439,374,479"/>
+<area shape="poly" id="edge258_Node000002_Node000015" title=" " alt="" coords="64,752,71,697,88,626,102,589,119,553,141,519,168,489,186,476,206,468,208,472,188,481,171,493,145,522,124,555,106,591,93,628,76,698,69,753"/>
+<area shape="rect" id="Node000017" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="209,503,373,543"/>
+<area shape="poly" id="edge260_Node000002_Node000017" title=" " alt="" coords="67,752,78,709,97,655,126,600,145,575,168,553,187,541,207,532,209,537,189,546,171,557,149,579,131,603,102,657,83,711,72,754"/>
+<area shape="rect" id="Node000019" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="194,567,387,607"/>
+<area shape="poly" id="edge262_Node000002_Node000019" title=" " alt="" coords="72,752,107,685,134,648,168,617,193,603,195,608,171,621,138,652,112,688,77,755"/>
+<area shape="rect" id="Node000021" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="183,631,399,671"/>
+<area shape="poly" id="edge264_Node000002_Node000021" title=" " alt="" coords="83,754,120,716,168,681,195,669,197,674,171,686,123,720,86,757"/>
+<area shape="rect" id="Node000023" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="191,695,390,735"/>
+<area shape="poly" id="edge266_Node000002_Node000023" title=" " alt="" coords="118,760,169,745,212,733,213,738,170,750,119,765"/>
+<area shape="rect" id="Node000025" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="204,759,377,799"/>
+<area shape="poly" id="edge268_Node000002_Node000025" title=" " alt="" coords="135,777,204,777,204,782,135,782"/>
+<area shape="rect" id="Node000027" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="171,823,411,863"/>
+<area shape="poly" id="edge270_Node000002_Node000027" title=" " alt="" coords="119,794,170,809,213,821,212,826,169,814,118,799"/>
+<area shape="rect" id="Node000029" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="197,887,384,927"/>
+<area shape="poly" id="edge272_Node000002_Node000029" title=" " alt="" coords="86,801,123,838,171,873,198,885,196,890,168,878,120,842,83,805"/>
+<area shape="rect" id="Node000031" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="195,951,387,991"/>
+<area shape="poly" id="edge274_Node000002_Node000031" title=" " alt="" coords="77,804,112,871,138,907,171,937,196,951,193,956,168,941,134,911,107,874,72,806"/>
+<area shape="rect" id="Node000033" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="187,1015,394,1055"/>
+<area shape="poly" id="edge276_Node000002_Node000033" title=" " alt="" coords="72,805,83,848,102,901,131,955,149,980,171,1001,189,1013,186,1017,168,1005,145,983,126,958,97,903,78,850,67,806"/>
+<area shape="rect" id="Node000035" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="207,1079,374,1119"/>
+<area shape="poly" id="edge278_Node000002_Node000035" title=" " alt="" coords="69,806,76,860,93,931,106,967,124,1003,145,1036,171,1065,188,1078,208,1086,206,1091,186,1082,168,1069,141,1040,119,1006,102,969,88,932,71,861,64,807"/>
+<area shape="rect" id="Node000037" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="185,1143,396,1183"/>
+<area shape="poly" id="edge280_Node000002_Node000037" title=" " alt="" coords="67,806,71,871,85,958,98,1005,116,1050,140,1092,171,1129,187,1141,184,1146,167,1133,136,1095,111,1052,93,1006,79,959,65,872,62,806"/>
+<area shape="rect" id="Node000039" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="193,1207,389,1247"/>
+<area shape="poly" id="edge282_Node000002_Node000039" title=" " alt="" coords="70,805,83,893,104,1010,134,1121,152,1164,171,1193,194,1210,191,1214,167,1197,147,1167,129,1123,99,1011,78,894,65,806"/>
+<area shape="rect" id="Node000041" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="204,1271,377,1311"/>
+<area shape="poly" id="edge284_Node000002_Node000041" title=" " alt="" coords="70,806,80,905,100,1041,114,1110,130,1172,149,1223,171,1258,187,1270,205,1279,202,1283,184,1274,167,1261,145,1226,125,1174,108,1111,95,1042,75,906,64,806"/>
+<area shape="rect" id="Node000043" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="203,1335,379,1375"/>
+<area shape="poly" id="edge286_Node000002_Node000043" title=" " alt="" coords="69,805,77,917,96,1072,109,1151,126,1223,147,1282,171,1322,186,1334,203,1342,201,1347,183,1338,167,1325,142,1284,121,1224,104,1152,90,1073,72,917,63,806"/>
+<area shape="rect" id="Node000045" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="189,1400,392,1425"/>
+<area shape="poly" id="edge289_Node000002_Node000045" title=" " alt="" coords="68,805,74,928,91,1103,104,1193,121,1274,144,1341,157,1366,171,1385,191,1400,188,1404,167,1389,152,1369,139,1343,116,1276,99,1194,85,1104,69,929,63,805"/>
+<area shape="rect" id="Node000046" href="$d9/daf/class_template_node_text.html" title="Class representing a piece of plain text in a template." alt="" coords="219,1449,362,1475"/>
+<area shape="poly" id="edge290_Node000002_Node000046" title=" " alt="" coords="68,806,72,939,87,1129,100,1226,118,1315,142,1388,156,1415,171,1436,193,1451,220,1459,218,1465,191,1456,167,1440,151,1418,137,1390,113,1317,95,1227,82,1129,67,939,62,806"/>
+<area shape="rect" id="Node000047" href="$d9/d06/class_template_node_variable.html" title="Class representing a variable in a template." alt="" coords="206,1499,375,1524"/>
+<area shape="poly" id="edge291_Node000002_Node000047" title=" " alt="" coords="67,806,70,947,84,1152,97,1258,115,1354,140,1433,155,1463,171,1485,187,1498,207,1506,205,1511,185,1502,167,1489,150,1466,135,1435,110,1355,92,1259,79,1153,65,947,62,806"/>
+<area shape="rect" id="Node000004" href="$d2/de0/class_template_node_block.html" title="Class representing a &#39;block&#39; tag in a template." alt="" coords="490,63,642,88"/>
+<area shape="poly" id="edge247_Node000003_Node000004" title=" " alt="" coords="396,73,490,73,490,78,396,78"/>
+<area shape="rect" id="Node000006" href="$dd/dff/class_template_node_close_sub_index.html" title="Class representing an &#39;closesubindex&#39; tag in a template." alt="" coords="460,127,672,152"/>
+<area shape="poly" id="edge249_Node000005_Node000006" title=" " alt="" coords="426,137,460,137,460,142,426,142"/>
+<area shape="rect" id="Node000008" href="$d5/dcd/class_template_node_create.html" title="Class representing an &#39;create&#39; tag in a template." alt="" coords="487,191,645,216"/>
+<area shape="poly" id="edge251_Node000007_Node000008" title=" " alt="" coords="399,201,486,201,486,206,399,206"/>
+<area shape="rect" id="Node000010" href="$d3/d37/class_template_node_cycle.html" title="Class representing an &#39;cycle&#39; tag in a template." alt="" coords="490,255,642,280"/>
+<area shape="poly" id="edge253_Node000009_Node000010" title=" " alt="" coords="396,265,490,265,490,270,396,270"/>
+<area shape="rect" id="Node000012" href="$d3/d38/class_template_node_encoding.html" title="Class representing the &#39;encoding&#39; tag in a template." alt="" coords="479,319,653,344"/>
+<area shape="poly" id="edge255_Node000011_Node000012" title=" " alt="" coords="407,329,478,329,478,334,407,334"/>
+<area shape="rect" id="Node000014" href="$d0/d21/class_template_node_extend.html" title="Class representing a &#39;extend&#39; tag in a template." alt="" coords="485,383,647,408"/>
+<area shape="poly" id="edge257_Node000013_Node000014" title=" " alt="" coords="400,393,485,393,485,398,400,398"/>
+<area shape="rect" id="Node000016" href="$d5/da1/class_template_node_for.html" title="Class representing a &#39;for&#39; tag in a template." alt="" coords="498,447,634,472"/>
+<area shape="poly" id="edge259_Node000015_Node000016" title=" " alt="" coords="388,457,498,457,498,462,388,462"/>
+<area shape="rect" id="Node000018" href="$d8/d38/class_template_node_if.html" title="Class representing an &#39;if&#39; tag in a template." alt="" coords="503,511,629,536"/>
+<area shape="poly" id="edge261_Node000017_Node000018" title=" " alt="" coords="386,521,503,521,503,526,386,526"/>
+<area shape="rect" id="Node000020" href="$da/d4b/class_template_node_include.html" title="Class representing an &#39;include&#39; tag in a template." alt="" coords="485,575,647,600"/>
+<area shape="poly" id="edge263_Node000019_Node000020" title=" " alt="" coords="401,585,484,585,484,590,401,590"/>
+<area shape="rect" id="Node000022" href="$da/ddd/class_template_node_index_entry.html" title="Class representing an &#39;indexentry&#39; tag in a template." alt="" coords="473,639,659,664"/>
+<area shape="poly" id="edge265_Node000021_Node000022" title=" " alt="" coords="413,649,473,649,473,654,413,654"/>
+<area shape="rect" id="Node000024" href="$d9/d8f/class_template_node_markers.html" title="Class representing an &#39;markers&#39; tag in a template." alt="" coords="482,703,650,728"/>
+<area shape="poly" id="edge267_Node000023_Node000024" title=" " alt="" coords="404,713,482,713,482,718,404,718"/>
+<area shape="rect" id="Node000026" href="$d4/d50/class_template_node_msg.html" title="Class representing an &#39;markers&#39; tag in a template." alt="" coords="495,767,637,792"/>
+<area shape="poly" id="edge269_Node000025_Node000026" title=" " alt="" coords="391,777,495,777,495,782,391,782"/>
+<area shape="rect" id="Node000028" href="$d6/d20/class_template_node_open_sub_index.html" title="Class representing an &#39;opensubindex&#39; tag in a template." alt="" coords="461,831,671,856"/>
+<area shape="poly" id="edge271_Node000027_Node000028" title=" " alt="" coords="424,841,460,841,460,846,424,846"/>
+<area shape="rect" id="Node000030" href="$d6/d83/class_template_node_range.html" title="Class representing a &#39;range&#39; tag in a template." alt="" coords="487,895,645,920"/>
+<area shape="poly" id="edge273_Node000029_Node000030" title=" " alt="" coords="398,905,487,905,487,910,398,910"/>
+<area shape="rect" id="Node000032" href="$db/d54/class_template_node_repeat.html" title="Class representing a &#39;for&#39; tag in a template." alt="" coords="485,959,647,984"/>
+<area shape="poly" id="edge275_Node000031_Node000032" title=" " alt="" coords="401,969,484,969,484,974,401,974"/>
+<area shape="rect" id="Node000034" href="$d8/d57/class_template_node_resource.html" title="Class representing an &#39;markers&#39; tag in a template." alt="" coords="478,1023,654,1048"/>
+<area shape="poly" id="edge277_Node000033_Node000034" title=" " alt="" coords="408,1033,478,1033,478,1038,408,1038"/>
+<area shape="rect" id="Node000036" href="$d3/d86/class_template_node_set.html" title="Class representing an &#39;set&#39; tag in a template." alt="" coords="497,1087,635,1112"/>
+<area shape="poly" id="edge279_Node000035_Node000036" title=" " alt="" coords="388,1097,497,1097,497,1102,388,1102"/>
+<area shape="rect" id="Node000038" href="$df/dc6/class_template_node_spaceless.html" title="Class representing an &#39;spaceless&#39; tag in a template." alt="" coords="475,1151,657,1176"/>
+<area shape="poly" id="edge281_Node000037_Node000038" title=" " alt="" coords="410,1161,475,1161,475,1166,410,1166"/>
+<area shape="rect" id="Node000040" href="$da/da1/class_template_node_tabbing.html" title="Class representing an &#39;tabbing&#39; tag in a template." alt="" coords="483,1215,649,1240"/>
+<area shape="poly" id="edge283_Node000039_Node000040" title=" " alt="" coords="402,1225,483,1225,483,1230,402,1230"/>
+<area shape="rect" id="Node000042" href="$d8/d31/class_template_node_tree.html" title="Class representing an &#39;tree&#39; tag in a template." alt="" coords="495,1279,637,1304"/>
+<area shape="poly" id="edge285_Node000041_Node000042" title=" " alt="" coords="391,1289,495,1289,495,1294,391,1294"/>
+<area shape="rect" id="Node000044" href="$d6/df7/class_template_node_with.html" title="Class representing an &#39;with&#39; tag in a template." alt="" coords="493,1343,639,1368"/>
+<area shape="poly" id="edge287_Node000043_Node000044" title=" " alt="" coords="393,1353,493,1353,493,1358,393,1358"/>
+</map>

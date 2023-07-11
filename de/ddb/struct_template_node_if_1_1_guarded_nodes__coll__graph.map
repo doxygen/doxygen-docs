@@ -1,0 +1,7 @@
+<map id="TemplateNodeIf::GuardedNodes" name="TemplateNodeIf::GuardedNodes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,233,208"/>
+<area shape="rect" id="Node000002" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template." alt="" coords="50,95,189,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,134,122,182,117,182,117,134"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="19,5,219,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,59,122,94,117,94,117,59"/>
+</map>

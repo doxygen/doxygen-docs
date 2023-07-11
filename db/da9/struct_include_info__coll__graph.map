@@ -1,0 +1,11 @@
+<map id="IncludeInfo" name="IncludeInfo">
+<area shape="rect" id="Node000001" title="Class representing the data associated with a #include statement." alt="" coords="153,168,247,193"/>
+<area shape="rect" id="Node000002" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="109,80,177,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,117,166,142,188,166,184,170,162,146,148,120"/>
+<area shape="rect" id="Node000003" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,39,134,78,130,81,93,43"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="168,5,253,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,43,156,81,152,78,188,39"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="201,80,279,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="231,119,208,169,203,166,226,117"/>
+</map>

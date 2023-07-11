@@ -1,0 +1,17 @@
+<map id="SearchIndexContext::Private" name="SearchIndexContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="799,78,952,118"/>
+<area shape="rect" id="Node000002" href="$d4/db6/struct_search_index_info.html" title=" " alt="" coords="448,13,575,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="589,38,775,75,799,80,798,85,774,81,588,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="59,5,137,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,16,448,22,448,27,151,22"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="391,71,632,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="646,95,798,95,798,101,646,101"/>
+<area shape="rect" id="Node000005" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,55,162,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="176,70,391,86,390,92,176,76"/>
+<area shape="rect" id="Node000006" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,137,191,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="205,160,284,158,366,149,409,138,449,123,451,128,410,143,367,154,285,164,205,165"/>
+<area shape="rect" id="Node000007" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="411,166,611,206"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="608,160,797,114,799,119,609,165"/>
+<area shape="rect" id="Node000008" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,204,169,229"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="183,218,271,218,366,213,426,203,427,209,367,218,272,223,183,223"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ObjCCallCtx" name="ObjCCallCtx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,197,303,223"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,119,53,147,59,160,68,171,90,183,124,192,203,202,202,208,123,197,88,188,64,175,54,163,48,149,42,120"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="149,80,245,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,119,202,146,211,172,221,185,234,195,231,199,217,188,206,175,196,147,193,119"/>
+<area shape="rect" id="Node000004" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="269,80,349,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,120,278,175,263,199,258,196,273,172,297,117"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="322,5,407,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="349,43,320,81,316,78,345,40"/>
+<area shape="rect" id="Node000006" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="373,80,471,105"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="385,40,415,78,411,81,380,43"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="416,120,401,149,377,175,341,195,304,205,302,200,339,190,374,171,396,146,411,117"/>
+</map>

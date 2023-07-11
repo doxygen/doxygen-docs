@@ -1,0 +1,26 @@
+digraph "ClassHierarchyContext::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ClassHierarchyContext\l::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_maxDepth",fontcolor="grey" ];
+  Node2 [id="Node000002",label="CachedItem\< int, ClassHierarchy\lContext::Private, &Private\l::createMaxDepth \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< int, ClassHierarchyContext\l::Private, &Private::createMaxDepth \>",fontcolor="grey" ];
+  Node3 [id="Node000003",label="CachedItem\< T, TOwner,\l creator \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip="Wrapper for data that needs to be cached."];
+  Node4 -> Node1 [id="edge3_Node000001_Node000004",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_preferredDepth",fontcolor="grey" ];
+  Node4 [id="Node000004",label="CachedItem\< int, ClassHierarchy\lContext::Private, &Private\l::createPreferredDepth \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node3 -> Node4 [id="edge4_Node000004_Node000003",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< int, ClassHierarchyContext\l::Private, &Private::createPreferred\lDepth \>",fontcolor="grey" ];
+  Node5 -> Node1 [id="edge5_Node000001_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_diagrams",fontcolor="grey" ];
+  Node5 [id="Node000005",label="CachedItem\< TemplateVariant,\l ClassHierarchyContext::\lPrivate, &Private::createDiagrams \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/dc1/class_cached_item.html",tooltip=" "];
+  Node6 -> Node5 [id="edge6_Node000005_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_item",fontcolor="grey" ];
+  Node6 [id="Node000006",label="TemplateVariant",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/dba/class_template_variant.html",tooltip="Variant type which can hold one value of a fixed set of types."];
+  Node3 -> Node5 [id="edge7_Node000005_Node000003",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< TemplateVariant,\l ClassHierarchyContext\l::Private, &Private::createDiagrams \>",fontcolor="grey" ];
+  Node7 -> Node1 [id="edge8_Node000001_Node000007",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" s_inst",fontcolor="grey" ];
+  Node7 [id="Node000007",label="PropertyMap\< ClassHierarchy\lContext::Private \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dbf/class_property_map.html",tooltip=" "];
+  Node8 -> Node7 [id="edge9_Node000007_Node000008",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< ClassHierarchyContext\l::Private \>",fontcolor="grey" ];
+  Node8 [id="Node000008",label="PropertyMap\< T \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dbf/class_property_map.html",tooltip="Class representing a mapping of properties and the corresponding getter function."];
+}

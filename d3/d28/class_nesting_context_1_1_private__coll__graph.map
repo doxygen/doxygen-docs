@@ -1,0 +1,11 @@
+<map id="NestingContext::Private" name="NestingContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,168,280,193"/>
+<area shape="rect" id="Node000002" href="$d6/dcb/class_generic_node_list_context.html" title="standard template list implementation" alt="" coords="5,80,185,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,112,180,165,176,169,117,116"/>
+<area shape="rect" id="Node000003" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list." alt="" coords="32,5,159,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,45,98,80,93,80,93,45"/>
+<area shape="rect" id="Node000004" href="$db/dc9/class_nesting_node_context.html" title=" " alt="" coords="210,80,367,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,116,207,169,203,165,264,112"/>
+<area shape="rect" id="Node000005" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct." alt="" coords="217,5,360,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,45,291,80,286,80,286,45"/>
+</map>

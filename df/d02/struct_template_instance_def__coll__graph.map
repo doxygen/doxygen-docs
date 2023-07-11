@@ -1,0 +1,9 @@
+<map id="TemplateInstanceDef" name="TemplateInstanceDef">
+<area shape="rect" id="Node000001" title="Class that contains information about a template instance relation." alt="" coords="17,168,177,193"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,119,48,143,59,156,73,166,69,170,55,160,44,145,38,120"/>
+<area shape="rect" id="Node000003" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="109,80,189,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,119,122,145,107,169,102,166,117,143,133,116"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="106,5,191,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,45,151,80,146,80,146,45"/>
+</map>

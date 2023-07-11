@@ -1,0 +1,21 @@
+<map id="fmt::formatter&lt; T &gt;" name="fmt::formatter&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,159,204"/>
+<area shape="rect" id="Node000002" href="$db/d75/structfmt_1_1formatter.html" title=" " alt="" coords="307,171,457,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,189,306,189,306,194,172,194"/>
+<area shape="rect" id="Node000003" href="$d9/d4a/structfmt_1_1formatter_3_01_member_type_01_4.html" title="adds support for formatting MemberType" alt="" coords="507,5,737,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,158,442,97,471,66,505,40,530,28,532,33,508,44,475,70,446,100,403,161"/>
+<area shape="rect" id="Node000004" href="$d2/d84/structfmt_1_1formatter_3_01_method_types_01_4.html" title="adds support for formatting MethodTypes" alt="" coords="507,55,737,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="410,159,453,122,505,89,536,78,538,83,508,94,456,126,414,163"/>
+<area shape="rect" id="Node000005" href="$d3/d53/structfmt_1_1formatter_3_01_protection_01_4.html" title="adds support for formatting Protected" alt="" coords="517,104,727,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="438,163,506,138,550,127,551,132,507,143,440,168"/>
+<area shape="rect" id="Node000006" href="$d1/dc4/structfmt_1_1formatter_3_01_q_c_string_01_4.html" title="adds support for formatting QCString" alt="" coords="521,153,723,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="471,179,520,174,521,179,471,185"/>
+<area shape="rect" id="Node000007" href="$db/dff/structfmt_1_1formatter_3_01_relates_type_01_4.html" title="adds support for formatting RelatesType" alt="" coords="510,203,734,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="472,198,510,201,510,207,471,203"/>
+<area shape="rect" id="Node000008" href="$db/db7/structfmt_1_1formatter_3_01_relationship_01_4.html" title="adds support for formatting RelationShip" alt="" coords="509,252,735,277"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="444,214,507,237,556,249,554,254,506,242,442,219"/>
+<area shape="rect" id="Node000009" href="$db/dad/structfmt_1_1formatter_3_01_specifier_01_4.html" title="adds support for formatting Specifier" alt="" coords="521,301,723,327"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="414,219,457,254,508,286,542,299,540,304,506,291,454,259,411,223"/>
+<area shape="rect" id="Node000010" href="$df/dca/structfmt_1_1formatter_3_01_src_lang_ext_01_4.html" title="adds support for formatting SrcLangExt" alt="" coords="513,351,731,376"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="403,222,446,281,475,311,508,336,535,348,533,353,505,340,472,315,442,284,399,225"/>
+</map>

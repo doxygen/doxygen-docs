@@ -1,0 +1,7 @@
+<map id="vhdl::parser::JJCalls" name="vhdl::parser::JJCalls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,152,123"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="167,102,179,110,170,117,152,120,152,115,168,113,173,110,164,106"/>
+<area shape="rect" id="Node000002" href="$dc/de7/classvhdl_1_1parser_1_1_token.html" title="Describes the input token stream." alt="" coords="7,7,151,33"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="81,46,81,97,76,97,76,46"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="165,11,177,20,169,28,151,31,150,25,167,23,172,20,163,16"/>
+</map>

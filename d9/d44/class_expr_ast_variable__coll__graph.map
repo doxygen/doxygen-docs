@@ -1,0 +1,7 @@
+<map id="ExprAstVariable" name="ExprAstVariable">
+<area shape="rect" id="Node000001" title="Class representing a variable in the AST." alt="" coords="28,93,153,119"/>
+<area shape="rect" id="Node000002" href="$dc/dfa/class_expr_ast.html" title="Base class for all nodes in the abstract syntax tree of an expression." alt="" coords="5,5,77,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,41,86,91,81,94,52,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="102,5,181,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,44,100,94,95,91,125,41"/>
+</map>

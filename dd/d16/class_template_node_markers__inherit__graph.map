@@ -1,0 +1,10 @@
+<map id="TemplateNodeMarkers" name="TemplateNodeMarkers">
+<area shape="rect" id="Node000001" title="Class representing an &#39;markers&#39; tag in a template." alt="" coords="21,257,189,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,204,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,222,107,257,102,257,102,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="41,5,157,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,44,107,168,101,168,97,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="121,80,323,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="132,35,204,77,201,82,129,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,116,130,170,127,166,195,112"/>
+</map>

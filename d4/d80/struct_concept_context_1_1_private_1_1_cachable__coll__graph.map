@@ -1,0 +1,23 @@
+<map id="ConceptContext::Private::Cachable" name="ConceptContext::Private::Cachable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="879,170,1059,210"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="496,5,680,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,60,774,88,856,122,937,167,934,172,853,127,773,93,693,65"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="475,84,701,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="714,135,879,169,878,174,713,140"/>
+<area shape="rect" id="Node000004" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,112,162,137"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,101,162,71,187,57,214,46,276,29,326,22,377,27,437,46,450,57,462,69,486,82,484,86,458,73,447,61,435,51,376,32,326,27,277,34,216,51,190,61,165,75,125,105"/>
+<area shape="rect" id="Node000006" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="467,241,709,296"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="132,142,171,163,215,181,276,193,326,195,376,197,437,212,461,226,492,239,490,244,459,231,435,216,375,202,326,200,276,199,214,186,169,168,130,147"/>
+<area shape="rect" id="Node000007" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="475,320,701,375"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="113,149,161,245,190,291,216,318,251,327,315,334,475,342,475,347,315,339,250,332,213,323,186,294,156,247,108,151"/>
+<area shape="rect" id="Node000008" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="460,163,716,217"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="150,105,214,91,278,78,331,66,356,64,381,67,408,75,438,92,449,105,452,120,453,135,462,148,478,160,475,165,458,152,448,137,446,121,444,108,434,96,406,80,380,72,356,70,332,72,279,84,215,97,151,111"/>
+<area shape="rect" id="Node000005" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,314,191,354"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="110,300,126,267,149,230,178,195,213,166,234,158,260,152,323,147,436,141,475,134,475,139,436,146,323,152,261,158,235,163,216,171,181,199,153,233,131,269,115,302"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="144,358,207,389,244,403,283,413,323,419,363,418,400,409,434,391,443,382,447,373,447,352,446,329,450,317,458,306,471,294,475,298,462,309,455,319,452,330,452,352,452,374,447,385,438,395,402,414,364,424,323,424,282,418,242,408,205,394,142,363"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="118,365,158,419,185,445,216,465,275,487,324,492,374,484,435,465,473,447,507,423,561,373,565,377,510,428,475,452,437,470,375,489,324,498,273,492,213,470,181,449,154,423,114,368"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="181,308,214,301,264,297,328,295,391,290,416,284,434,276,443,265,446,253,449,240,458,227,474,215,477,220,462,231,454,242,451,255,448,268,438,280,418,289,392,295,329,301,264,302,215,306,182,313"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="723,238,878,206,879,211,724,243"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="699,313,776,287,853,254,935,208,938,213,856,259,778,292,700,318"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="730,187,878,187,878,193,730,193"/>
+</map>

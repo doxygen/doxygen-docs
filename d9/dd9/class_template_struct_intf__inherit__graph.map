@@ -1,0 +1,85 @@
+<map id="TemplateStructIntf" name="TemplateStructIntf">
+<area shape="rect" id="Node000001" title="Abstract interface for a context value of type struct." alt="" coords="5,992,148,1017"/>
+<area shape="rect" id="Node000002" href="$d4/d24/class_argument_context.html" title=" " alt="" coords="251,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,978,89,780,113,481,130,330,149,197,170,96,182,61,194,40,220,22,250,14,251,19,222,27,198,44,186,64,175,97,154,198,135,331,119,482,94,780,82,979"/>
+<area shape="rect" id="Node000003" href="$dc/d38/class_class_context.html" title=" " alt="" coords="265,55,373,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="75,979,75,802,78,673,87,534,101,394,122,266,136,210,153,161,172,120,194,89,209,77,227,69,265,62,266,67,229,74,212,82,198,93,176,123,158,163,141,212,127,268,106,395,92,534,84,674,80,802,80,979"/>
+<area shape="rect" id="Node000004" href="$de/d04/class_class_hierarchy_context.html" title=" " alt="" coords="234,104,405,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="75,978,76,809,81,688,90,556,104,425,125,305,139,252,155,206,173,168,194,139,212,125,233,117,235,122,215,130,198,143,178,171,160,208,144,254,130,306,109,426,95,557,86,688,82,809,80,978"/>
+<area shape="rect" id="Node000005" href="$dc/dfb/class_class_index_context.html" title=" " alt="" coords="247,153,391,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="75,978,78,817,83,703,93,580,107,457,128,344,157,251,174,215,194,188,218,171,246,163,248,168,220,176,198,192,179,218,162,253,133,345,112,457,98,580,89,704,83,817,81,978"/>
+<area shape="rect" id="Node000006" href="$dc/da3/class_class_inheritance_node_context.html" title=" " alt="" coords="212,203,427,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="76,978,80,827,96,604,110,489,131,383,158,296,175,263,194,237,210,225,213,229,198,241,180,266,163,298,136,384,116,489,101,604,85,827,81,978"/>
+<area shape="rect" id="Node000007" href="$d1/d32/class_class_members_index_context.html" title=" " alt="" coords="217,252,422,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="76,978,82,834,99,627,114,520,134,422,160,341,176,310,194,287,215,272,218,276,198,291,181,313,165,343,139,423,119,521,104,627,87,835,81,978"/>
+<area shape="rect" id="Node000008" href="$dc/d6f/class_class_tree_context.html" title=" " alt="" coords="252,301,387,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="76,978,83,844,102,651,117,552,137,461,162,387,177,358,194,336,221,319,251,310,252,316,223,324,198,340,182,361,167,389,142,462,122,553,107,651,89,844,81,978"/>
+<area shape="rect" id="Node000009" href="$d9/da3/class_concept_context.html" title=" " alt="" coords="256,351,383,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="77,978,85,853,105,674,121,583,140,500,164,432,178,405,194,385,222,367,255,359,256,365,225,372,198,389,183,408,169,434,145,501,126,584,110,675,91,853,82,978"/>
+<area shape="rect" id="Node000010" href="$d8/d4c/class_concept_tree_context.html" title=" " alt="" coords="243,400,396,425"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="77,978,87,862,108,698,124,615,143,539,166,477,180,453,194,435,216,420,241,411,243,416,219,424,198,439,184,456,171,479,148,541,129,616,114,699,92,862,82,979"/>
+<area shape="rect" id="Node000011" href="$d0/dd1/class_config_context.html" title=" " alt="" coords="262,449,377,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="78,978,89,870,112,722,127,647,146,578,168,522,194,484,209,473,226,465,261,458,262,463,227,470,212,478,198,488,173,525,151,580,133,648,117,723,95,871,83,979"/>
+<area shape="rect" id="Node000012" href="$d5/dca/class_dir_context.html" title=" " alt="" coords="273,499,365,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="78,978,91,880,115,746,131,679,149,617,170,567,194,533,212,521,232,513,273,506,274,512,233,518,214,526,198,537,175,570,154,619,136,680,120,747,97,881,84,979"/>
+<area shape="rect" id="Node000013" href="$de/d68/class_doxygen_context.html" title=" " alt="" coords="254,548,385,573"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="79,978,94,889,119,770,152,657,172,613,194,583,222,566,253,558,254,563,224,571,198,587,177,615,157,659,124,772,99,890,84,979"/>
+<area shape="rect" id="Node000014" href="$d5/d67/class_example_tree_context.html" title=" " alt="" coords="241,597,398,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="75,978,80,908,96,815,111,765,132,716,159,671,194,632,216,618,240,610,242,615,218,623,198,636,163,674,136,718,116,767,101,816,85,909,81,978"/>
+<area shape="rect" id="Node000015" href="$d3/db7/class_file_context.html" title=" " alt="" coords="271,647,367,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="77,978,84,916,103,836,118,793,138,752,163,714,194,681,212,670,231,662,271,655,271,661,233,667,214,675,198,685,167,717,142,755,123,796,108,837,89,917,82,978"/>
+<area shape="rect" id="Node000016" href="$d6/dfa/class_file_tree_context.html" title=" " alt="" coords="258,696,381,721"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="79,978,89,925,110,858,125,823,144,789,167,758,194,731,224,714,257,707,259,712,226,719,198,735,171,761,148,792,129,825,115,860,94,927,84,979"/>
+<area shape="rect" id="Node000017" href="$da/dba/class_globals_index_context.html" title=" " alt="" coords="240,745,399,771"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="82,977,95,934,117,880,150,825,171,801,194,780,216,768,239,760,240,765,218,773,198,784,174,805,154,828,122,882,100,935,87,979"/>
+<area shape="rect" id="Node000018" href="$d2/dfe/class_include_info_context.html" title=" " alt="" coords="247,795,392,820"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="85,978,101,944,125,903,156,863,195,829,219,817,246,809,247,814,221,822,197,834,160,866,129,906,106,946,90,980"/>
+<area shape="rect" id="Node000019" href="$d2/d30/class_inheritance_graph_context.html" title=" " alt="" coords="227,844,412,869"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="92,979,134,927,162,900,195,878,226,866,228,871,197,883,166,905,138,931,96,982"/>
+<area shape="rect" id="Node000020" href="$d6/d29/class_inheritance_node_context.html" title=" " alt="" coords="229,893,409,919"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="103,982,145,953,195,928,231,916,233,921,197,932,148,958,106,986"/>
+<area shape="rect" id="Node000021" href="$d7/dd6/class_inherited_member_info_context.html" title=" " alt="" coords="214,943,425,968"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="149,987,195,977,252,965,253,971,197,982,150,992"/>
+<area shape="rect" id="Node000022" href="$d5/d43/class_member_context.html" title=" " alt="" coords="256,992,383,1017"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="162,1002,256,1002,256,1007,162,1007"/>
+<area shape="rect" id="Node000023" href="$d1/d7e/class_member_group_info_context.html" title=" " alt="" coords="224,1041,415,1067"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="154,1017,257,1039,255,1044,153,1023"/>
+<area shape="rect" id="Node000024" href="$d4/d22/class_member_info_context.html" title=" " alt="" coords="243,1091,395,1116"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="107,1023,148,1051,197,1076,244,1090,242,1095,195,1080,145,1055,104,1028"/>
+<area shape="rect" id="Node000025" href="$d8/df1/class_member_list_info_context.html" title=" " alt="" coords="232,1140,407,1165"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="96,1027,138,1078,166,1104,197,1125,233,1139,231,1144,195,1130,163,1108,134,1081,92,1030"/>
+<area shape="rect" id="Node000026" href="$d2/d73/class_module_context.html" title=" " alt="" coords="259,1189,380,1215"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="90,1029,106,1063,130,1102,160,1142,197,1174,227,1189,259,1196,258,1201,225,1194,195,1179,156,1145,125,1105,102,1065,86,1031"/>
+<area shape="rect" id="Node000027" href="$dc/d32/class_module_node_context.html" title=" " alt="" coords="242,1239,397,1264"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="87,1030,100,1073,122,1126,154,1180,175,1203,198,1224,219,1236,242,1243,241,1249,217,1241,194,1228,171,1207,150,1183,118,1129,95,1075,82,1032"/>
+<area shape="rect" id="Node000028" href="$d3/d7a/class_module_tree_context.html" title=" " alt="" coords="245,1288,393,1313"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="84,1031,95,1083,115,1149,130,1184,149,1217,171,1247,198,1273,220,1287,246,1295,244,1300,218,1291,194,1277,167,1251,144,1220,125,1186,110,1151,89,1084,79,1032"/>
+<area shape="rect" id="Node000029" href="$de/d00/class_namespace_context.html" title=" " alt="" coords="244,1337,395,1363"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="82,1031,90,1091,108,1171,123,1213,143,1253,167,1291,198,1323,219,1336,244,1344,243,1349,217,1341,194,1327,163,1294,138,1256,118,1215,103,1172,84,1092,77,1031"/>
+<area shape="rect" id="Node000030" href="$d2/d4a/class_namespace_members_index_context.html" title=" " alt="" coords="196,1387,443,1412"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="81,1031,85,1100,101,1192,116,1242,137,1290,164,1334,198,1372,216,1384,213,1389,194,1376,159,1337,132,1292,111,1243,96,1194,80,1100,75,1031"/>
+<area shape="rect" id="Node000031" href="$d8/dd0/class_namespace_tree_context.html" title=" " alt="" coords="231,1436,408,1461"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="84,1031,99,1119,124,1237,158,1350,177,1393,198,1421,213,1432,231,1440,229,1445,211,1437,194,1425,172,1395,153,1352,119,1239,94,1120,79,1032"/>
+<area shape="rect" id="Node000032" href="$df/d82/class_nav_path_elem_context.html" title=" " alt="" coords="239,1485,399,1511"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="84,1030,97,1128,121,1261,136,1328,154,1389,175,1438,198,1471,217,1484,240,1492,238,1497,215,1489,194,1475,170,1441,149,1391,131,1330,115,1262,92,1129,78,1031"/>
+<area shape="rect" id="Node000033" href="$db/dc9/class_nesting_node_context.html" title=" " alt="" coords="241,1535,398,1560"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="83,1031,95,1139,117,1286,133,1361,152,1428,173,1484,198,1520,218,1534,241,1542,240,1547,215,1539,194,1524,169,1486,147,1430,128,1362,112,1287,90,1139,78,1032"/>
+<area shape="rect" id="Node000034" href="$db/dc8/class_page_context.html" title=" " alt="" coords="267,1584,371,1609"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="82,1031,93,1147,114,1309,129,1392,148,1467,171,1529,184,1552,198,1569,213,1581,230,1588,267,1596,266,1601,228,1594,210,1585,194,1573,180,1555,166,1531,143,1469,124,1393,109,1310,87,1147,77,1031"/>
+<area shape="rect" id="Node000035" href="$d7/dea/class_page_tree_context.html" title=" " alt="" coords="254,1633,385,1659"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="82,1031,91,1156,111,1333,126,1424,145,1507,169,1574,183,1600,198,1619,224,1636,254,1644,253,1649,221,1640,194,1623,179,1603,165,1576,140,1508,121,1425,105,1334,85,1156,77,1031"/>
+<area shape="rect" id="Node000036" href="$da/ddb/class_search_index_context.html" title=" " alt="" coords="243,1683,396,1708"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="82,1031,89,1165,108,1357,123,1456,142,1546,167,1619,182,1647,198,1668,219,1683,244,1691,242,1696,216,1688,194,1672,177,1650,163,1621,137,1547,117,1457,102,1358,83,1165,76,1031"/>
+<area shape="rect" id="Node000037" href="$d0/d4b/class_symbol_context.html" title=" " alt="" coords="258,1732,381,1757"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="81,1031,87,1174,104,1381,119,1488,140,1585,166,1664,181,1695,198,1717,226,1735,258,1743,257,1748,223,1740,194,1721,176,1698,161,1667,134,1586,114,1489,99,1382,82,1174,76,1032"/>
+<area shape="rect" id="Node000038" href="$d7/d10/class_symbol_group_context.html" title=" " alt="" coords="239,1781,400,1807"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="81,1031,85,1182,101,1404,116,1519,137,1624,164,1710,180,1742,198,1767,217,1781,240,1789,238,1794,214,1785,194,1771,175,1745,159,1712,131,1625,111,1520,96,1405,80,1182,76,1031"/>
+<area shape="rect" id="Node000039" href="$d3/db8/class_symbol_index_context.html" title=" " alt="" coords="240,1831,399,1856"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="81,1031,84,1191,89,1305,98,1428,113,1551,134,1663,162,1755,179,1790,198,1816,217,1830,241,1839,239,1844,215,1835,194,1820,174,1793,157,1757,128,1664,108,1552,93,1429,84,1305,78,1192,75,1031"/>
+<area shape="rect" id="Node000040" href="$d6/d73/class_template_immutable_struct.html" title="Default implementation of an immutable context value of type struct." alt="" coords="224,1880,415,1905"/>
+<area shape="poly" id="edge39_Node000001_Node000040" title=" " alt="" coords="80,1031,82,1200,87,1321,95,1452,110,1582,131,1702,144,1754,160,1800,178,1837,198,1865,225,1883,222,1888,194,1869,173,1840,155,1802,139,1756,125,1703,104,1583,90,1452,81,1321,77,1200,75,1031"/>
+<area shape="rect" id="Node000041" href="$d8/d4b/class_template_struct.html" title="Default implementation of a context value of type struct." alt="" coords="259,1929,379,1955"/>
+<area shape="poly" id="edge40_Node000001_Node000041" title=" " alt="" coords="80,1032,80,1209,84,1336,92,1475,106,1614,128,1741,142,1797,158,1845,177,1885,198,1915,211,1926,226,1933,259,1941,258,1946,224,1938,208,1930,194,1918,172,1888,153,1847,137,1798,123,1742,101,1615,87,1476,79,1337,75,1209,75,1032"/>
+<area shape="rect" id="Node000042" href="$d2/dbb/class_translate_context.html" title=" " alt="" coords="253,1979,385,2004"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="82,1031,95,1229,119,1527,135,1677,154,1810,175,1911,186,1944,198,1964,223,1981,254,1990,252,1995,221,1986,194,1968,182,1947,170,1912,149,1811,130,1678,114,1527,89,1229,77,1031"/>
+</map>

@@ -1,0 +1,19 @@
+digraph "PythonOutlineParser::Private"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="PythonOutlineParser\l::Private",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" state",fontcolor="grey" ];
+  Node2 [id="Node000002",label="pyscannerYY_state",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/dcc/structpyscanner_y_y__state.html",tooltip=" "];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" commentScanner",fontcolor="grey" ];
+  Node3 [id="Node000003",label="CommentScanner",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d6b/class_comment_scanner.html",tooltip=" "];
+  Node4 -> Node2 [id="edge3_Node000002_Node000004",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" thisParser",fontcolor="grey" ];
+  Node4 [id="Node000004",label="OutlineParserInterface",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d79/class_outline_parser_interface.html",tooltip="Abstract interface for outline parsers."];
+  Node5 -> Node2 [id="edge4_Node000002_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" argType\ndocBlock\nfileName\nmoduleScope\npackageName\nprogramStr",fontcolor="grey" ];
+  Node5 [id="Node000005",label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node6 -> Node2 [id="edge5_Node000002_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" copyString\ndefVal",fontcolor="grey" ];
+  Node6 [id="Node000006",label="TextStream",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/d30/class_text_stream.html",tooltip="Text streaming class that buffers data."];
+}

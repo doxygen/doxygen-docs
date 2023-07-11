@@ -1,0 +1,10 @@
+<map id="TemplateNodeIf" name="TemplateNodeIf">
+<area shape="rect" id="Node000001" title="Class representing an &#39;if&#39; tag in a template." alt="" coords="25,257,150,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,169,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,222,90,257,85,257,85,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="24,5,140,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,44,89,168,84,168,80,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="103,80,306,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="115,35,186,77,184,82,112,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="181,116,113,170,110,166,178,112"/>
+</map>

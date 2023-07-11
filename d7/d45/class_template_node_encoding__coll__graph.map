@@ -1,0 +1,18 @@
+<map id="TemplateNodeEncoding" name="TemplateNodeEncoding">
+<area shape="rect" id="Node000001" title="Class representing the &#39;encoding&#39; tag in a template." alt="" coords="220,299,395,324"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="107,196,313,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,243,297,296,293,300,238,247"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,44,47,87,47,110,54,132,67,153,86,170,131,194,128,198,83,174,63,156,49,134,42,111,42,86,51,43"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="136,9,148,18,140,26,122,28,121,23,138,21,143,18,134,14"/>
+<area shape="rect" id="Node000005" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="63,101,266,126"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="88,38,154,99,150,103,84,42"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="255,5,333,31"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="304,43,310,72,313,105,310,141,298,173,286,187,271,198,268,194,282,184,293,171,305,139,308,105,305,72,299,45"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="242,31,201,43,175,56,166,78,166,100,160,100,161,77,171,53,199,38,241,26"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="129,135,110,152,107,161,110,171,121,183,136,194,133,198,118,187,105,173,101,161,105,150,125,131"/>
+<area shape="rect" id="Node000006" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template." alt="" coords="414,203,553,229"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="451,237,330,301,328,296,448,233"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="461,93,661,133"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="540,146,495,204,490,201,536,143"/>
+</map>

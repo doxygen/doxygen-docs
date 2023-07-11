@@ -1,0 +1,24 @@
+<map id="MemberInfoContext::Private" name="MemberInfoContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1007,169,1167,209"/>
+<area shape="rect" id="Node000002" href="$d5/d86/class_member_info.html" title="Data associated with a MemberDef in an inheritance relation." alt="" coords="677,100,779,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,123,1007,169,1006,174,792,129"/>
+<area shape="rect" id="Node000003" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="183,5,282,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,18,427,28,504,39,579,54,645,75,700,97,698,102,643,80,578,59,503,44,427,34,296,23"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,31,91,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,33,182,22,183,27,105,38"/>
+<area shape="rect" id="Node000006" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="193,55,273,80"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="105,48,193,60,192,65,104,53"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="193,113,272,139"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="286,124,419,125,579,122,677,115,677,120,579,127,419,131,286,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="287,68,579,93,677,104,677,109,578,98,286,74"/>
+<area shape="rect" id="Node000007" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="615,161,841,216"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="854,186,1006,186,1006,191,854,191"/>
+<area shape="rect" id="Node000008" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="169,163,297,188"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="311,175,615,183,615,188,310,180"/>
+<area shape="rect" id="Node000009" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="140,230,325,270"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="339,249,454,245,578,231,650,213,651,219,579,237,455,251,339,255"/>
+<area shape="rect" id="Node000010" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="603,265,853,305"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="816,259,1010,206,1011,211,817,264"/>
+<area shape="rect" id="Node000011" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="161,297,304,323"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="318,311,441,312,578,306,615,302,615,307,579,311,441,317,318,316"/>
+</map>

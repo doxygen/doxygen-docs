@@ -1,0 +1,44 @@
+<map id="DocRef" name="DocRef">
+<area shape="rect" id="Node000001" title="Node representing a reference to some item." alt="" coords="2123,425,2192,450"/>
+<area shape="rect" id="Node000002" href="$da/dfc/class_doc_compound_node.html" title="Base class for nodes with children." alt="" coords="1923,225,2073,250"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2020,260,2148,423,2144,426,2016,263"/>
+<area shape="rect" id="Node000003" href="$d9/d0e/class_doc_node.html" title="Abstract node interface with type information." alt="" coords="1705,225,1786,250"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1800,235,1922,235,1922,240,1800,240"/>
+<area shape="rect" id="Node000004" href="$da/d02/class_doc_parser.html" title=" " alt="" coords="1421,225,1507,250"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1521,235,1704,235,1704,240,1521,240"/>
+<area shape="rect" id="Node000005" href="$de/dad/class_i_doc_parser.html" title="opaque parser interface" alt="" coords="1045,225,1136,250"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1150,235,1421,235,1421,240,1150,240"/>
+<area shape="rect" id="Node000006" href="$d8/d7d/struct_doc_parser_context.html" title="Parser&#39;s context to store all global variables." alt="" coords="1021,274,1160,299"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1173,274,1324,255,1420,241,1421,246,1324,260,1174,279"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="313,62,398,87"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="410,56,534,30,612,20,695,17,779,23,860,42,899,57,935,76,969,100,999,129,1011,146,1015,163,1012,196,1010,229,1013,245,1023,261,1037,272,1034,276,1019,264,1008,247,1004,229,1007,196,1010,164,1006,148,995,132,966,104,933,81,897,62,859,47,778,28,695,22,612,25,535,35,412,61"/>
+<area shape="rect" id="Node000013" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="734,105,833,130"/>
+<area shape="poly" id="edge13_Node000013_Node000007" title=" " alt="" coords="412,78,734,110,734,115,411,83"/>
+<area shape="rect" id="Node000008" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="316,446,395,471"/>
+<area shape="poly" id="edge22_Node000001_Node000008" title=" " alt="" coords="409,467,491,480,636,496,782,500,1999,500,2039,495,2077,481,2137,448,2140,453,2080,486,2040,500,2000,505,782,505,636,501,490,485,408,472"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="373,433,421,383,454,358,490,338,525,327,569,320,674,313,862,307,1021,291,1021,296,863,312,674,318,570,325,526,332,492,342,457,362,425,387,377,437"/>
+<area shape="rect" id="Node000014" href="$d6/df4/struct_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="741,370,825,395"/>
+<area shape="poly" id="edge15_Node000014_Node000008" title=" " alt="" coords="409,465,465,472,534,475,608,470,679,455,706,443,730,427,768,394,771,398,734,431,708,447,681,460,608,476,534,480,465,477,408,471"/>
+<area shape="rect" id="Node000009" href="$d9/d82/class_iterable_stack.html" title=" " alt="" coords="704,155,863,195"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="839,198,864,211,888,223,967,251,1040,271,1038,277,965,256,886,228,861,216,836,203"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="244,181,467,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="480,196,704,178,704,183,481,201"/>
+<area shape="rect" id="Node000011" href="$d9/d82/class_iterable_stack.html" title=" " alt="" coords="247,131,464,157"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="478,150,704,166,704,172,478,155"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="32,124,168,164"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="182,141,247,141,247,147,182,147"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="840,132,863,140,904,151,937,158,967,169,999,194,1010,212,1012,229,1014,245,1023,261,1039,272,1036,276,1019,264,1009,247,1007,230,1005,214,995,198,965,174,935,163,902,156,862,145,838,137"/>
+<area shape="poly" id="edge14_Node000006_Node000014" title=" " alt="" coords="839,380,915,373,957,365,996,352,1041,326,1075,298,1078,302,1044,331,998,357,958,370,916,379,839,386"/>
+<area shape="rect" id="Node000015" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="299,265,412,290"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="426,279,547,295,615,310,681,332,705,348,748,367,746,372,703,353,679,337,614,316,546,300,425,284"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="5,265,195,290"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="208,275,298,275,298,280,208,280"/>
+<area shape="rect" id="Node000017" href="$d1/d7f/class_doc_tokenizer.html" title=" " alt="" coords="1037,175,1145,201"/>
+<area shape="poly" id="edge18_Node000004_Node000017" title=" " alt="" coords="1159,194,1324,216,1421,229,1420,234,1324,221,1158,199"/>
+<area shape="rect" id="Node000018" href="$d9/dd3/struct_doc_node_list.html" title=" " alt="" coords="1693,163,1797,189"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="1812,189,1945,222,1944,227,1810,194"/>
+<area shape="rect" id="Node000019" href="$d0/d08/class_grow_vector.html" title=" " alt="" coords="1348,133,1580,158"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="1594,157,1693,168,1693,173,1593,162"/>
+<area shape="rect" id="Node000020" href="$d0/d08/class_grow_vector.html" title="std::vector like container optimised for pushing elements to the back." alt="" coords="1023,126,1158,151"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1172,137,1348,141,1348,146,1172,143"/>
+</map>

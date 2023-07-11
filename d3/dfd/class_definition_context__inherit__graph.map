@@ -1,0 +1,35 @@
+<map id="DefinitionContext&lt; T &gt;" name="DefinitionContext&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,237,180,262"/>
+<area shape="rect" id="Node000002" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="442,5,623,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,222,115,188,137,148,166,109,203,76,260,48,323,30,385,21,442,18,442,24,385,26,324,35,262,53,205,81,170,113,141,151,120,191,105,225"/>
+<area shape="rect" id="Node000004" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="433,69,632,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,225,150,185,175,165,203,148,260,125,320,109,379,98,433,91,433,96,379,103,321,114,261,130,205,153,178,169,154,189,115,228"/>
+<area shape="rect" id="Node000006" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="450,133,615,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,229,203,205,332,178,449,160,450,165,333,183,205,211,137,234"/>
+<area shape="rect" id="Node000008" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="448,197,617,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="194,239,448,221,448,226,194,245"/>
+<area shape="rect" id="Node000010" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="433,261,633,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="194,258,204,259,433,274,432,279,204,264,194,263"/>
+<area shape="rect" id="Node000012" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="435,325,630,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="133,265,205,292,324,318,436,334,435,339,323,323,203,297,131,270"/>
+<area shape="rect" id="Node000014" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="421,389,644,429"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="111,272,150,321,176,345,205,364,258,386,313,399,369,407,421,411,421,416,368,413,312,405,256,391,203,369,173,349,146,324,107,275"/>
+<area shape="rect" id="Node000016" href="$d6/d49/class_definition_context.html" title=" " alt="" coords="444,453,621,493"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="104,275,118,311,139,354,168,396,206,430,233,445,262,457,325,473,387,479,444,480,444,485,386,485,324,478,261,462,231,450,202,434,164,399,134,356,113,313,99,276"/>
+<area shape="rect" id="Node000003" href="$d5/d54/class_class_context_1_1_private.html" title=" " alt="" coords="714,13,877,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="637,23,714,23,714,28,637,28"/>
+<area shape="rect" id="Node000005" href="$d8/d61/class_concept_context_1_1_private.html" title=" " alt="" coords="705,77,885,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="646,87,705,87,705,92,646,92"/>
+<area shape="rect" id="Node000007" href="$dc/db1/class_dir_context_1_1_private.html" title=" " alt="" coords="722,141,869,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="629,151,722,151,722,156,629,156"/>
+<area shape="rect" id="Node000009" href="$d4/d72/class_file_context_1_1_private.html" title=" " alt="" coords="720,205,871,230"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="631,215,720,215,720,220,631,220"/>
+<area shape="rect" id="Node000011" href="$dd/d99/class_member_context_1_1_private.html" title=" " alt="" coords="705,269,886,294"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="646,279,705,279,705,284,646,284"/>
+<area shape="rect" id="Node000013" href="$df/d2a/class_module_context_1_1_private.html" title=" " alt="" coords="708,333,883,358"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="644,343,708,343,708,348,644,348"/>
+<area shape="rect" id="Node000015" href="$d8/dcf/class_namespace_context_1_1_private.html" title=" " alt="" coords="693,397,897,422"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="658,407,693,407,693,412,658,412"/>
+<area shape="rect" id="Node000017" href="$d3/d45/class_page_context_1_1_private.html" title=" " alt="" coords="716,461,875,486"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="635,471,716,471,716,476,635,476"/>
+</map>

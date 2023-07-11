@@ -1,0 +1,15 @@
+<map id="MemberGroup" name="MemberGroup">
+<area shape="rect" id="Node000001" title="A class representing a group of members." alt="" coords="107,300,221,325"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,168,91,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,206,58,241,65,259,75,274,92,288,112,298,110,302,89,292,71,278,60,261,53,243,46,207"/>
+<area shape="rect" id="Node000003" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects as shown in documentation sections." alt="" coords="115,168,213,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,207,167,300,161,300,161,207"/>
+<area shape="rect" id="Node000004" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="53,80,171,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="128,116,159,166,154,169,124,119"/>
+<area shape="rect" id="Node000005" href="$d4/d15/class_member_group_ref_list.html" title=" " alt="" coords="195,80,355,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="250,116,181,170,177,166,247,112"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="162,5,387,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="277,45,277,80,272,80,272,45"/>
+<area shape="rect" id="Node000007" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="249,168,327,193"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="289,207,281,243,272,262,261,278,242,292,221,302,218,298,239,288,257,274,268,259,276,241,284,206"/>
+</map>

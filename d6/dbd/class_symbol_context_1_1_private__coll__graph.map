@@ -1,0 +1,15 @@
+<map id="SymbolContext::Private" name="SymbolContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="775,72,951,97"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="498,8,583,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,29,799,69,798,75,596,34"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="428,57,653,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="667,82,774,82,774,87,667,87"/>
+<area shape="rect" id="Node000004" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,5,162,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,19,285,28,404,45,449,55,448,60,404,50,284,33,176,24"/>
+<area shape="rect" id="Node000005" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,73,191,113"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="204,91,404,89,428,88,428,93,404,94,204,96"/>
+<area shape="rect" id="Node000006" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="431,137,651,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="644,131,804,95,806,100,645,136"/>
+<area shape="rect" id="Node000007" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,144,169,169"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="183,154,430,154,430,159,183,159"/>
+</map>

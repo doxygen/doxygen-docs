@@ -1,0 +1,14 @@
+digraph "/home/runner/work/doxygen/doxygen/src"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  dir_68267d1309a1af8e8297ef4c3efbcdba [label="src", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html",tooltip=""];
+  dir_22a14ce9b939c27d3887fa5d85db7abb [label="libxml", fillcolor="#edf0f7", color="grey25", style="filled", URL="dir_22a14ce9b939c27d3887fa5d85db7abb.html",tooltip=""];
+  dir_534aeb5b2351b2c83787cc7391511c04 [label="vhdlparser", fillcolor="#edf0f7", color="grey25", style="filled", URL="dir_534aeb5b2351b2c83787cc7391511c04.html",tooltip=""];
+  dir_68267d1309a1af8e8297ef4c3efbcdba->dir_22a14ce9b939c27d3887fa5d85db7abb [headlabel="2", labeldistance=1.5 headhref="dir_000002_000001.html" color="steelblue1" fontcolor="steelblue1"];
+  dir_68267d1309a1af8e8297ef4c3efbcdba->dir_534aeb5b2351b2c83787cc7391511c04 [headlabel="3", labeldistance=1.5 headhref="dir_000002_000003.html" color="steelblue1" fontcolor="steelblue1"];
+}

@@ -1,0 +1,15 @@
+<map id="PageDefImpl" name="PageDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,243,310,268"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="155,168,360,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,208,260,242,255,242,255,208"/>
+<area shape="rect" id="Node000003" href="$dd/d41/class_page_def.html" title="A model of a page symbol." alt="" coords="143,80,219,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,114,249,166,245,169,199,118"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,36,166,78,163,82,102,41"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="168,5,253,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="203,45,189,81,184,79,198,43"/>
+<area shape="rect" id="Node000006" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="243,80,426,105"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="317,118,270,169,266,166,313,114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="307,5,362,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="337,45,337,80,332,80,332,45"/>
+</map>

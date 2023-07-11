@@ -1,0 +1,14 @@
+<map id="TranslatorAdapter_1_9_4" name="TranslatorAdapter_1_9_4">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,392,188,417"/>
+<area shape="rect" id="Node000002" href="$dd/dba/class_translator_adapter__1__9__5.html" title=" " alt="" coords="5,317,188,343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,357,99,392,94,392,94,357"/>
+<area shape="rect" id="Node000003" href="$db/d71/class_translator_adapter__1__9__6.html" title=" " alt="" coords="5,243,188,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,282,99,317,94,317,94,282"/>
+<area shape="rect" id="Node000004" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="12,168,181,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,208,99,242,94,242,94,208"/>
+<area shape="rect" id="Node000005" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="48,5,135,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="95,44,99,168,94,168,90,45"/>
+<area shape="rect" id="Node000006" href="$d6/d78/class_translator_english.html" title=" " alt="" coords="113,80,246,105"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="118,38,167,77,163,82,114,42"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="161,117,110,169,106,166,157,114"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NavPathElemContext::Private" name="NavPathElemContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,165,251"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,115,91,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,152,81,210,76,211,54,154"/>
+<area shape="rect" id="Node000003" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="115,108,322,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,158,112,213,109,208,181,154"/>
+<area shape="rect" id="Node000004" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="147,5,290,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,45,221,108,216,108,216,45"/>
+</map>

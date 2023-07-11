@@ -1,0 +1,10 @@
+<map id="TemplateNodeIndexEntry" name="TemplateNodeIndexEntry">
+<area shape="rect" id="Node000001" title="Class representing an &#39;indexentry&#39; tag in a template." alt="" coords="20,257,207,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,221,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,222,116,257,111,257,111,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="50,5,166,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,44,115,168,110,168,106,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="129,80,332,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="141,35,212,77,210,82,138,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="207,116,139,170,136,166,204,112"/>
+</map>

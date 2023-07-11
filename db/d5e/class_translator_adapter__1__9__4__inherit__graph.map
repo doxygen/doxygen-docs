@@ -1,0 +1,95 @@
+<map id="TranslatorAdapter_1_9_4" name="TranslatorAdapter_1_9_4">
+<area shape="rect" id="Node000001" title=" " alt="" coords="819,795,1001,820"/>
+<area shape="rect" id="Node000006" href="$d3/d2e/class_translator_adapter__1__9__2.html" title=" " alt="" coords="1049,720,1232,745"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="957,787,1049,755,1091,743,1093,748,1050,761,959,792"/>
+<area shape="rect" id="Node000045" href="$da/dbb/class_translator_bulgarian.html" title=" " alt="" coords="1067,769,1215,795"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="1015,793,1066,787,1067,793,1015,798"/>
+<area shape="rect" id="Node000046" href="$d6/db6/class_translator_chinese.html" title=" " alt="" coords="1071,819,1210,844"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="1015,816,1072,822,1071,827,1015,821"/>
+<area shape="rect" id="Node000047" href="$d1/d8a/class_translator_hindi.html" title=" " alt="" coords="1081,868,1201,893"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="958,822,1050,854,1089,865,1088,871,1049,859,956,827"/>
+<area shape="rect" id="Node000002" href="$dd/dba/class_translator_adapter__1__9__5.html" title=" " alt="" coords="588,795,771,820"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="784,805,818,805,818,810,784,810"/>
+<area shape="rect" id="Node000003" href="$db/d71/class_translator_adapter__1__9__6.html" title=" " alt="" coords="357,795,540,820"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,805,588,805,588,810,553,810"/>
+<area shape="rect" id="Node000004" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="140,795,309,820"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="323,805,357,805,357,810,323,810"/>
+<area shape="rect" id="Node000005" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="5,795,92,820"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,805,140,805,140,810,106,810"/>
+<area shape="rect" id="Node000007" href="$de/dde/class_translator_adapter__1__8__19.html" title=" " alt="" coords="1280,720,1471,745"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1246,730,1280,730,1280,735,1246,735"/>
+<area shape="rect" id="Node000008" href="$d4/d2e/class_translator_adapter__1__8__15.html" title=" " alt="" coords="1519,720,1709,745"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1485,730,1519,730,1519,735,1485,735"/>
+<area shape="rect" id="Node000009" href="$de/d2f/class_translator_adapter__1__8__4.html" title=" " alt="" coords="1769,497,1951,523"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1624,706,1644,667,1673,620,1710,573,1756,533,1781,520,1784,525,1759,538,1714,577,1677,623,1648,670,1629,708"/>
+<area shape="rect" id="Node000036" href="$dd/df6/class_translator_chinesetraditional.html" title=" " alt="" coords="1757,547,1963,572"/>
+<area shape="poly" id="edge35_Node000008_Node000036" title=" " alt="" coords="1630,707,1681,644,1716,611,1756,582,1785,570,1787,575,1759,587,1720,615,1685,648,1634,710"/>
+<area shape="rect" id="Node000037" href="$d6/d07/class_translator_german.html" title=" " alt="" coords="1791,596,1929,621"/>
+<area shape="poly" id="edge36_Node000008_Node000037" title=" " alt="" coords="1639,709,1691,669,1756,632,1792,619,1794,624,1758,636,1694,674,1642,713"/>
+<area shape="rect" id="Node000038" href="$db/d5f/class_translator_hungarian.html" title=" " alt="" coords="1783,645,1937,671"/>
+<area shape="poly" id="edge37_Node000008_Node000038" title=" " alt="" coords="1661,713,1757,681,1803,668,1804,673,1758,686,1663,718"/>
+<area shape="rect" id="Node000039" href="$d2/df8/class_translator_italian.html" title=" " alt="" coords="1797,695,1923,720"/>
+<area shape="poly" id="edge38_Node000008_Node000039" title=" " alt="" coords="1723,719,1796,711,1797,716,1723,724"/>
+<area shape="rect" id="Node000040" href="$d1/d6a/class_translator_japanese.html" title=" " alt="" coords="1787,744,1933,769"/>
+<area shape="poly" id="edge39_Node000008_Node000040" title=" " alt="" coords="1723,741,1787,747,1787,752,1723,746"/>
+<area shape="rect" id="Node000041" href="$db/dcc/class_translator_korean.html" title=" " alt="" coords="1795,793,1925,819"/>
+<area shape="poly" id="edge40_Node000008_Node000041" title=" " alt="" coords="1663,748,1758,779,1801,791,1800,796,1757,785,1661,753"/>
+<area shape="rect" id="Node000042" href="$da/d32/class_translator_romanian.html" title=" " alt="" coords="1784,843,1936,868"/>
+<area shape="poly" id="edge41_Node000008_Node000042" title=" " alt="" coords="1642,752,1694,792,1758,829,1790,840,1788,845,1756,834,1691,796,1639,757"/>
+<area shape="rect" id="Node000043" href="$d0/dab/class_translator_russian.html" title=" " alt="" coords="1791,892,1929,917"/>
+<area shape="poly" id="edge42_Node000008_Node000043" title=" " alt="" coords="1634,755,1685,818,1720,851,1759,878,1792,892,1790,897,1756,883,1716,855,1681,821,1630,759"/>
+<area shape="rect" id="Node000044" href="$d2/d53/class_translator_slovak.html" title=" " alt="" coords="1795,941,1925,967"/>
+<area shape="poly" id="edge43_Node000008_Node000044" title=" " alt="" coords="1629,757,1648,795,1677,842,1714,889,1759,928,1795,944,1793,948,1756,932,1710,892,1672,845,1643,798,1624,759"/>
+<area shape="rect" id="Node000010" href="$d2/d75/class_translator_adapter__1__8__2.html" title=" " alt="" coords="2011,424,2193,449"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1912,490,2010,459,2054,447,2055,452,2011,465,1914,495"/>
+<area shape="rect" id="Node000033" href="$d2/d07/class_translator_esperanto.html" title=" " alt="" coords="2027,473,2177,499"/>
+<area shape="poly" id="edge32_Node000009_Node000033" title=" " alt="" coords="1965,497,2026,491,2027,496,1965,502"/>
+<area shape="rect" id="Node000034" href="$d8/d83/class_translator_latvian.html" title=" " alt="" coords="2035,523,2169,548"/>
+<area shape="poly" id="edge33_Node000009_Node000034" title=" " alt="" coords="1965,518,2035,526,2034,531,1965,524"/>
+<area shape="rect" id="Node000035" href="$d1/d56/class_translator_ukrainian.html" title=" " alt="" coords="2027,572,2177,597"/>
+<area shape="poly" id="edge34_Node000009_Node000035" title=" " alt="" coords="1937,524,1964,533,1988,546,2012,558,2046,569,2044,574,2010,563,1985,550,1962,538,1935,529"/>
+<area shape="rect" id="Node000011" href="$de/d49/class_translator_adapter__1__8__0.html" title="Adapter class for languages that only contain translations up to version 1.8.0." alt="" coords="2241,375,2424,400"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="2175,419,2272,397,2273,403,2176,424"/>
+<area shape="rect" id="Node000031" href="$d9/d82/class_translator_croatian.html" title=" " alt="" coords="2262,424,2403,449"/>
+<area shape="poly" id="edge30_Node000010_Node000031" title=" " alt="" coords="2207,434,2262,434,2262,439,2207,439"/>
+<area shape="rect" id="Node000032" href="$de/d82/class_translator_polish.html" title=" " alt="" coords="2270,473,2395,499"/>
+<area shape="poly" id="edge31_Node000010_Node000032" title=" " alt="" coords="2176,450,2273,471,2272,476,2175,455"/>
+<area shape="rect" id="Node000012" href="$da/d24/class_translator_adapter__1__7__5.html" title="Adapter class for languages that only contain translations up to version 1.7.5." alt="" coords="2472,276,2655,301"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="2365,365,2414,338,2471,312,2509,299,2510,304,2473,316,2417,343,2368,370"/>
+<area shape="rect" id="Node000027" href="$da/db8/class_translator_armenian.html" title=" " alt="" coords="2489,325,2638,351"/>
+<area shape="poly" id="edge26_Node000011_Node000027" title=" " alt="" coords="2405,369,2503,348,2504,353,2406,374"/>
+<area shape="rect" id="Node000028" href="$d9/dc1/class_translator_catalan.html" title=" " alt="" coords="2495,375,2631,400"/>
+<area shape="poly" id="edge27_Node000011_Node000028" title=" " alt="" coords="2438,385,2495,385,2495,390,2438,390"/>
+<area shape="rect" id="Node000029" href="$d7/d21/class_translator_danish.html" title=" " alt="" coords="2498,424,2629,449"/>
+<area shape="poly" id="edge28_Node000011_Node000029" title=" " alt="" coords="2406,400,2504,421,2503,427,2405,405"/>
+<area shape="rect" id="Node000030" href="$df/dc8/class_translator_indonesian.html" title=" " alt="" coords="2485,473,2642,499"/>
+<area shape="poly" id="edge29_Node000011_Node000030" title=" " alt="" coords="2410,403,2425,410,2441,423,2450,436,2459,448,2473,460,2498,471,2496,476,2471,464,2455,452,2446,439,2437,427,2423,415,2407,407"/>
+<area shape="rect" id="Node000013" href="$d3/da1/class_translator_adapter__1__6__0.html" title="Adapter class for languages that only contain translations up to version 1.6.0." alt="" coords="2703,227,2885,252"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="2636,271,2733,249,2734,255,2637,276"/>
+<area shape="rect" id="Node000025" href="$d5/d43/class_translator_persian.html" title=" " alt="" coords="2727,276,2861,301"/>
+<area shape="poly" id="edge24_Node000012_Node000025" title=" " alt="" coords="2668,286,2726,286,2726,291,2668,291"/>
+<area shape="rect" id="Node000026" href="$dd/d80/class_translator_turkish.html" title=" " alt="" coords="2728,325,2860,351"/>
+<area shape="poly" id="edge25_Node000012_Node000026" title=" " alt="" coords="2637,302,2734,323,2733,328,2636,307"/>
+<area shape="rect" id="Node000014" href="$d4/d2b/class_translator_adapter__1__4__6.html" title="Adapter class for languages that only contain translations up to version 1.4.6." alt="" coords="2933,79,3116,104"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="2813,214,2864,164,2897,137,2932,114,2962,102,2964,107,2935,119,2900,142,2867,168,2817,218"/>
+<area shape="rect" id="Node000019" href="$d3/d65/class_translator_afrikaans.html" title=" " alt="" coords="2951,128,3098,153"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="2826,217,2876,190,2932,164,2970,151,2972,156,2934,168,2878,195,2829,222"/>
+<area shape="rect" id="Node000020" href="$de/df7/class_translator_finnish.html" title=" " alt="" coords="2959,177,3091,203"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="2867,221,2964,200,2965,205,2868,226"/>
+<area shape="rect" id="Node000021" href="$d9/ddf/class_translator_macedonian.html" title=" " alt="" coords="2942,227,3107,252"/>
+<area shape="poly" id="edge20_Node000013_Node000021" title=" " alt="" coords="2899,237,2942,237,2942,242,2899,242"/>
+<area shape="rect" id="Node000022" href="$d5/d0a/class_translator_serbian.html" title=" " alt="" coords="2957,276,3092,301"/>
+<area shape="poly" id="edge21_Node000013_Node000022" title=" " alt="" coords="2868,252,2965,273,2964,279,2867,257"/>
+<area shape="rect" id="Node000023" href="$dc/d03/class_translator_serbian_cyrillic.html" title=" " alt="" coords="2935,325,3115,351"/>
+<area shape="poly" id="edge22_Node000013_Node000023" title=" " alt="" coords="2871,255,2887,262,2902,275,2911,288,2920,300,2935,312,2960,323,2958,328,2932,316,2916,304,2907,291,2898,279,2884,267,2869,259"/>
+<area shape="rect" id="Node000024" href="$df/d20/class_translator_vietnamese.html" title=" " alt="" coords="2943,375,3107,400"/>
+<area shape="poly" id="edge23_Node000013_Node000024" title=" " alt="" coords="2878,256,2887,263,2899,275,2906,288,2912,313,2918,338,2924,350,2935,361,2953,372,2950,377,2932,365,2920,353,2913,340,2907,315,2901,290,2894,278,2884,267,2875,261"/>
+<area shape="rect" id="Node000015" href="$d3/de9/class_translator_arabic.html" title=" " alt="" coords="3179,5,3305,31"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="3072,71,3163,39,3198,28,3200,33,3165,45,3074,76"/>
+<area shape="rect" id="Node000016" href="$dc/d53/class_translator_lithuanian.html" title=" " alt="" coords="3165,55,3319,80"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="3130,77,3164,73,3165,78,3130,82"/>
+<area shape="rect" id="Node000017" href="$dd/d38/class_translator_norwegian.html" title=" " alt="" coords="3164,104,3320,129"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="3130,101,3164,105,3164,110,3130,106"/>
+<area shape="rect" id="Node000018" href="$dd/d0b/class_translator_slovene.html" title=" " alt="" coords="3173,153,3311,179"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="3092,106,3117,114,3165,140,3196,151,3194,156,3163,144,3115,119,3091,111"/>
+</map>

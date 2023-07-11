@@ -1,0 +1,14 @@
+<map id="TemplateNodeCycle" name="TemplateNodeCycle">
+<area shape="rect" id="Node000001" title="Class representing an &#39;cycle&#39; tag in a template." alt="" coords="53,271,205,296"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="37,181,220,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,235,131,270,126,270,126,235"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="57,44,49,80,49,99,54,118,76,152,104,179,101,183,72,156,49,120,44,100,44,79,51,43"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="136,9,148,18,140,26,122,28,121,23,138,21,143,18,134,14"/>
+<area shape="rect" id="Node000005" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="63,93,266,119"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="89,38,152,91,149,95,86,42"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="255,5,333,31"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="305,43,311,69,314,100,311,131,297,159,285,169,267,177,221,189,219,184,266,172,283,164,293,156,306,129,309,100,306,70,300,44"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="242,31,201,43,175,56,167,74,166,93,161,93,162,73,171,53,199,38,241,26"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="141,130,132,144,128,162,128,181,123,181,123,162,128,142,137,127"/>
+</map>

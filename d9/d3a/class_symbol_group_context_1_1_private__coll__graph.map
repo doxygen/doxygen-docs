@@ -1,0 +1,13 @@
+<map id="SymbolGroupContext::Private" name="SymbolGroupContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="821,117,983,157"/>
+<area shape="rect" id="Node000002" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="452,73,677,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="691,111,821,125,821,131,691,117"/>
+<area shape="rect" id="Node000003" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,5,162,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,16,296,24,363,32,429,45,505,71,504,76,427,50,362,37,295,29,176,21"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,87,191,127"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,105,428,103,452,103,452,108,428,109,204,111"/>
+<area shape="rect" id="Node000005" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="461,153,669,193"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="682,158,821,143,821,148,682,163"/>
+<area shape="rect" id="Node000006" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,160,169,185"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,170,460,170,460,175,183,175"/>
+</map>

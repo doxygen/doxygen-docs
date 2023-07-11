@@ -1,0 +1,15 @@
+<map id="/home/runner/work/doxygen/doxygen/vhdlparser/VhdlParser.h" name="/home/runner/work/doxygen/doxygen/vhdlparser/VhdlParser.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="134,5,373,45"/>
+<area shape="rect" id="Node000002" href="$de/dea/vhdldocgen_8cpp.html" title=" " alt="" coords="5,93,216,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,55,143,96,141,91,209,50"/>
+<area shape="rect" id="Node000003" href="$d2/dc3/_vhdl_parser_error_handler_8hpp.html" title=" " alt="" coords="139,181,367,236"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,59,256,181,251,181,251,59"/>
+<area shape="rect" id="Node000005" href="$d9/d48/vhdlstring_8h.html" title=" " alt="" coords="290,93,526,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="301,50,375,91,373,96,298,54"/>
+<area shape="rect" id="Node000004" href="$d1/d86/vhdljjparser_8cpp.html" title=" " alt="" coords="273,284,485,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="301,242,355,282,352,286,298,246"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="366,143,298,184,296,179,363,138"/>
+<area shape="rect" id="Node000006" href="$d7/dad/_vhdl_parser_token_manager_8h.html" title=" " alt="" coords="391,181,619,236"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="439,141,480,179,476,183,436,145"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="460,246,406,286,403,282,457,242"/>
+</map>

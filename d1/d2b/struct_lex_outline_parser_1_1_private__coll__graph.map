@@ -1,0 +1,13 @@
+<map id="LexOutlineParser::Private" name="LexOutlineParser::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,315,311,340"/>
+<area shape="rect" id="Node000002" href="$d9/d1c/structlexscanner_y_y__state.html" title=" " alt="" coords="143,227,293,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,266,221,314,215,314,215,266"/>
+<area shape="rect" id="Node000003" href="$df/d21/class_c_outline_parser.html" title="C&#45;like language parser using state&#45;based lexical scanning." alt="" coords="29,80,148,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,119,96,161,104,182,116,201,133,215,153,224,150,229,130,219,112,204,99,185,91,162,85,119"/>
+<area shape="rect" id="Node000004" href="$d5/d79/class_outline_parser_interface.html" title="Abstract interface for outline parsers." alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,45,91,80,86,80,86,45"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="179,80,257,105"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,119,221,226,215,226,215,119"/>
+<area shape="rect" id="Node000006" href="$dd/df8/class_clang_t_u_parser.html" title="Clang parser object for a single translation unit, which consists of a source file and the directly o..." alt="" coords="289,80,406,105"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="350,120,342,162,334,185,320,204,302,219,281,229,278,224,299,215,316,201,329,182,337,161,344,119"/>
+</map>

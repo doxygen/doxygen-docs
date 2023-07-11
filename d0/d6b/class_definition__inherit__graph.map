@@ -1,0 +1,75 @@
+<map id="Definition" name="Definition">
+<area shape="rect" id="Node000001" title="The common base class of all entity definitions found in the sources." alt="" coords="5,317,91,342"/>
+<area shape="rect" id="Node000002" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="160,70,240,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,303,136,171,187,94,192,97,141,173,65,306"/>
+<area shape="rect" id="Node000008" href="$d6/d8d/class_concept_def.html" title=" " alt="" coords="151,185,249,210"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="65,304,96,266,137,227,169,208,171,212,140,231,100,269,69,307"/>
+<area shape="rect" id="Node000014" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="168,242,232,267"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="80,307,138,276,167,264,169,269,140,281,83,312"/>
+<area shape="rect" id="Node000017" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="166,291,234,317"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="104,317,165,307,166,312,105,323"/>
+<area shape="rect" id="Node000020" href="$d8/d09/class_group_def.html" title="A model of a group of symbols." alt="" coords="158,341,242,366"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="105,336,158,344,157,349,104,341"/>
+<area shape="rect" id="Node000023" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="151,398,249,423"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="86,346,176,395,174,400,83,351"/>
+<area shape="rect" id="Node000029" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="139,513,261,538"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="70,352,191,511,187,514,65,355"/>
+<area shape="rect" id="Node000035" href="$dd/d41/class_page_def.html" title="A model of a page symbol." alt="" coords="162,590,238,615"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="58,355,87,444,111,497,141,548,161,570,182,588,179,592,157,574,137,551,106,500,82,446,53,356"/>
+<area shape="rect" id="Node000003" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="339,5,493,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,66,339,43,341,48,254,71"/>
+<area shape="rect" id="Node000005" href="$d0/dc2/class_class_def_mutable.html" title=" " alt="" coords="349,70,483,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="254,80,349,80,349,85,254,85"/>
+<area shape="rect" id="Node000004" href="$d0/d2b/class_class_def_alias_impl.html" title=" " alt="" coords="607,13,748,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,23,607,23,607,28,507,28"/>
+<area shape="rect" id="Node000006" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="580,63,775,103"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="496,80,580,80,580,85,496,85"/>
+<area shape="rect" id="Node000007" href="$d1/d25/class_class_def_impl.html" title="Implementation of the ClassDef interface." alt="" coords="853,70,962,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="789,80,852,80,852,85,789,85"/>
+<area shape="rect" id="Node000009" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="339,120,493,160"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="261,179,340,157,341,163,262,184"/>
+<area shape="rect" id="Node000011" href="$d4/deb/class_concept_def_mutable.html" title=" " alt="" coords="341,185,491,210"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="263,195,340,195,340,200,263,200"/>
+<area shape="rect" id="Node000010" href="$dd/df3/class_concept_def_alias_impl.html" title=" " alt="" coords="598,127,757,153"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="506,137,598,137,598,143,506,143"/>
+<area shape="rect" id="Node000012" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="583,177,772,217"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="505,195,582,195,582,200,505,200"/>
+<area shape="rect" id="Node000013" href="$d8/d72/class_concept_def_impl.html" title=" " alt="" coords="844,185,971,210"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="786,195,844,195,844,200,786,200"/>
+<area shape="rect" id="Node000015" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="319,242,513,267"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="246,252,319,252,319,257,246,257"/>
+<area shape="rect" id="Node000016" href="$d8/db7/class_dir_def_impl.html" title=" " alt="" coords="631,242,724,267"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="527,252,630,252,630,257,527,257"/>
+<area shape="rect" id="Node000018" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="317,291,515,317"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="248,301,317,301,317,307,248,307"/>
+<area shape="rect" id="Node000019" href="$d5/d14/class_file_def_impl.html" title=" " alt="" coords="629,291,726,317"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="528,301,629,301,629,307,528,307"/>
+<area shape="rect" id="Node000021" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="309,341,523,366"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="256,351,309,351,309,356,256,356"/>
+<area shape="rect" id="Node000022" href="$db/d22/class_group_def_impl.html" title=" " alt="" coords="621,341,734,366"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="536,351,620,351,620,356,536,356"/>
+<area shape="rect" id="Node000024" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="339,391,493,431"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="263,408,339,408,339,413,263,413"/>
+<area shape="rect" id="Node000026" href="$dd/d4b/class_member_def_mutable.html" title=" " alt="" coords="340,455,492,481"/>
+<area shape="poly" id="edge25_Node000023_Node000026" title=" " alt="" coords="257,425,310,440,360,453,359,458,309,445,255,430"/>
+<area shape="rect" id="Node000025" href="$d7/d70/class_member_def_alias_impl.html" title=" " alt="" coords="597,398,757,423"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="506,408,597,408,597,413,506,413"/>
+<area shape="rect" id="Node000027" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="571,448,784,488"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="506,465,571,465,571,471,506,471"/>
+<area shape="rect" id="Node000028" href="$d7/d7e/class_member_def_impl.html" title=" " alt="" coords="843,455,971,481"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="798,465,843,465,843,471,798,471"/>
+<area shape="rect" id="Node000030" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="339,505,493,545"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="276,523,339,523,339,528,276,528"/>
+<area shape="rect" id="Node000032" href="$dd/dd5/class_namespace_def_mutable.html" title=" " alt="" coords="329,570,503,595"/>
+<area shape="poly" id="edge31_Node000029_Node000032" title=" " alt="" coords="257,540,310,555,360,567,359,573,309,560,255,545"/>
+<area shape="rect" id="Node000031" href="$d2/d9c/class_namespace_def_alias_impl.html" title=" " alt="" coords="586,513,769,538"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="506,523,586,523,586,528,506,528"/>
+<area shape="rect" id="Node000033" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="571,563,784,603"/>
+<area shape="poly" id="edge32_Node000032_Node000033" title=" " alt="" coords="517,580,570,580,570,585,517,585"/>
+<area shape="rect" id="Node000034" href="$d5/dfa/class_namespace_def_impl.html" title=" " alt="" coords="832,570,983,595"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="798,580,832,580,832,585,798,585"/>
+<area shape="rect" id="Node000036" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="313,623,519,649"/>
+<area shape="poly" id="edge35_Node000035_Node000036" title=" " alt="" coords="252,608,334,621,333,626,251,613"/>
+<area shape="rect" id="Node000037" href="$dd/de8/class_page_def_impl.html" title=" " alt="" coords="625,627,730,653"/>
+<area shape="poly" id="edge36_Node000036_Node000037" title=" " alt="" coords="533,635,625,637,625,642,532,640"/>
+</map>

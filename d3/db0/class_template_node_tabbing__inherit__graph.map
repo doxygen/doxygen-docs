@@ -1,0 +1,10 @@
+<map id="TemplateNodeTabbing" name="TemplateNodeTabbing">
+<area shape="rect" id="Node000001" title="Class representing an &#39;tabbing&#39; tag in a template." alt="" coords="20,257,187,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,201,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,222,106,257,101,257,101,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="40,5,156,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,44,105,168,100,168,96,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="119,80,322,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="131,35,202,77,200,82,128,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,116,129,170,126,166,194,112"/>
+</map>

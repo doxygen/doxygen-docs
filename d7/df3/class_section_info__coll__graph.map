@@ -1,0 +1,7 @@
+<map id="SectionInfo" name="SectionInfo">
+<area shape="rect" id="Node000001" title="class that provide information about a section." alt="" coords="55,137,149,163"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,45,39,79,42,96,48,112,59,125,74,135,71,139,56,129,44,115,37,97,34,79,36,45"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="117,5,202,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,45,147,79,132,115,115,139,111,135,128,112,142,77,152,43"/>
+</map>

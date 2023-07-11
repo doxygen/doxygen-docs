@@ -1,0 +1,5 @@
+<map id="ConfigImpl" name="ConfigImpl">
+<area shape="rect" id="Node000001" title="Singleton for configuration variables." alt="" coords="5,137,97,163"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="12,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,44,54,137,49,137,49,44"/>
+</map>

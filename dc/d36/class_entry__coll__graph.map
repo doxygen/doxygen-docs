@@ -1,0 +1,22 @@
+<map id="Entry" name="Entry">
+<area shape="rect" id="Node000001" title="Represents an unstructured piece of information, about an entity found in the sources." alt="" coords="316,361,372,387"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="387,363,395,367,399,374,390,384,373,386,372,381,388,379,394,374,392,371,385,368"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="117,5,196,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,40,74,74,52,97,35,124,16,168,9,205,14,242,34,282,52,299,81,314,160,339,247,356,316,367,315,372,246,361,159,344,79,319,49,303,30,286,9,244,3,205,11,166,30,121,47,94,70,70,119,35"/>
+<area shape="rect" id="Node000003" href="$d3/dc3/struct_tag_info.html" title="This struct is used to capture the tag file information for an Entry." alt="" coords="122,191,191,216"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="159,44,159,191,154,191,154,44"/>
+<area shape="rect" id="Node000004" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="215,191,324,216"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="203,35,225,53,247,89,261,128,272,190,266,191,256,129,242,91,221,56,200,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,230,157,255,161,283,170,312,186,335,208,347,242,356,317,367,316,373,241,362,206,352,182,339,165,314,156,285,152,255,151,230"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="268,229,267,282,272,310,284,336,299,351,318,361,315,366,296,355,279,339,267,312,262,282,263,229"/>
+<area shape="rect" id="Node000005" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="348,191,444,216"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="393,230,361,338,352,362,347,360,356,336,388,228"/>
+<area shape="rect" id="Node000006" href="$da/d1d/class_local_toc.html" title=" " alt="" coords="468,191,546,216"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="503,230,482,284,465,314,442,339,408,360,373,371,372,366,406,355,439,335,460,311,477,282,498,228"/>
+<area shape="rect" id="Node000007" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="570,191,638,216"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="599,230,574,286,554,315,528,340,500,352,458,361,373,373,372,367,457,356,498,347,526,335,550,312,570,283,595,228"/>
+<area shape="rect" id="Node000008" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="467,5,606,31"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="548,43,603,190,598,192,543,44"/>
+<area shape="rect" id="Node000009" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="630,5,715,31"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="666,44,611,192,606,190,661,43"/>
+</map>

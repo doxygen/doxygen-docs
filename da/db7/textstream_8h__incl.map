@@ -1,0 +1,36 @@
+<map id="/home/runner/work/doxygen/doxygen/src/textstream.h" name="/home/runner/work/doxygen/doxygen/src/textstream.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,5,414,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="98,240,157,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,32,167,39,123,51,82,70,45,95,24,118,11,140,9,164,19,191,32,207,49,220,87,238,84,243,46,225,29,211,15,193,4,165,6,139,20,115,42,91,79,65,121,46,165,34,208,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,93,136,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,48,141,91,139,86,259,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="160,93,234,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,48,227,88,224,83,282,43"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="601,240,668,265"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="415,40,517,60,624,87,674,104,716,122,750,143,771,165,777,180,775,194,766,206,753,217,719,233,682,244,680,239,717,228,751,212,762,203,770,192,771,181,767,168,746,147,714,127,672,109,623,92,516,65,414,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="29,167,90,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="305,47,283,84,267,104,248,121,213,142,175,157,105,175,103,170,173,152,211,137,245,117,263,100,278,81,301,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="420,93,494,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="348,43,425,84,422,89,345,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="518,93,610,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="373,43,514,87,513,92,371,48"/>
+<area shape="rect" id="Node000009" href="$d7/d5c/qcstring_8h.html" title=" " alt="" coords="310,93,396,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="324,44,343,80,338,82,319,47"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="310,118,222,139,182,153,156,169,146,181,139,196,132,227,127,226,134,194,142,179,153,165,179,149,220,134,309,113"/>
+<area shape="poly" id="edge15_Node000009_Node000005" title=" " alt="" coords="397,114,527,142,610,164,622,178,629,194,636,225,631,227,624,196,617,181,608,169,526,147,396,119"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="310,121,104,170,103,165,308,115"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="672,167,757,192"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="397,114,410,116,659,165,658,170,408,121,396,119"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="166,167,231,192"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="329,121,237,163,235,158,327,116"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="256,167,322,192"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="344,121,310,158,306,155,340,117"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="347,167,412,192"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="360,118,373,153,368,155,355,120"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="436,167,512,192"/>
+<area shape="poly" id="edge16_Node000009_Node000014" title=" " alt="" coords="374,116,444,157,442,162,371,121"/>
+<area shape="rect" id="Node000015" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="536,167,596,192"/>
+<area shape="poly" id="edge17_Node000009_Node000015" title=" " alt="" coords="388,116,524,161,523,166,386,121"/>
+<area shape="poly" id="edge19_Node000015_Node000002" title=" " alt="" coords="537,192,526,195,328,229,171,249,170,244,327,224,524,189,536,187"/>
+<area shape="poly" id="edge18_Node000015_Node000005" title=" " alt="" coords="579,190,616,228,612,232,576,194"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="InheritanceNodeContext::Private" name="InheritanceNodeContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="852,103,1032,143"/>
+<area shape="rect" id="Node000002" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="535,5,615,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="630,25,695,39,763,56,829,77,893,101,891,106,827,82,761,61,694,45,629,30"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="55,5,141,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,15,535,15,535,21,155,21"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="456,55,695,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="708,94,852,111,852,116,708,100"/>
+<area shape="rect" id="Node000005" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,56,162,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="176,68,456,76,456,81,176,73"/>
+<area shape="rect" id="Node000006" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,123,191,163"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="204,143,315,139,431,125,490,107,492,112,433,130,315,144,205,148"/>
+<area shape="rect" id="Node000007" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="536,133,615,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="628,142,828,133,851,131,852,136,828,138,629,147"/>
+<area shape="rect" id="Node000008" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="479,183,672,223"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="685,187,827,159,887,141,889,146,829,165,686,192"/>
+<area shape="rect" id="Node000009" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,191,169,216"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="183,201,479,201,479,206,183,206"/>
+</map>

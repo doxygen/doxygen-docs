@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d0/dcf/class_text_generator_intf.html" title="Abstract interface for a hyperlinked text fragment." alt="" coords="5,104,141,129"/>
+<area shape="rect" id="Node000001" href="$d7/d8a/class_text_generator_html.html" title=" " alt="" coords="210,5,357,31"/>
+<area shape="poly" id="edge386_Node000000_Node000001" title=" " alt="" coords="100,93,140,66,188,40,220,28,222,33,190,44,143,70,103,98"/>
+<area shape="rect" id="Node000002" href="$d7/d67/class_text_generator_latex.html" title=" " alt="" coords="208,55,359,80"/>
+<area shape="poly" id="edge387_Node000000_Node000002" title=" " alt="" coords="140,98,228,77,229,83,142,103"/>
+<area shape="rect" id="Node000003" href="$db/d2b/class_text_generator_o_l_impl.html" title="Implements TextGeneratorIntf for an OutputDocInterface stream." alt="" coords="203,104,363,129"/>
+<area shape="poly" id="edge388_Node000000_Node000003" title=" " alt="" coords="155,114,203,114,203,119,155,119"/>
+<area shape="rect" id="Node000004" href="$da/d6e/class_text_generator_sqlite3_impl.html" title=" " alt="" coords="189,153,377,179"/>
+<area shape="poly" id="edge389_Node000000_Node000004" title=" " alt="" coords="142,130,229,151,228,156,140,135"/>
+<area shape="rect" id="Node000005" href="$db/d9f/class_text_generator_x_m_l_impl.html" title="Implements TextGeneratorIntf for an XML stream." alt="" coords="198,203,369,228"/>
+<area shape="poly" id="edge390_Node000000_Node000005" title=" " alt="" coords="104,136,144,163,190,188,226,200,224,205,188,192,141,167,101,140"/>
+</map>

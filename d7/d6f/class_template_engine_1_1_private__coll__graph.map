@@ -1,0 +1,7 @@
+<map id="TemplateEngine::Private" name="TemplateEngine::Private">
+<area shape="rect" id="Node000001" title="Private data of the template engine." alt="" coords="41,108,221,133"/>
+<area shape="rect" id="Node000002" href="$d0/d1d/class_template_engine.html" title="Engine to create templates and template contexts." alt="" coords="5,5,132,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,43,99,83,120,106,116,110,94,85,74,45"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="156,5,235,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,45,168,86,147,110,143,106,164,82,184,43"/>
+</map>

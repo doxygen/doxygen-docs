@@ -1,0 +1,18 @@
+<map id="TemplateNodeIf" name="TemplateNodeIf">
+<area shape="rect" id="Node000001" title="Class representing an &#39;if&#39; tag in a template." alt="" coords="259,299,385,324"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="153,196,317,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,244,313,296,309,300,260,248"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,44,44,88,45,111,54,132,73,155,98,173,126,187,154,197,152,202,123,192,95,178,70,159,49,135,40,112,39,87,50,43"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="136,9,148,18,140,26,122,28,121,23,138,21,143,18,134,14"/>
+<area shape="rect" id="Node000005" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="63,101,266,126"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="88,38,154,99,150,103,84,42"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="255,5,333,31"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="304,44,311,104,309,140,298,173,288,187,275,198,272,194,284,183,293,171,304,139,306,105,298,44"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="242,31,201,43,175,56,166,78,166,100,160,100,161,77,171,53,199,38,241,26"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="158,139,156,156,160,171,171,184,185,194,182,198,167,187,156,173,151,156,153,139"/>
+<area shape="rect" id="Node000006" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template." alt="" coords="417,203,555,229"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="455,238,344,301,341,296,453,233"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="461,93,661,133"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="541,146,497,204,493,201,536,143"/>
+</map>

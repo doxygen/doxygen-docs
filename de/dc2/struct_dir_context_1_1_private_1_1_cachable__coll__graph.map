@@ -1,0 +1,18 @@
+<map id="DirContext::Private::Cachable" name="DirContext::Private::Cachable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="825,157,972,197"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="496,31,647,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="661,84,802,134,854,155,852,160,800,138,659,89"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="459,189,684,243"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="697,206,801,195,825,191,826,196,802,200,698,211"/>
+<area shape="rect" id="Node000004" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,35,162,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,61,215,69,264,73,329,75,392,81,417,88,436,98,449,117,450,137,451,156,461,174,476,187,472,191,457,178,446,157,445,137,444,119,433,102,415,93,391,86,329,80,264,78,214,75,169,66"/>
+<area shape="rect" id="Node000006" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="459,110,684,165"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="159,30,220,20,292,16,329,19,366,25,402,36,436,52,446,63,450,74,453,85,461,95,478,108,475,112,457,99,448,87,445,76,442,65,433,57,400,41,365,30,329,24,292,22,221,25,160,35"/>
+<area shape="rect" id="Node000005" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,200,191,240"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="204,217,435,216,458,216,459,221,435,221,204,223"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="154,192,214,172,321,156,458,143,459,148,321,161,215,177,156,197"/>
+<area shape="rect" id="Node000007" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="464,267,679,322"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="152,243,215,265,279,278,343,286,464,293,464,298,343,291,278,283,214,271,150,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="698,150,825,166,825,171,697,155"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="691,261,800,224,861,195,863,200,802,229,693,266"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="/home/runner/work/doxygen/doxygen/src/doctokenizer.h" name="/home/runner/work/doxygen/doxygen/src/doctokenizer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,5,311,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,93,90,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,48,93,89,91,84,171,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="114,93,191,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,47,171,84,167,80,193,44"/>
+<area shape="rect" id="Node000004" href="$d0/d73/htmlattrib_8h.html" title=" " alt="" coords="215,93,314,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,44,251,80,246,84,220,47"/>
+<area shape="rect" id="Node000006" href="$d7/d5c/qcstring_8h.html" title=" " alt="" coords="308,167,395,192"/>
+<area shape="poly" id="edge17_Node000001_Node000006" title=" " alt="" coords="262,43,297,63,328,92,344,122,352,152,346,153,339,124,324,95,294,68,259,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="221,167,284,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,119,260,154,254,153,260,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="280,117,328,156,325,160,277,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="271,313,330,339"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="309,192,296,195,232,200,149,205,70,217,40,227,20,242,11,255,8,266,10,276,16,285,41,299,78,310,171,321,258,323,258,328,171,326,77,315,39,304,13,289,5,278,3,266,6,253,16,238,38,222,69,211,149,200,232,195,295,189,308,187"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="30,240,115,265"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="309,194,129,240,128,235,307,189"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="140,240,205,265"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="324,195,216,237,214,232,322,190"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="230,240,297,265"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="339,194,290,233,287,229,336,190"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="321,240,382,265"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="354,192,354,226,349,226,349,192"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="407,240,472,265"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="367,190,416,229,413,233,364,194"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="577,313,643,339"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="395,180,467,184,549,194,623,212,652,224,671,238,677,257,671,275,658,292,641,307,638,303,654,288,667,272,672,257,667,242,649,228,622,217,548,200,466,190,395,185"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="580,240,656,265"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="395,189,567,235,566,240,394,195"/>
+<area shape="rect" id="Node000015" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="496,240,556,265"/>
+<area shape="poly" id="edge14_Node000006_Node000015" title=" " alt="" coords="381,190,486,232,484,237,379,194"/>
+<area shape="poly" id="edge16_Node000015_Node000007" title=" " alt="" coords="497,266,344,314,342,309,495,261"/>
+<area shape="poly" id="edge15_Node000015_Node000013" title=" " alt="" coords="541,263,587,302,584,306,538,267"/>
+</map>

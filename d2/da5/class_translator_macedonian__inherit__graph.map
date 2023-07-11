@@ -1,0 +1,29 @@
+<map id="TranslatorMacedonian" name="TranslatorMacedonian">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,959,183,984"/>
+<area shape="rect" id="Node000002" href="$d3/da1/class_translator_adapter__1__6__0.html" title="Adapter class for languages that only contain translations up to version 1.6.0." alt="" coords="9,885,192,911"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,924,103,959,98,959,98,924"/>
+<area shape="rect" id="Node000003" href="$da/d24/class_translator_adapter__1__7__5.html" title="Adapter class for languages that only contain translations up to version 1.7.5." alt="" coords="9,812,192,837"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,851,103,885,98,885,98,851"/>
+<area shape="rect" id="Node000004" href="$de/d49/class_translator_adapter__1__8__0.html" title="Adapter class for languages that only contain translations up to version 1.8.0." alt="" coords="9,739,192,764"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,778,103,812,98,812,98,778"/>
+<area shape="rect" id="Node000005" href="$d2/d75/class_translator_adapter__1__8__2.html" title=" " alt="" coords="9,665,192,691"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="103,704,103,739,98,739,98,704"/>
+<area shape="rect" id="Node000006" href="$de/d2f/class_translator_adapter__1__8__4.html" title=" " alt="" coords="9,592,192,617"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="103,631,103,665,98,665,98,631"/>
+<area shape="rect" id="Node000007" href="$d4/d2e/class_translator_adapter__1__8__15.html" title=" " alt="" coords="5,519,196,544"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="103,558,103,592,98,592,98,558"/>
+<area shape="rect" id="Node000008" href="$de/dde/class_translator_adapter__1__8__19.html" title=" " alt="" coords="5,445,196,471"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="103,484,103,519,98,519,98,484"/>
+<area shape="rect" id="Node000009" href="$d3/d2e/class_translator_adapter__1__9__2.html" title=" " alt="" coords="9,372,192,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="103,411,103,445,98,445,98,411"/>
+<area shape="rect" id="Node000010" href="$d0/d33/class_translator_adapter__1__9__4.html" title=" " alt="" coords="9,299,192,324"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="103,338,103,372,98,372,98,338"/>
+<area shape="rect" id="Node000011" href="$dd/dba/class_translator_adapter__1__9__5.html" title=" " alt="" coords="9,225,192,251"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="103,264,103,299,98,299,98,264"/>
+<area shape="rect" id="Node000012" href="$db/d71/class_translator_adapter__1__9__6.html" title=" " alt="" coords="9,152,192,177"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="103,191,103,225,98,225,98,191"/>
+<area shape="rect" id="Node000013" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="16,79,185,104"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="103,118,103,152,98,152,98,118"/>
+<area shape="rect" id="Node000014" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="57,5,144,31"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="103,44,103,79,98,79,98,44"/>
+</map>

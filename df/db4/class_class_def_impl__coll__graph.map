@@ -1,0 +1,20 @@
+<map id="ClassDefImpl" name="ClassDefImpl">
+<area shape="rect" id="Node000001" title="Implementation of the ClassDef interface." alt="" coords="249,345,359,371"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="207,256,401,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,310,307,345,301,345,301,310"/>
+<area shape="rect" id="Node000003" href="$d0/dc2/class_class_def_mutable.html" title=" " alt="" coords="123,168,256,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,200,282,254,279,258,212,204"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,80,144,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,111,175,166,172,170,99,116"/>
+<area shape="rect" id="Node000005" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="168,80,248,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="205,119,195,168,189,167,200,118"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="165,5,251,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="211,45,211,80,205,80,205,45"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="299,80,413,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="343,118,330,142,319,169,309,215,307,256,301,256,304,215,313,167,325,140,338,116"/>
+<area shape="rect" id="Node000008" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="382,168,565,193"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="380,112,416,142,454,165,451,170,413,146,377,116"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="442,202,340,258,337,253,439,198"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="446,80,501,105"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="476,119,476,167,471,167,471,119"/>
+</map>

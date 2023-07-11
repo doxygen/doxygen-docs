@@ -1,0 +1,26 @@
+<map id="InheritanceGraphContext::Private" name="InheritanceGraphContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1028,267,1213,307"/>
+<area shape="rect" id="Node000002" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="760,197,839,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="853,220,1037,265,1036,270,852,225"/>
+<area shape="rect" id="Node000003" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="280,72,364,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,88,506,109,582,125,657,145,721,169,775,195,772,200,719,174,655,150,581,130,505,114,377,94"/>
+<area shape="rect" id="Node000004" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="27,5,69,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,20,206,45,286,69,284,74,205,50,81,26"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="9,131,87,156"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="102,145,656,194,760,204,759,209,656,199,101,150"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="100,135,205,118,284,95,285,100,206,123,101,141"/>
+<area shape="rect" id="Node000006" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="282,215,362,240"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="375,223,760,209,760,214,376,228"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,215,91,240"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="105,225,282,225,282,230,105,230"/>
+<area shape="rect" id="Node000008" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="680,260,919,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="932,285,1028,285,1028,290,932,290"/>
+<area shape="rect" id="Node000009" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="258,264,386,289"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="400,276,680,282,680,287,400,281"/>
+<area shape="rect" id="Node000010" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="229,331,415,371"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="428,350,539,346,655,331,726,312,728,317,657,337,539,351,429,356"/>
+<area shape="rect" id="Node000011" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="703,366,896,406"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="878,359,1054,305,1055,310,879,364"/>
+<area shape="rect" id="Node000012" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="251,399,393,424"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="407,412,525,413,656,407,702,402,703,407,656,413,525,418,407,417"/>
+</map>

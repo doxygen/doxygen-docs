@@ -1,0 +1,10 @@
+<map id="TemplateNodeOpenSubIndex" name="TemplateNodeOpenSubIndex">
+<area shape="rect" id="Node000001" title="Class representing an &#39;opensubindex&#39; tag in a template." alt="" coords="20,257,231,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,245,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,222,128,257,123,257,123,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="62,5,178,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,44,127,168,122,168,118,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="141,80,344,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="153,35,224,77,222,82,150,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,116,151,170,148,166,216,112"/>
+</map>

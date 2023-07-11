@@ -1,0 +1,36 @@
+<map id="/home/runner/work/doxygen/doxygen/src/docsets.h" name="/home/runner/work/doxygen/doxygen/src/docsets.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="623,5,828,45"/>
+<area shape="rect" id="Node000002" href="$d7/d8f/docsets_8cpp.html" title=" " alt="" coords="483,93,688,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="684,55,617,96,615,91,682,50"/>
+<area shape="rect" id="Node000003" href="$dc/d98/doxygen_8cpp.html" title=" " alt="" coords="5,181,211,221"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="730,59,724,99,715,119,702,135,684,148,662,158,607,171,542,178,471,181,331,181,223,184,211,186,211,180,222,179,331,175,471,176,541,173,606,166,660,152,681,143,698,131,711,116,718,98,724,58"/>
+<area shape="rect" id="Node000004" href="$d5/d61/indexlist_8h.html" title=" " alt="" coords="1381,93,1587,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="842,37,1381,98,1381,103,841,42"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="1368,119,1154,125,869,136,548,155,223,184,211,185,211,180,222,179,547,150,869,131,1154,120,1367,114"/>
+<area shape="rect" id="Node000005" href="$d3/dea/definition_8cpp.html" title=" " alt="" coords="235,181,440,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1368,121,962,141,708,159,452,184,441,185,440,180,452,179,708,154,962,136,1368,116"/>
+<area shape="rect" id="Node000006" href="$da/d0d/diagram_8cpp.html" title=" " alt="" coords="464,181,669,221"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1368,124,1057,147,870,163,682,184,670,185,669,180,681,179,869,158,1057,141,1368,119"/>
+<area shape="rect" id="Node000007" href="$da/d17/docparser_8cpp.html" title=" " alt="" coords="693,181,899,221"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1368,129,1155,153,911,184,899,186,899,180,910,179,1155,148,1368,124"/>
+<area shape="rect" id="Node000008" href="$de/daa/dot_8cpp.html" title=" " alt="" coords="923,181,1128,221"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="1371,138,1126,184,1125,179,1370,133"/>
+<area shape="rect" id="Node000009" href="$de/d45/dotgraph_8cpp.html" title=" " alt="" coords="1152,181,1357,221"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1422,141,1306,184,1304,179,1420,136"/>
+<area shape="rect" id="Node000010" href="$d7/d5b/formula_8cpp.html" title=" " alt="" coords="1381,181,1587,221"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="1487,147,1487,181,1481,181,1481,147"/>
+<area shape="rect" id="Node000011" href="$da/db0/htmldocvisitor_8cpp.html" title=" " alt="" coords="1611,181,1840,221"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="1551,135,1673,179,1672,184,1549,140"/>
+<area shape="rect" id="Node000012" href="$d8/d6e/htmlgen_8cpp.html" title=" " alt="" coords="1864,181,2069,221"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="1601,133,1864,179,1863,184,1600,138"/>
+<area shape="rect" id="Node000013" href="$db/d14/index_8cpp.html" title="This file contains functions for the various index pages." alt="" coords="2093,181,2299,221"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="1601,123,1824,147,2082,179,2093,180,2093,186,2081,184,1823,152,1600,129"/>
+<area shape="rect" id="Node000014" href="$db/d33/msc_8cpp.html" title=" " alt="" coords="2323,181,2528,221"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="1601,118,1921,141,2116,158,2311,179,2323,180,2322,185,2310,184,2115,163,1921,146,1600,124"/>
+<area shape="rect" id="Node000015" href="$d7/d5b/plantuml_8cpp.html" title=" " alt="" coords="2552,181,2757,221"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="1601,116,2016,135,2277,154,2540,179,2552,180,2551,185,2540,184,2277,159,2016,141,1601,121"/>
+<area shape="rect" id="Node000016" href="$d9/d2f/searchindex__js_8cpp.html" title=" " alt="" coords="2782,181,3015,221"/>
+<area shape="poly" id="edge16_Node000004_Node000016" title=" " alt="" coords="1600,114,2108,133,2437,152,2770,179,2782,180,2781,185,2769,184,2437,157,2108,138,1600,120"/>
+<area shape="rect" id="Node000017" href="$df/d2d/util_8cpp.html" title=" " alt="" coords="3040,181,3245,221"/>
+<area shape="poly" id="edge17_Node000004_Node000017" title=" " alt="" coords="1600,112,1857,116,2212,126,2617,146,2825,160,3028,179,3040,180,3039,185,3028,184,2824,166,2617,151,2211,131,1857,121,1600,118"/>
+</map>

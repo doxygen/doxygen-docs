@@ -1,0 +1,7 @@
+<map id="FileState" name="FileState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,108,124,133"/>
+<area shape="rect" id="Node000002" href="$d5/d64/class_buf_str.html" title="Buffer used to store strings." alt="" coords="5,5,68,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,44,35,64,40,83,50,96,64,106,60,110,47,99,36,85,30,65,30,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="93,5,172,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,44,106,85,93,109,89,106,101,83,120,42"/>
+</map>

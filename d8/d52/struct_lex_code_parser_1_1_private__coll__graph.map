@@ -1,0 +1,23 @@
+<map id="LexCodeParser::Private" name="LexCodeParser::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,348,478,373"/>
+<area shape="rect" id="Node000002" href="$d1/d06/structlexcode_y_y__state.html" title=" " alt="" coords="327,260,457,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,299,395,347,389,347,389,299"/>
+<area shape="rect" id="Node000003" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="5,82,128,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,119,106,179,128,209,156,234,186,245,229,254,327,265,327,270,228,260,184,251,153,238,124,213,101,181,72,122"/>
+<area shape="rect" id="Node000004" href="$d0/d53/class_c_code_parser.html" title=" " alt="" coords="152,82,256,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,121,198,148,199,178,205,208,221,234,237,244,263,253,328,263,327,269,262,258,235,249,217,238,200,210,193,179,193,147,196,121"/>
+<area shape="rect" id="Node000005" href="$d4/d65/class_code_parser_interface.html" title="Abstract interface for code parsers." alt="" coords="127,5,281,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,44,207,82,201,82,201,44"/>
+<area shape="rect" id="Node000006" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="281,82,359,107"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="315,121,310,147,308,176,311,207,322,235,335,248,351,258,349,262,331,252,318,237,306,208,303,176,305,146,310,120"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="572,5,657,31"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="619,44,619,149,613,202,607,223,598,238,575,251,540,261,457,271,457,266,539,256,573,247,594,234,602,221,607,201,614,149,614,44"/>
+<area shape="rect" id="Node000008" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="753,82,821,107"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="655,34,761,79,759,84,653,39"/>
+<area shape="rect" id="Node000010" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="443,82,541,107"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="585,40,512,84,510,80,582,36"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="772,120,716,181,677,213,634,238,590,255,544,266,457,275,457,269,543,261,589,250,632,234,674,208,712,177,768,117"/>
+<area shape="rect" id="Node000009" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="717,5,856,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="789,44,789,82,784,82,784,44"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="478,120,470,134,461,163,458,187,453,210,439,238,414,262,410,258,435,234,448,209,453,186,456,162,466,132,473,118"/>
+</map>

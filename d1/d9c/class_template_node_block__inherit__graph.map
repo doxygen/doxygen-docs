@@ -1,0 +1,10 @@
+<map id="TemplateNodeBlock" name="TemplateNodeBlock">
+<area shape="rect" id="Node000001" title="Class representing a &#39;block&#39; tag in a template." alt="" coords="21,257,173,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,188,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,222,99,257,94,257,94,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="33,5,149,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,44,99,168,93,168,89,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="113,80,315,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="124,35,196,77,193,82,121,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,116,122,170,119,166,187,112"/>
+</map>

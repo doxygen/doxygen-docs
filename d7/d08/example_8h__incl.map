@@ -1,0 +1,28 @@
+<map id="/home/runner/work/doxygen/doxygen/src/example.h" name="/home/runner/work/doxygen/doxygen/src/example.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="141,5,347,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,167,91,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,48,75,160,72,156,218,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="213,93,275,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,46,247,79,241,79,241,46"/>
+<area shape="rect" id="Node000004" href="$d7/d5c/qcstring_8h.html" title=" " alt="" coords="327,93,414,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="276,43,342,84,339,88,273,48"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="328,119,105,168,104,163,327,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="657,240,716,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="414,106,487,111,572,120,649,138,678,150,698,165,706,180,707,196,701,228,695,227,702,196,701,181,694,168,676,154,648,143,571,126,487,116,414,111"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="115,167,181,192"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="336,121,194,166,193,161,334,116"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="205,167,272,192"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="351,121,273,162,271,158,348,116"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="296,167,357,192"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="366,120,343,156,339,154,361,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="382,167,447,192"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="380,118,403,154,398,156,376,120"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="527,240,593,265"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="390,117,460,165,539,229,535,233,457,169,387,121"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="523,167,599,192"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="402,116,518,159,516,164,400,121"/>
+<area shape="rect" id="Node000012" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="623,167,683,192"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="415,115,611,164,609,169,414,120"/>
+<area shape="poly" id="edge14_Node000012_Node000005" title=" " alt="" coords="661,191,678,227,673,229,656,193"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="640,194,588,234,584,229,637,190"/>
+</map>

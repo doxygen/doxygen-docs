@@ -1,0 +1,10 @@
+<map id="TemplateNodeSet" name="TemplateNodeSet">
+<area shape="rect" id="Node000001" title="Class representing an &#39;set&#39; tag in a template." alt="" coords="20,257,157,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,172,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,222,91,257,86,257,86,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="25,5,141,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,44,91,168,85,168,81,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="105,80,307,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="116,35,188,77,185,82,113,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="182,116,114,170,111,166,179,112"/>
+</map>

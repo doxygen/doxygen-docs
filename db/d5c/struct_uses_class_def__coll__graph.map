@@ -1,0 +1,9 @@
+<map id="UsesClassDef" name="UsesClassDef">
+<area shape="rect" id="Node000001" title="Class that contains information about a usage relation." alt="" coords="44,168,156,193"/>
+<area shape="rect" id="Node000002" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="8,80,88,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,118,64,143,86,166,82,170,59,145,49,120"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,5,91,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,45,51,80,45,80,45,45"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="113,80,191,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,119,125,145,110,169,105,166,120,143,136,116"/>
+</map>

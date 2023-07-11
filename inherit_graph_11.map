@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/da1/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_compound_info.html" title="Base class for all compound types." alt="" coords="5,229,257,269"/>
+<area shape="rect" id="Node000001" href="$d6/dbb/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_class_info.html" title="Container for class specific info that can be read from a tagfile." alt="" coords="326,5,543,45"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="150,216,176,179,212,135,255,92,304,55,329,43,331,48,307,60,258,96,216,139,181,182,154,219"/>
+<area shape="rect" id="Node000002" href="$da/d0a/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_concept_info.html" title="Container for concept specific info that can be read from a tagfile." alt="" coords="317,69,552,109"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="162,218,225,167,264,141,304,119,335,107,337,112,306,124,266,146,228,172,166,222"/>
+<area shape="rect" id="Node000003" href="$d9/da7/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_dir_info.html" title="Container for directory specific info that can be read from a tagfile." alt="" coords="334,133,535,173"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="194,222,305,183,347,171,348,176,306,188,196,227"/>
+<area shape="rect" id="Node000004" href="$d4/d4b/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_file_info.html" title="Container for file specific info that can be read from a tagfile." alt="" coords="332,197,537,237"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="271,232,331,226,332,231,271,237"/>
+<area shape="rect" id="Node000005" href="$d3/d8e/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_group_info.html" title="Container for group specific info that can be read from a tagfile." alt="" coords="324,261,545,301"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="271,261,324,267,323,272,271,267"/>
+<area shape="rect" id="Node000006" href="$d3/d36/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_namespace_info.html" title="Container for namespace specific info that can be read from a tagfile." alt="" coords="305,325,564,365"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="196,272,306,311,348,323,347,328,305,316,194,277"/>
+<area shape="rect" id="Node000007" href="$d3/da0/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_package_info.html" title="Container for package specific info that can be read from a tagfile." alt="" coords="317,389,552,429"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="166,277,228,327,266,353,306,375,337,387,335,392,304,380,264,357,225,331,162,281"/>
+<area shape="rect" id="Node000008" href="$d2/d70/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_page_info.html" title="Container for page specific info that can be read from a tagfile." alt="" coords="328,453,541,493"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="154,279,181,317,216,360,258,403,307,439,331,451,329,456,304,444,255,407,212,364,176,320,150,283"/>
+</map>

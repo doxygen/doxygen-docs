@@ -1,0 +1,7 @@
+<map id="HtmlCodeGenerator" name="HtmlCodeGenerator">
+<area shape="rect" id="Node000001" title="Generator for HTML code fragments." alt="" coords="33,93,185,119"/>
+<area shape="rect" id="Node000002" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,41,104,91,99,94,66,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="126,5,205,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,44,119,94,115,91,148,41"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TemplateImmutableList" name="TemplateImmutableList">
+<area shape="rect" id="Node000001" title="Default implementation of a immutable context value of type list." alt="" coords="5,79,181,104"/>
+<area shape="rect" id="Node000002" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list." alt="" coords="30,5,157,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,44,96,79,91,79,91,44"/>
+</map>

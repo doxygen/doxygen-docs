@@ -1,0 +1,17 @@
+<map id="DoxygenContext::Private" name="DoxygenContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="877,167,1063,193"/>
+<area shape="rect" id="Node000002" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="440,153,695,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="708,177,877,177,877,183,708,183"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="59,149,137,174"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,175,215,189,272,195,330,196,440,192,440,197,330,201,272,200,214,195,150,181"/>
+<area shape="rect" id="Node000005" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="444,74,691,129"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="151,160,273,158,344,153,415,144,476,126,478,131,417,149,345,159,273,164,151,165"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,69,191,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="205,103,215,104,316,114,360,119,417,129,441,137,480,150,478,155,439,143,415,135,360,124,316,119,214,109,204,108"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="172,63,214,55,315,45,360,48,416,55,489,71,488,77,416,60,359,53,315,51,215,60,173,68"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="705,125,905,165,904,170,704,131"/>
+<area shape="rect" id="Node000006" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="453,232,682,272"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="693,227,898,190,899,195,694,232"/>
+<area shape="rect" id="Node000007" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,239,169,265"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="183,249,452,249,452,255,183,255"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="TemplateNodeCloseSubIndex" name="TemplateNodeCloseSubIndex">
+<area shape="rect" id="Node000001" title="Class representing an &#39;closesubindex&#39; tag in a template." alt="" coords="288,271,500,296"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="70,181,313,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,224,365,268,364,273,251,229"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="57,45,49,71,46,101,50,131,64,156,80,169,99,179,96,183,77,173,60,159,45,132,41,101,44,70,51,43"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="136,9,148,18,140,26,122,28,121,23,138,21,143,18,134,14"/>
+<area shape="rect" id="Node000005" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="62,93,265,119"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="89,38,151,91,148,95,86,42"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="275,5,353,31"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="368,32,411,55,431,72,447,92,457,116,459,142,455,169,448,194,426,240,405,272,401,269,421,237,443,192,450,167,454,142,451,118,442,95,427,75,408,60,365,37"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="320,44,320,100,312,131,297,159,283,173,267,183,264,179,280,169,293,156,307,129,314,99,315,44"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="262,29,209,41,188,48,175,56,166,74,165,93,160,93,161,73,171,53,186,43,208,35,260,24"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="93,125,71,139,69,147,72,156,84,169,100,179,97,183,81,173,68,159,63,147,67,136,90,121"/>
+</map>

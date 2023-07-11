@@ -1,0 +1,16 @@
+<map id="DocTokenizer::Private" name="DocTokenizer::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,480,243,505"/>
+<area shape="rect" id="Node000002" href="$d9/de7/structdoctokenizer_y_y__state.html" title=" " alt="" coords="81,392,243,417"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,431,165,479,159,479,159,431"/>
+<area shape="rect" id="Node000003" href="$d6/df4/struct_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="120,287,204,313"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,327,165,392,159,392,159,327"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="38,119,26,162,17,216,18,274,25,302,36,328,53,349,75,366,122,389,120,394,72,371,49,353,32,331,20,304,13,274,12,215,21,160,33,118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="43,119,42,147,43,180,50,214,64,245,92,262,138,285,136,290,90,267,60,248,45,216,38,181,36,147,38,119"/>
+<area shape="rect" id="Node000005" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="152,80,265,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="208,119,197,178,182,247,169,288,164,286,177,246,192,177,202,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="114,5,303,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="211,45,211,80,206,80,206,45"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="229,287,314,313"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="255,325,210,370,180,394,177,390,207,366,251,321"/>
+</map>

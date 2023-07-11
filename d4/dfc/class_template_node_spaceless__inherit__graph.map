@@ -1,0 +1,10 @@
+<map id="TemplateNodeSpaceless" name="TemplateNodeSpaceless">
+<area shape="rect" id="Node000001" title="Class representing an &#39;spaceless&#39; tag in a template." alt="" coords="20,257,201,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,216,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,222,113,257,108,257,108,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="47,5,163,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,44,113,168,107,168,103,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="127,80,329,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="138,35,210,77,207,82,135,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,116,136,170,133,166,201,112"/>
+</map>

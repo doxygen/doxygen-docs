@@ -1,0 +1,19 @@
+<map id="ClassHierarchyContext::Private" name="ClassHierarchyContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="919,140,1089,180"/>
+<area shape="rect" id="Node000002" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="498,6,737,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="742,62,896,109,962,137,960,142,894,115,741,67"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,88,191,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,80,214,60,287,47,361,38,498,30,498,35,361,43,287,52,215,65,155,85"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="498,85,737,139"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="204,106,498,108,498,114,204,111"/>
+<area shape="rect" id="Node000005" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="488,163,747,218"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="147,132,180,147,215,159,284,173,355,183,488,190,487,196,354,188,283,178,214,164,178,152,145,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="751,126,919,147,918,152,750,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="760,177,918,164,919,169,761,182"/>
+<area shape="rect" id="Node000006" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types." alt="" coords="34,215,162,241"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="176,230,310,233,387,230,464,224,514,215,515,221,464,229,388,236,310,238,175,235"/>
+<area shape="rect" id="Node000007" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="508,255,727,295"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="710,249,894,196,948,178,950,183,895,201,711,254"/>
+<area shape="rect" id="Node000008" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,275,169,301"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="183,287,315,287,464,284,508,282,508,287,464,289,315,293,183,292"/>
+</map>

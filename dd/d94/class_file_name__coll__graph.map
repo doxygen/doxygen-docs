@@ -1,0 +1,7 @@
+<map id="FileName" name="FileName">
+<area shape="rect" id="Node000001" title="Class representing all files with a certain base name." alt="" coords="129,137,213,163"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,184,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,56,166,136,161,138,111,59"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="209,13,287,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,51,180,139,176,136,231,48"/>
+</map>

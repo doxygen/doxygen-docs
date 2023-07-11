@@ -1,0 +1,32 @@
+<map id="ConceptDefImpl" name="ConceptDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1156,205,1283,231"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="844,74,1033,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1025,116,1079,135,1133,158,1172,181,1203,203,1200,207,1169,185,1131,163,1077,140,1023,121"/>
+<area shape="rect" id="Node000003" href="$d4/deb/class_concept_def_mutable.html" title=" " alt="" coords="465,156,616,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="622,151,843,109,844,114,623,156"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="140,215,279,240"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,210,467,179,468,184,293,215"/>
+<area shape="rect" id="Node000012" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="507,267,575,292"/>
+<area shape="poly" id="edge14_Node000012_Node000004" title=" " alt="" coords="293,238,507,271,506,277,292,243"/>
+<area shape="rect" id="Node000005" href="$d6/d8d/class_concept_def.html" title=" " alt="" coords="160,160,259,185"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="272,169,465,167,465,172,272,175"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,267,91,292"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="71,255,102,228,139,201,174,183,176,188,141,206,105,232,74,259"/>
+<area shape="rect" id="Node000011" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="303,325,425,351"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="105,293,115,295,214,314,303,328,302,333,213,320,114,301,103,298"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="104,277,506,277,506,282,104,282"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="152,69,267,95"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="280,80,844,90,843,95,280,86"/>
+<area shape="rect" id="Node000008" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="449,32,632,57"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="280,71,448,52,449,58,280,77"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="646,54,820,75,844,78,844,84,820,81,645,59"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="182,5,237,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="251,19,449,35,449,40,250,24"/>
+<area shape="rect" id="Node000010" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="501,205,580,231"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="594,215,1156,215,1156,221,594,221"/>
+<area shape="rect" id="Node000013" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="884,139,993,164"/>
+<area shape="poly" id="edge17_Node000013_Node000010" title=" " alt="" coords="593,207,883,158,884,163,594,212"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="439,329,701,302,867,282,1033,257,1131,238,1172,228,1173,233,1133,243,1034,262,868,287,702,307,439,334"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="588,273,1033,235,1155,222,1156,228,1034,241,589,278"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="1007,165,1165,203,1164,208,1006,170"/>
+</map>

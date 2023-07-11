@@ -1,0 +1,29 @@
+<map id="/home/runner/work/doxygen/doxygen/vhdlparser/Token.h" name="/home/runner/work/doxygen/doxygen/vhdlparser/Token.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="414,5,622,45"/>
+<area shape="rect" id="Node000002" href="$d3/dd5/_error_handler_8h.html" title=" " alt="" coords="109,93,361,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,52,298,96,296,91,442,47"/>
+<area shape="rect" id="Node000003" href="$d5/df9/_vhdl_parser_8h.html" title=" " alt="" coords="97,181,336,221"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="400,32,312,37,222,49,147,68,119,80,100,95,93,107,93,118,98,129,108,141,136,162,170,179,167,184,133,166,104,144,94,132,88,119,88,105,96,92,116,76,145,63,221,44,311,32,400,26"/>
+<area shape="rect" id="Node000008" href="$d7/dad/_vhdl_parser_token_manager_8h.html" title=" " alt="" coords="472,357,700,412"/>
+<area shape="poly" id="edge17_Node000001_Node000008" title=" " alt="" coords="612,49,641,67,664,92,679,126,684,163,681,201,671,238,640,307,608,359,603,356,636,304,666,237,676,200,679,163,674,128,660,95,638,71,609,53"/>
+<area shape="rect" id="Node000009" href="$d7/de0/_parse_exception_8h.html" title=" " alt="" coords="725,93,996,133"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="607,46,786,91,785,96,606,51"/>
+<area shape="rect" id="Node000010" href="$d4/df9/_token_manager_8h.html" title=" " alt="" coords="386,93,650,133"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="521,59,521,93,515,93,515,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,147,223,182,218,181,226,146"/>
+<area shape="rect" id="Node000005" href="$d2/dc3/_vhdl_parser_error_handler_8hpp.html" title=" " alt="" coords="5,357,233,412"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="152,141,117,159,88,183,64,213,51,242,49,272,58,308,72,334,90,355,86,359,67,337,53,310,43,272,46,240,59,210,84,179,114,154,149,136"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="336,135,394,154,456,183,514,220,540,242,563,268,575,289,583,313,589,357,584,357,578,314,571,291,559,271,536,246,510,224,453,187,392,159,334,140"/>
+<area shape="rect" id="Node000004" href="$de/dea/vhdldocgen_8cpp.html" title=" " alt="" coords="338,269,549,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,224,395,267,393,272,278,229"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="121,229,92,247,70,271,63,292,68,314,80,336,95,356,91,359,75,339,63,316,58,292,65,268,89,242,118,224"/>
+<area shape="rect" id="Node000007" href="$d9/d48/vhdlstring_8h.html" title=" " alt="" coords="79,269,315,309"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="212,236,204,270,198,269,207,234"/>
+<area shape="rect" id="Node000006" href="$d1/d86/vhdljjparser_8cpp.html" title=" " alt="" coords="247,460,459,500"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="198,415,307,458,305,462,196,419"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="174,322,143,359,139,356,170,318"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="289,310,477,355,476,360,288,315"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="509,419,401,462,399,458,507,415"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="439,140,283,184,282,179,438,135"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="569,139,591,157,607,180,616,203,620,227,620,276,611,321,599,358,594,356,606,320,614,275,615,228,610,204,602,183,587,161,566,143"/>
+</map>

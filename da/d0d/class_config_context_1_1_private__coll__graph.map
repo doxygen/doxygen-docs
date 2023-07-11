@@ -1,0 +1,10 @@
+<map id="ConfigContext::Private" name="ConfigContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="821,56,989,81"/>
+<area shape="rect" id="Node000002" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="470,5,669,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,42,821,57,821,62,682,47"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,53,191,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,61,470,38,470,44,205,66"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="460,84,679,139"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="169,94,215,105,278,112,342,116,460,115,460,121,341,121,277,117,214,110,167,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="692,93,821,77,821,82,693,98"/>
+</map>

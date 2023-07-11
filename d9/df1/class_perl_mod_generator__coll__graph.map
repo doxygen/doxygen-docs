@@ -1,0 +1,9 @@
+<map id="PerlModGenerator" name="PerlModGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,328,232,353"/>
+<area shape="rect" id="Node000002" href="$d5/d6c/class_perl_mod_output.html" title=" " alt="" coords="29,93,148,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,133,81,169,79,213,85,259,103,303,115,316,131,326,128,330,112,320,98,305,80,261,74,213,75,168,81,132"/>
+<area shape="rect" id="Node000003" href="$d4/de6/class_perl_mod_output_stream.html" title=" " alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,45,91,93,86,93,86,45"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="172,93,251,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,133,196,210,175,305,168,328,163,327,170,303,191,209,205,132"/>
+</map>

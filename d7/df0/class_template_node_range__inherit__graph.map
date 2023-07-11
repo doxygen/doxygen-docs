@@ -1,0 +1,10 @@
+<map id="TemplateNodeRange" name="TemplateNodeRange">
+<area shape="rect" id="Node000001" title="Class representing a &#39;range&#39; tag in a template." alt="" coords="20,257,177,283"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="5,168,192,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,222,101,257,96,257,96,222"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="35,5,151,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,44,101,168,95,168,91,44"/>
+<area shape="rect" id="Node000004" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="115,80,317,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="126,35,198,77,195,82,123,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,116,124,170,121,166,189,112"/>
+</map>

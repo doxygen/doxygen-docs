@@ -1,0 +1,14 @@
+<map id="ExampleTreeContext::Private" name="ExampleTreeContext::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="884,95,1041,135"/>
+<area shape="rect" id="Node000002" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="483,9,696,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,59,884,96,883,101,709,64"/>
+<area shape="rect" id="Node000003" href="$d7/dc1/class_cached_item.html" title="Wrapper for data that needs to be cached." alt="" coords="5,56,191,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,65,482,42,482,47,204,70"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/class_cached_item.html" title=" " alt="" coords="467,87,712,142"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="169,97,215,108,279,115,344,119,466,119,466,125,344,125,279,121,214,113,167,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="725,112,884,112,884,117,725,117"/>
+<area shape="rect" id="Node000005" href="$d5/dbf/class_property_map.html" title=" " alt="" coords="487,167,691,207"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="704,162,859,132,883,127,884,133,861,137,706,167"/>
+<area shape="rect" id="Node000006" href="$d5/dbf/class_property_map.html" title="Class representing a mapping of properties and the corresponding getter function." alt="" coords="27,174,169,199"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="183,184,487,184,487,189,183,189"/>
+</map>

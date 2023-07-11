@@ -1,0 +1,33 @@
+<map id="DefinitionImpl::IMPL" name="DefinitionImpl::IMPL">
+<area shape="rect" id="Node000001" title="Private data associated with a Symbol DefinitionImpl object." alt="" coords="925,209,1079,234"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="599,29,685,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="698,32,745,31,798,34,852,46,903,68,939,100,967,139,987,178,999,207,994,209,982,180,963,142,935,104,900,73,850,51,797,40,745,36,698,37"/>
+<area shape="rect" id="Node000003" href="$d1/df9/class_section_refs.html" title="class that represents a list of constant references to sections." alt="" coords="593,78,691,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="705,86,750,87,801,93,853,104,903,123,932,141,958,164,994,207,990,210,954,168,929,146,900,128,851,109,800,98,750,93,705,91"/>
+<area shape="rect" id="Node000004" href="$d3/d3b/class_group_list.html" title=" " alt="" coords="600,127,684,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="698,139,794,147,849,156,902,169,945,187,981,206,979,211,943,192,901,175,848,162,794,153,698,144"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="218,113,413,138"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="426,128,600,135,600,141,426,133"/>
+<area shape="rect" id="Node000006" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="560,179,724,219"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="738,202,925,214,925,219,738,207"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="214,162,417,187"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="431,180,560,190,560,195,430,186"/>
+<area shape="rect" id="Node000008" href="$da/dc3/class_deep_copy_unique_ptr.html" title="Helper class add copy/assignment support to std::unique_ptr by making a deep copy Note that T may not..." alt="" coords="220,283,411,309"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="371,277,573,216,574,221,373,282"/>
+<area shape="rect" id="Node000010" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="560,321,724,361"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="384,309,443,320,560,333,560,338,442,325,383,314"/>
+<area shape="rect" id="Node000012" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="560,243,724,283"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="424,299,480,298,536,292,585,280,586,285,536,297,480,303,425,304"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,283,163,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="176,293,220,293,220,299,176,299"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="737,319,817,297,900,270,978,232,980,237,902,274,819,302,738,324"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="213,373,418,398"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="431,376,536,364,563,359,564,364,536,369,432,382"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="737,250,901,232,925,229,926,234,902,237,738,256"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="212,211,419,237"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="433,222,536,232,575,240,574,245,536,237,432,228"/>
+<area shape="rect" id="Node000014" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="603,469,681,494"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="695,486,811,496,864,494,885,490,900,483,929,457,951,426,968,390,980,353,994,283,998,234,1003,234,999,284,986,355,973,392,956,428,933,461,903,488,887,495,865,499,810,501,695,492"/>
+<area shape="rect" id="Node000015" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="583,529,701,554"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="701,554,748,562,801,563,853,554,877,545,900,531,932,499,957,461,974,418,986,374,998,291,999,234,1004,234,1003,291,992,375,980,420,961,463,936,503,903,535,880,550,855,560,801,568,748,567,700,560"/>
+</map>

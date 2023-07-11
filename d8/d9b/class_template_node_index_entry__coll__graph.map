@@ -1,0 +1,15 @@
+<map id="TemplateNodeIndexEntry" name="TemplateNodeIndexEntry">
+<area shape="rect" id="Node000001" title="Class representing an &#39;indexentry&#39; tag in a template." alt="" coords="299,271,486,296"/>
+<area shape="rect" id="Node000002" href="$d8/d78/class_template_node_creator.html" title=" " alt="" coords="95,181,311,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,224,366,268,364,273,260,229"/>
+<area shape="rect" id="Node000003" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,44,48,80,48,99,52,118,65,138,82,155,125,179,123,184,79,159,60,142,48,120,43,100,43,79,51,43"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="136,9,148,18,140,26,122,28,121,23,138,21,143,18,134,14"/>
+<area shape="rect" id="Node000005" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node." alt="" coords="62,93,265,119"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="89,38,151,91,148,95,86,42"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="273,5,352,31"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="366,32,410,55,430,72,446,92,455,116,458,142,454,169,446,194,425,240,404,272,399,269,420,237,442,192,449,167,452,142,450,118,441,95,426,75,407,60,364,37"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="319,45,318,100,311,131,296,159,283,173,267,183,264,179,279,169,292,156,306,129,312,99,313,45"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="260,29,208,40,186,48,173,56,165,74,165,93,159,93,160,73,169,53,184,43,206,35,259,24"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="115,126,97,140,95,148,98,156,109,169,124,179,121,183,106,173,93,159,89,148,93,137,112,122"/>
+</map>

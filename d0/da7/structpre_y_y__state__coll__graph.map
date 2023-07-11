@@ -1,0 +1,19 @@
+<map id="preYY_state" name="preYY_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,343,346,368"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,108,84,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,147,33,185,30,231,36,277,45,298,59,317,71,326,89,333,138,343,247,351,247,356,137,349,87,338,68,330,55,321,41,301,31,278,24,231,27,184,35,146"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="148,108,216,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,148,173,184,171,229,179,276,187,297,199,317,221,335,248,346,246,351,218,340,195,320,182,300,173,277,166,229,168,184,173,147"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="45,13,183,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,47,176,106,171,109,128,51"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="207,13,293,38"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="236,51,193,109,188,106,231,47"/>
+<area shape="rect" id="Node000006" href="$d5/d64/class_buf_str.html" title="Buffer used to store strings." alt="" coords="252,108,315,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,147,299,342,293,343,282,147"/>
+<area shape="rect" id="Node000007" href="$db/d82/class_const_expression_parser.html" title="constant expression parser used for the C preprocessor" alt="" coords="339,108,510,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="426,147,422,184,412,230,395,277,368,320,352,335,333,345,331,340,349,330,364,317,390,275,407,228,416,183,421,147"/>
+<area shape="rect" id="Node000008" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="535,108,749,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="638,148,626,187,605,234,575,282,556,303,534,321,500,334,451,344,346,354,346,349,451,339,499,329,531,316,552,299,571,279,600,232,621,185,633,146"/>
+<area shape="rect" id="Node000009" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="562,5,722,45"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="645,59,645,108,639,108,639,59"/>
+</map>

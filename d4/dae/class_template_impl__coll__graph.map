@@ -1,0 +1,18 @@
+<map id="TemplateImpl" name="TemplateImpl">
+<area shape="rect" id="Node000001" title="Internal class representing the implementation of a template." alt="" coords="415,183,525,208"/>
+<area shape="rect" id="Node000002" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST." alt="" coords="5,95,121,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,120,416,180,415,185,131,125"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="136,99,148,107,140,115,122,117,121,112,138,110,143,107,134,104"/>
+<area shape="rect" id="Node000003" href="$d5/de9/class_template.html" title="Abstract interface for a template." alt="" coords="237,95,319,120"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="318,123,445,180,443,185,315,128"/>
+<area shape="rect" id="Node000004" href="$d0/d1d/class_template_engine.html" title="Engine to create templates and template contexts." alt="" coords="344,95,471,120"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="421,131,437,157,459,181,455,184,433,160,417,134"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="495,95,573,120"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="524,134,507,160,485,184,481,181,503,157,519,131"/>
+<area shape="rect" id="Node000006" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template." alt="" coords="598,95,737,120"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="640,130,582,161,514,185,512,180,580,156,637,125"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="567,5,767,45"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="670,59,670,94,665,94,665,59"/>
+<area shape="rect" id="Node000008" href="$dc/d7f/class_template_block_context.html" title="Class holding stacks of blocks available in the context." alt="" coords="761,95,931,120"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="800,127,677,161,526,189,525,184,676,156,798,122"/>
+</map>

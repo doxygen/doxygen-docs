@@ -1,0 +1,14 @@
+<map id="HtmlHelp::Private" name="HtmlHelp::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,299,202,324"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,196,84,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,235,50,255,59,273,74,287,92,296,89,301,70,291,55,276,45,257,41,236"/>
+<area shape="rect" id="Node000003" href="$df/d26/class_html_help_recoder.html" title="Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM..." alt="" coords="64,108,201,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,147,135,298,130,298,130,147"/>
+<area shape="rect" id="Node000004" href="$d0/d74/class_html_help_index.html" title="A helper class for HtmlHelp that manages a two level index in alphabetical order." alt="" coords="210,196,330,221"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="164,139,214,170,253,194,250,198,211,174,161,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,232,150,301,147,297,242,227"/>
+<area shape="rect" id="Node000005" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="226,108,415,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="309,147,279,197,275,194,305,144"/>
+<area shape="rect" id="Node000006" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="241,5,401,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="323,59,323,108,318,108,318,59"/>
+</map>

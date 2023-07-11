@@ -1,0 +1,14 @@
+<map id="HtmlGenerator" name="HtmlGenerator">
+<area shape="rect" id="Node000001" title="Generator for HTML output." alt="" coords="187,215,306,240"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for specific output generators." alt="" coords="181,117,312,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,156,249,214,244,214,244,156"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="23,5,119,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,43,89,64,103,82,141,97,204,115,203,120,139,102,100,86,84,67,75,45"/>
+<area shape="rect" id="Node000005" href="$da/db6/class_html_code_generator.html" title="Generator for HTML code fragments." alt="" coords="5,117,157,143"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="51,43,44,56,41,69,44,83,55,101,68,115,65,119,50,104,39,85,35,69,39,54,46,40"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="221,5,299,31"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="313,30,329,39,342,53,346,69,343,84,339,120,326,153,297,190,265,216,262,212,293,186,322,151,334,119,337,84,341,69,338,56,326,44,311,34"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="260,45,251,117,245,117,254,44"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="217,38,179,57,132,89,96,119,93,115,129,85,176,52,214,34"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="106,150,161,188,214,212,212,217,159,193,103,154"/>
+</map>

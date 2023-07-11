@@ -1,0 +1,7 @@
+<map id="commentcnvYY_state" name="commentcnvYY_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,168,148"/>
+<area shape="rect" id="Node000002" href="$d5/d64/class_buf_str.html" title="Buffer used to store strings." alt="" coords="9,5,71,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,44,64,98,79,121,74,124,59,100,42,45"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="95,5,174,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,45,108,100,96,124,91,121,103,98,124,43"/>
+</map>

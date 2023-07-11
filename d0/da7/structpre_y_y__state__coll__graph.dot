@@ -1,0 +1,25 @@
+digraph "preYY_state"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="preYY_state",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" blockName\ndefArgsStr\ndefExtraSpacing\ndefLitText\ndefName\ndefText\ndelimiter\nfileName\nguardExpr\nguardName\n...",fontcolor="grey" ];
+  Node2 [id="Node000002",label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node3 -> Node1 [id="edge2_Node000001_Node000003",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" inputFileDef\nyyFileDef",fontcolor="grey" ];
+  Node3 [id="Node000003",label="FileDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/db0/class_file_def.html",tooltip="A model of a file symbol."];
+  Node4 -> Node3 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="DefinitionMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d46/class_definition_mutable.html",tooltip=" "];
+  Node5 -> Node3 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node6 -> Node1 [id="edge5_Node000001_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" inputBuf\noutputBuf",fontcolor="grey" ];
+  Node6 [id="Node000006",label="BufStr",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d64/class_buf_str.html",tooltip="Buffer used to store strings."];
+  Node7 -> Node1 [id="edge6_Node000001_Node000007",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" constExpParser",fontcolor="grey" ];
+  Node7 [id="Node000007",label="ConstExpressionParser",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/d82/class_const_expression_parser.html",tooltip="constant expression parser used for the C preprocessor"];
+  Node8 -> Node1 [id="edge7_Node000001_Node000008",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" includeRelations",fontcolor="grey" ];
+  Node8 [id="Node000008",label="LinkedMap\< PreIncludeInfo \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d2c/class_linked_map.html",tooltip=" "];
+  Node9 -> Node8 [id="edge8_Node000008_Node000009",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< PreIncludeInfo \>",fontcolor="grey" ];
+  Node9 [id="Node000009",label="LinkedMap\< T, Hash,\l KeyEqual, Map \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d2c/class_linked_map.html",tooltip="Container class representing a vector of objects with keys."];
+}

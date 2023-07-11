@@ -1,0 +1,16 @@
+<map id="DotGroupCollaboration::Edge" name="DotGroupCollaboration::Edge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,361,294,401"/>
+<area shape="rect" id="Node000002" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="169,259,248,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,298,211,361,206,361,206,298"/>
+<area shape="rect" id="Node000003" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="56,161,140,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,198,118,216,131,233,149,246,170,256,168,261,147,251,127,237,113,219,104,201"/>
+<area shape="rect" id="Node000004" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="5,5,47,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="27,44,29,85,34,106,43,127,59,145,78,159,74,163,55,149,38,129,29,108,24,85,22,44"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="120,5,199,31"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="184,40,192,54,209,112,216,171,215,223,213,258,207,258,210,222,210,171,204,113,188,56,180,42"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="117,40,102,56,92,83,90,112,97,161,92,162,85,113,87,82,97,53,113,36"/>
+<area shape="rect" id="Node000006" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="295,161,375,187"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="311,197,226,261,222,256,307,193"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="293,5,378,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="338,44,338,161,333,161,333,44"/>
+</map>

@@ -1,0 +1,35 @@
+digraph "PageDefImpl"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="PageDefImpl",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="DefinitionMixin\< PageDef \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="PageDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d41/class_page_def.html",tooltip="A model of a page symbol."];
+  Node4 -> Node3 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="DefinitionMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d46/class_definition_mutable.html",tooltip=" "];
+  Node5 -> Node3 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node6 -> Node2 [id="edge5_Node000002_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_impl",fontcolor="grey" ];
+  Node6 [id="Node000006",label="DefinitionImpl",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/ddf/class_definition_impl.html",tooltip=" "];
+  Node7 -> Node2 [id="edge6_Node000002_Node000007",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< PageDef \>",fontcolor="grey" ];
+  Node7 [id="Node000007",label="DefinitionMixin\< Base \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d10/class_definition_mixin.html",tooltip=" "];
+  Node8 -> Node7 [id="edge7_Node000007_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="Base",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node7 [id="edge8_Node000007_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_impl",fontcolor="grey" ];
+  Node9 -> Node1 [id="edge9_Node000001_Node000009",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_fileName\nm_title",fontcolor="grey" ];
+  Node9 [id="Node000009",label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node10 -> Node1 [id="edge10_Node000001_Node000010",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_subPages",fontcolor="grey" ];
+  Node10 [id="Node000010",label="PageLinkedRefMap",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/de6/class_page_linked_ref_map.html",tooltip=" "];
+  Node11 -> Node10 [id="edge11_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="LinkedRefMap\< const\l PageDef \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/db7/class_linked_ref_map.html",tooltip=" "];
+  Node12 -> Node11 [id="edge12_Node000011_Node000012",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< const PageDef \>",fontcolor="grey" ];
+  Node12 [id="Node000012",label="LinkedRefMap\< T, Hash,\l KeyEqual, Map \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/db7/class_linked_ref_map.html",tooltip="Container class representing a vector of objects with keys."];
+  Node5 -> Node1 [id="edge13_Node000001_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_pageScope",fontcolor="grey" ];
+  Node13 -> Node1 [id="edge14_Node000001_Node000013",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_localToc",fontcolor="grey" ];
+  Node13 [id="Node000013",label="LocalToc",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d1d/class_local_toc.html",tooltip=" "];
+}

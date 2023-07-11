@@ -1,0 +1,68 @@
+digraph "TranslatorAdapter_1_8_0"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="TranslatorAdapter_1_8_0",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Adapter class for languages that only contain translations up to version 1.8.0."];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="TranslatorAdapter_1_8_2",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/d75/class_translator_adapter__1__8__2.html",tooltip=" "];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="TranslatorAdapter_1_8_4",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/d2f/class_translator_adapter__1__8__4.html",tooltip=" "];
+  Node4 -> Node3 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="TranslatorAdapter_1_8_15",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d4/d2e/class_translator_adapter__1__8__15.html",tooltip=" "];
+  Node5 -> Node4 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="TranslatorAdapter_1_8_19",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/dde/class_translator_adapter__1__8__19.html",tooltip=" "];
+  Node6 -> Node5 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="TranslatorAdapter_1_9_2",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/d2e/class_translator_adapter__1__9__2.html",tooltip=" "];
+  Node7 -> Node6 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="TranslatorAdapter_1_9_4",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d33/class_translator_adapter__1__9__4.html",tooltip=" "];
+  Node8 -> Node7 [id="edge7_Node000007_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="TranslatorAdapter_1_9_5",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/dba/class_translator_adapter__1__9__5.html",tooltip=" "];
+  Node9 -> Node8 [id="edge8_Node000008_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="TranslatorAdapter_1_9_6",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/d71/class_translator_adapter__1__9__6.html",tooltip=" "];
+  Node10 -> Node9 [id="edge9_Node000009_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="TranslatorAdapterBase",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$db/d6c/class_translator_adapter_base.html",tooltip="Base of the translator adapter tree."];
+  Node11 -> Node10 [id="edge10_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="Translator",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d8/dfb/class_translator.html",tooltip="Abstract base class for all translatable text fragments."];
+  Node1 -> Node12 [id="edge11_Node000001_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="TranslatorAdapter_1_7_5",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d24/class_translator_adapter__1__7__5.html",tooltip="Adapter class for languages that only contain translations up to version 1.7.5."];
+  Node12 -> Node13 [id="edge12_Node000012_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="TranslatorAdapter_1_6_0",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/da1/class_translator_adapter__1__6__0.html",tooltip="Adapter class for languages that only contain translations up to version 1.6.0."];
+  Node13 -> Node14 [id="edge13_Node000013_Node000014",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="TranslatorAdapter_1_4_6",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d4/d2b/class_translator_adapter__1__4__6.html",tooltip="Adapter class for languages that only contain translations up to version 1.4.6."];
+  Node14 -> Node15 [id="edge14_Node000014_Node000015",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="TranslatorArabic",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/de9/class_translator_arabic.html",tooltip=" "];
+  Node14 -> Node16 [id="edge15_Node000014_Node000016",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="TranslatorLithuanian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dc/d53/class_translator_lithuanian.html",tooltip=" "];
+  Node14 -> Node17 [id="edge16_Node000014_Node000017",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="TranslatorNorwegian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d38/class_translator_norwegian.html",tooltip=" "];
+  Node14 -> Node18 [id="edge17_Node000014_Node000018",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node18 [id="Node000018",label="TranslatorSlovene",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d0b/class_translator_slovene.html",tooltip=" "];
+  Node13 -> Node19 [id="edge18_Node000013_Node000019",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node19 [id="Node000019",label="TranslatorAfrikaans",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d3/d65/class_translator_afrikaans.html",tooltip=" "];
+  Node13 -> Node20 [id="edge19_Node000013_Node000020",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node20 [id="Node000020",label="TranslatorFinnish",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/df7/class_translator_finnish.html",tooltip=" "];
+  Node13 -> Node21 [id="edge20_Node000013_Node000021",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node21 [id="Node000021",label="TranslatorMacedonian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/ddf/class_translator_macedonian.html",tooltip=" "];
+  Node13 -> Node22 [id="edge21_Node000013_Node000022",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node22 [id="Node000022",label="TranslatorSerbian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d0a/class_translator_serbian.html",tooltip=" "];
+  Node13 -> Node23 [id="edge22_Node000013_Node000023",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node23 [id="Node000023",label="TranslatorSerbianCyrillic",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dc/d03/class_translator_serbian_cyrillic.html",tooltip=" "];
+  Node13 -> Node24 [id="edge23_Node000013_Node000024",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node24 [id="Node000024",label="TranslatorVietnamese",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$df/d20/class_translator_vietnamese.html",tooltip=" "];
+  Node12 -> Node25 [id="edge24_Node000012_Node000025",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node25 [id="Node000025",label="TranslatorPersian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/d43/class_translator_persian.html",tooltip=" "];
+  Node12 -> Node26 [id="edge25_Node000012_Node000026",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node26 [id="Node000026",label="TranslatorTurkish",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d80/class_translator_turkish.html",tooltip=" "];
+  Node1 -> Node27 [id="edge26_Node000001_Node000027",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node27 [id="Node000027",label="TranslatorArmenian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/db8/class_translator_armenian.html",tooltip=" "];
+  Node1 -> Node28 [id="edge27_Node000001_Node000028",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node28 [id="Node000028",label="TranslatorCatalan",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/dc1/class_translator_catalan.html",tooltip=" "];
+  Node1 -> Node29 [id="edge28_Node000001_Node000029",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node29 [id="Node000029",label="TranslatorDanish",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d7/d21/class_translator_danish.html",tooltip=" "];
+  Node1 -> Node30 [id="edge29_Node000001_Node000030",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node30 [id="Node000030",label="TranslatorIndonesian",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$df/dc8/class_translator_indonesian.html",tooltip=" "];
+}

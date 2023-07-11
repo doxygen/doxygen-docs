@@ -1,0 +1,13 @@
+<map id="HtmlDocVisitor" name="HtmlDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for HTML output." alt="" coords="240,93,361,119"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="5,5,95,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,33,268,91,266,96,96,38"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="119,5,215,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,36,284,91,281,95,195,40"/>
+<area shape="rect" id="Node000004" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="239,5,362,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="303,45,303,93,298,93,298,45"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="386,5,471,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="402,41,320,95,317,91,399,36"/>
+<area shape="rect" id="Node000006" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="496,5,575,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="501,39,423,72,346,96,344,91,421,67,499,34"/>
+</map>
