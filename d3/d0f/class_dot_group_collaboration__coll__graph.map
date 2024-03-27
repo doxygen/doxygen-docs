@@ -1,0 +1,22 @@
+<map id="DotGroupCollaboration" name="DotGroupCollaboration">
+<area shape="rect" id="Node000001" title="Representation of a group collaboration graph." alt="" coords="19,347,190,372"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="65,161,149,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,200,108,347,102,347,104,200"/>
+<area shape="rect" id="Node000005" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="145,259,224,284"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="115,199,121,217,131,233,145,246,161,256,158,261,141,250,127,236,116,219,110,201"/>
+<area shape="rect" id="Node000003" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="232,5,273,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,45,228,87,214,110,197,130,171,150,143,164,140,159,168,145,194,126,210,107,224,85,242,43"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="59,5,137,31"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="80,43,53,79,26,127,16,153,10,180,9,207,14,234,30,268,52,299,94,345,90,348,47,303,25,271,9,235,3,207,4,179,11,151,21,124,48,76,76,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="100,45,102,128,107,161,102,161,97,128,95,45"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="152,25,174,36,192,53,206,80,213,109,216,139,214,168,204,222,192,259,187,258,199,220,209,168,210,139,208,110,201,82,188,56,171,40,150,30"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,296,118,348,114,344,163,292"/>
+<area shape="rect" id="Node000006" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="295,161,375,187"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="307,197,204,261,201,256,304,192"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="298,5,383,31"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="343,44,338,161,333,161,337,44"/>
+<area shape="rect" id="Node000008" href="$d6/dbb/class_dot_node_map.html" title=" " alt="" coords="338,259,445,284"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="347,291,241,325,152,349,151,344,240,320,346,286"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="399,154,562,194"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="455,206,404,260,400,257,452,202"/>
+</map>

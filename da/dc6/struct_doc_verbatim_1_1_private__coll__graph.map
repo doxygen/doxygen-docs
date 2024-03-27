@@ -1,0 +1,11 @@
+<map id="DocVerbatim::Private" name="DocVerbatim::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,373,181,399"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,168,84,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,207,36,237,33,274,37,312,50,348,60,361,75,371,71,375,57,365,45,351,32,313,28,274,30,237,36,206"/>
+<area shape="rect" id="Node000003" href="$d9/dd3/struct_doc_node_list.html" title=" " alt="" coords="109,168,213,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,207,154,273,145,313,131,351,114,375,110,372,126,348,140,311,149,273,157,207"/>
+<area shape="rect" id="Node000004" href="$d0/d08/class_grow_vector.html" title=" " alt="" coords="45,93,277,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="163,133,163,168,158,168,158,133"/>
+<area shape="rect" id="Node000005" href="$d0/d08/class_grow_vector.html" title="std::vector like container optimised for pushing elements to the back." alt="" coords="93,5,228,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,45,163,93,158,93,158,45"/>
+</map>

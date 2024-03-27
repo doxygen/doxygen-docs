@@ -1,0 +1,9 @@
+<map id="SearchIndexExternal" name="SearchIndexExternal">
+<area shape="rect" id="Node000001" title="Writes search index that should be used with an externally provided search engine,..." alt="" coords="17,255,173,280"/>
+<area shape="rect" id="Node000002" href="$d4/d7c/struct_search_index_external_1_1_search_doc_entry.html" title=" " alt="" coords="17,152,173,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,206,98,254,93,254,93,206"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,43,83,127,91,151,86,153,78,129,50,45"/>
+<area shape="rect" id="Node000004" href="$d8/d33/class_grow_buf.html" title="Class representing a string buffer optimised for growing." alt="" coords="108,5,187,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,45,135,85,120,129,109,153,104,151,116,127,130,84,140,44"/>
+</map>

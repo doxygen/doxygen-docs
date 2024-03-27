@@ -1,0 +1,7 @@
+<map id="OutputGenerator" name="OutputGenerator">
+<area shape="rect" id="Node000001" title="Base class for specific output generators." alt="" coords="44,108,175,133"/>
+<area shape="rect" id="Node000002" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,42,105,107,101,109,64,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="126,5,205,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,44,118,109,113,107,150,42"/>
+</map>

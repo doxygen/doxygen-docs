@@ -1,0 +1,7 @@
+<map id="LayoutDocEntryMemberDecl" name="LayoutDocEntryMemberDecl">
+<area shape="rect" id="Node000001" title="Represents of a member declaration list with configurable title and subtitle." alt="" coords="27,108,235,133"/>
+<area shape="rect" id="Node000002" href="$d9/dba/struct_layout_doc_entry.html" title="Base class representing a piece of a documentation page." alt="" coords="5,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,41,126,107,121,109,80,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="155,5,234,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,44,140,109,136,107,178,41"/>
+</map>

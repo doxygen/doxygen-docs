@@ -1,0 +1,41 @@
+<map id="src/dotlegendgraph.h" name="src/dotlegendgraph.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="325,5,484,31"/>
+<area shape="rect" id="Node000002" href="$d0/daa/dotgraph_8h.html" title=" " alt="" coords="359,79,451,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,31,407,65,402,65,402,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="229,152,309,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,106,304,148,302,143,382,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="333,152,383,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,106,375,142,371,139,395,103"/>
+<area shape="rect" id="Node000005" href="$d7/d5c/qcstring_8h.html" title=" " alt="" coords="408,152,495,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="415,103,438,139,434,142,410,106"/>
+<area shape="rect" id="Node000016" href="$df/d9c/dir_8h.html" title=" " alt="" coords="945,152,995,177"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="451,96,931,156,930,161,451,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="629,299,687,324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="490,175,538,194,588,223,620,254,645,285,641,289,616,257,584,227,536,199,488,180"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="649,225,747,251"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="492,175,646,219,644,224,490,180"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="771,225,857,251"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="495,172,758,222,757,228,494,177"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,225,71,251"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="408,178,396,180,242,203,85,228,84,223,241,197,395,175,407,172"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="95,225,162,251"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="409,177,176,228,175,222,407,172"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="186,225,247,251"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="414,180,261,226,260,221,413,175"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="272,225,337,251"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="429,180,342,222,340,217,427,175"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="463,299,530,324"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="438,179,423,194,409,211,401,231,404,250,425,273,452,291,449,295,422,277,400,252,396,230,404,209,419,190,434,175"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="413,225,489,251"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="454,178,454,212,449,212,449,178"/>
+<area shape="rect" id="Node000015" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="513,225,573,251"/>
+<area shape="poly" id="edge14_Node000005_Node000015" title=" " alt="" coords="468,175,519,215,516,219,464,179"/>
+<area shape="poly" id="edge16_Node000015_Node000006" title=" " alt="" coords="563,248,629,289,626,294,560,253"/>
+<area shape="poly" id="edge15_Node000015_Node000013" title=" " alt="" coords="538,252,514,289,510,286,533,250"/>
+<area shape="poly" id="edge18_Node000016_Node000006" title=" " alt="" coords="996,172,1029,185,1062,203,1074,214,1082,226,1083,239,1076,252,1049,271,1010,286,961,297,906,304,793,312,701,313,701,308,793,307,905,299,960,291,1008,281,1047,267,1072,249,1078,238,1077,228,1070,218,1059,208,1027,190,994,177"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="881,225,958,251"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="964,179,938,216,933,213,959,176"/>
+<area shape="rect" id="Node000018" href="$df/d45/fileinfo_8h.html" title=" " alt="" coords="983,225,1061,251"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="981,176,1008,213,1003,216,976,179"/>
+<area shape="poly" id="edge21_Node000018_Node000006" title=" " alt="" coords="983,251,971,253,702,305,701,300,969,248,982,245"/>
+</map>

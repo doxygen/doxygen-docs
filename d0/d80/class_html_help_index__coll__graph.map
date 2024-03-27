@@ -1,0 +1,9 @@
+<map id="HtmlHelpIndex" name="HtmlHelpIndex">
+<area shape="rect" id="Node000001" title="A helper class for HtmlHelp that manages a two level index in alphabetical order." alt="" coords="133,196,253,221"/>
+<area shape="rect" id="Node000002" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="5,108,195,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,141,182,193,179,197,121,145"/>
+<area shape="rect" id="Node000003" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="20,5,180,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,59,103,108,97,108,97,59"/>
+<area shape="rect" id="Node000004" href="$df/d26/class_html_help_recoder.html" title="Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM..." alt="" coords="219,108,357,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,145,208,197,205,193,263,141"/>
+</map>

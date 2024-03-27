@@ -1,0 +1,13 @@
+<map id="RTFDocVisitor" name="RTFDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for RTF output." alt="" coords="244,93,357,119"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="5,5,95,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,33,268,91,266,96,96,38"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="119,5,215,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,36,284,91,281,95,195,40"/>
+<area shape="rect" id="Node000004" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="239,5,362,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="303,45,303,93,298,93,298,45"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="387,5,465,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="399,41,319,95,316,91,396,36"/>
+<area shape="rect" id="Node000006" href="$d9/d88/struct_r_t_f_doc_visitor_1_1_r_t_f_list_item_info.html" title=" " alt="" coords="489,5,712,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="556,38,449,72,354,96,352,91,448,67,555,33"/>
+</map>

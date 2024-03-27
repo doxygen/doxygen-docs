@@ -1,0 +1,45 @@
+<map id="DocHtmlCaption" name="DocHtmlCaption">
+<area shape="rect" id="Node000001" title="Node representing a HTML table caption." alt="" coords="2119,341,2248,366"/>
+<area shape="rect" id="Node000002" href="$da/dfc/class_doc_compound_node.html" title="Base class for nodes with children." alt="" coords="1919,263,2069,289"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2040,291,2152,338,2150,343,2038,296"/>
+<area shape="rect" id="Node000003" href="$d9/d0e/class_doc_node.html" title="Abstract node interface with type information." alt="" coords="1701,193,1782,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1796,218,1948,261,1947,266,1795,223"/>
+<area shape="rect" id="Node000004" href="$da/d02/class_doc_parser.html" title=" " alt="" coords="1417,178,1503,203"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1517,191,1701,201,1700,206,1517,196"/>
+<area shape="rect" id="Node000005" href="$de/dad/class_i_doc_parser.html" title="opaque parser interface" alt="" coords="1041,103,1132,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1146,121,1321,151,1417,176,1416,181,1319,156,1145,126"/>
+<area shape="rect" id="Node000006" href="$d8/d7d/struct_doc_parser_context.html" title="Parser&#39;s context to store all global variables." alt="" coords="1017,153,1156,178"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1170,168,1417,185,1416,190,1170,174"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="311,43,396,69"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="410,54,543,59,713,69,878,88,945,100,995,116,1007,127,1019,138,1045,150,1042,155,1016,142,1004,131,992,121,943,106,877,93,713,75,543,64,409,60"/>
+<area shape="rect" id="Node000013" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="730,13,829,38"/>
+<area shape="poly" id="edge13_Node000013_Node000007" title=" " alt="" coords="410,49,729,26,730,32,410,55"/>
+<area shape="rect" id="Node000008" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="314,341,393,366"/>
+<area shape="poly" id="edge23_Node000001_Node000008" title=" " alt="" coords="407,351,778,351,1995,351,2118,351,2118,356,1995,356,778,356,407,356"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="406,343,858,277,904,257,938,235,971,212,1016,187,1044,176,1046,181,1018,192,974,216,941,240,907,262,859,283,407,349"/>
+<area shape="rect" id="Node000014" href="$d6/df4/struct_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="737,478,821,503"/>
+<area shape="poly" id="edge15_Node000014_Node000008" title=" " alt="" coords="372,376,391,404,418,435,450,465,488,487,520,498,553,505,621,510,685,506,736,497,737,503,685,511,621,515,552,510,518,503,486,492,447,469,414,439,387,408,367,379"/>
+<area shape="rect" id="Node000009" href="$d9/d82/class_iterable_stack.html" title=" " alt="" coords="700,125,859,165"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="872,149,1017,158,1017,164,872,154"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="244,117,463,171"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="477,142,700,142,700,148,477,147"/>
+<area shape="rect" id="Node000011" href="$d9/d82/class_iterable_stack.html" title=" " alt="" coords="245,195,462,221"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="475,191,676,163,699,159,700,164,676,168,476,196"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="32,188,168,228"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="182,205,244,205,244,211,182,211"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="842,16,880,16,921,22,960,35,995,57,1004,67,1008,77,1009,98,1009,119,1019,138,1036,150,1033,155,1015,142,1004,120,1004,98,1003,79,999,70,992,61,958,39,919,27,880,22,842,21"/>
+<area shape="poly" id="edge14_Node000006_Node000014" title=" " alt="" coords="819,469,861,445,908,413,954,372,991,324,999,306,1002,288,1000,255,999,223,1004,205,1015,188,1030,176,1033,180,1019,191,1009,208,1004,223,1005,255,1008,289,1004,307,996,327,957,376,911,417,863,450,821,474"/>
+<area shape="rect" id="Node000015" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="297,545,410,570"/>
+<area shape="poly" id="edge22_Node000001_Node000015" title=" " alt="" coords="424,561,585,571,778,577,1995,577,2034,570,2067,551,2097,523,2121,490,2141,454,2157,419,2176,365,2181,367,2162,421,2146,456,2126,493,2101,527,2071,555,2036,575,1996,583,778,583,585,577,423,566"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="423,556,542,552,609,545,675,532,717,518,753,501,756,506,719,523,677,537,610,550,543,557,424,562"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="5,545,195,570"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="208,555,296,555,296,560,208,560"/>
+<area shape="rect" id="Node000017" href="$d1/d7f/class_doc_tokenizer.html" title=" " alt="" coords="1033,202,1141,227"/>
+<area shape="poly" id="edge18_Node000004_Node000017" title=" " alt="" coords="1155,213,1234,212,1320,208,1416,196,1417,201,1320,213,1234,218,1155,218"/>
+<area shape="rect" id="Node000018" href="$d9/dd3/struct_doc_node_list.html" title=" " alt="" coords="1689,263,1793,289"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="1807,273,1918,273,1918,279,1807,279"/>
+<area shape="rect" id="Node000019" href="$d0/d08/class_grow_vector.html" title=" " alt="" coords="1344,263,1576,289"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="1590,273,1689,273,1689,279,1590,279"/>
+<area shape="rect" id="Node000020" href="$d0/d08/class_grow_vector.html" title="std::vector like container optimised for pushing elements to the back." alt="" coords="1019,263,1154,289"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1168,273,1344,273,1344,279,1168,279"/>
+</map>

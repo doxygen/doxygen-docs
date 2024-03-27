@@ -1,0 +1,12 @@
+<map id="src/doctokenizer.h" name="src/doctokenizer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,243,31"/>
+<area shape="rect" id="Node000002" href="$d0/d2b/docnode_8cpp.html" title=" " alt="" coords="5,152,132,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,40,117,58,96,80,79,118,72,152,67,151,74,117,92,77,114,54,138,36"/>
+<area shape="rect" id="Node000003" href="$df/dc9/docparser__p_8h.html" title="Private header shared between docparser.cpp and docnode.cpp." alt="" coords="106,79,242,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,44,177,79,171,79,171,44"/>
+<area shape="rect" id="Node000005" href="$d1/d39/doctokenizer_8l.html" title=" " alt="" coords="267,79,401,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="213,34,309,76,307,81,211,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="147,114,87,154,84,150,144,110"/>
+<area shape="rect" id="Node000004" href="$da/d17/docparser_8cpp.html" title=" " alt="" coords="156,152,291,177"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="192,114,218,150,213,153,188,117"/>
+</map>

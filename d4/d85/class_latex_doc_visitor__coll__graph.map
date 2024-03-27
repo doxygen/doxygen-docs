@@ -1,0 +1,17 @@
+<map id="LatexDocVisitor" name="LatexDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for LaTeX output." alt="" coords="615,171,740,196"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="326,5,415,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,12,468,13,510,18,553,30,592,49,623,77,647,111,674,169,669,172,642,113,619,80,589,54,551,35,509,24,467,18,429,17"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,75,101,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,82,181,82,251,86,423,105,497,121,591,146,650,168,648,173,590,151,496,126,422,111,250,91,180,88,115,88"/>
+<area shape="rect" id="Node000005" href="$d0/d37/class_latex_code_generator.html" title="Generator for LaTeX code fragments." alt="" coords="293,144,449,169"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="115,98,126,101,311,141,310,147,125,106,114,104"/>
+<area shape="rect" id="Node000004" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="309,257,432,283"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="446,267,517,259,554,251,590,240,629,218,660,194,664,198,632,222,592,244,555,256,518,264,446,272"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="463,162,615,175,614,181,462,167"/>
+<area shape="rect" id="Node000006" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="14,173,93,199"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="107,186,275,193,467,193,614,185,614,190,467,198,275,198,106,191"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="107,178,292,161,293,166,107,184"/>
+<area shape="rect" id="Node000007" href="$da/dc3/struct_latex_doc_visitor_1_1_latex_list_item_info.html" title=" " alt="" coords="275,307,467,347"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="480,318,536,305,589,282,615,263,637,239,667,195,671,198,641,242,619,267,592,287,538,310,481,323"/>
+</map>
