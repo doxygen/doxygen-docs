@@ -1,0 +1,9 @@
+<map id="DotLegendGraph" name="DotLegendGraph">
+<area shape="rect" id="Node000001" title="Representation of a legend explaining the meaning of boxes, arrows, and colors." alt="" coords="5,227,136,252"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="29,152,113,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,192,73,226,68,226,68,192"/>
+<area shape="rect" id="Node000003" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="9,5,50,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="31,45,34,85,45,127,61,150,57,153,40,129,29,85,26,45"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="74,5,153,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="110,45,87,129,78,153,73,151,81,127,105,44"/>
+</map>

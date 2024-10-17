@@ -1,0 +1,21 @@
+<map id="OutputCodeIntf" name="OutputCodeIntf">
+<area shape="rect" id="Node000001" title="Base class for code generators." alt="" coords="5,203,127,228"/>
+<area shape="rect" id="Node000002" href="$d0/d4a/class_dev_null_code_generator.html" title="Class implementing OutputCodeIntf by throwing away everything." alt="" coords="202,5,374,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,188,87,154,109,114,137,73,173,40,200,26,203,31,176,44,141,77,113,117,92,156,78,190"/>
+<area shape="rect" id="Node000003" href="$d7/d80/class_docbook_code_generator.html" title=" " alt="" coords="199,55,377,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,189,117,138,143,111,173,89,198,78,201,83,176,94,147,115,121,141,84,192"/>
+<area shape="rect" id="Node000004" href="$da/db6/class_html_code_generator.html" title="Generator for HTML code fragments." alt="" coords="212,104,364,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,192,128,164,174,138,211,126,213,131,176,143,131,168,94,196"/>
+<area shape="rect" id="Node000005" href="$d0/d37/class_latex_code_generator.html" title="Generator for LaTeX code fragments." alt="" coords="210,153,366,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="133,197,174,187,226,176,227,181,175,193,134,202"/>
+<area shape="rect" id="Node000006" href="$db/d92/class_man_code_generator.html" title="Generator for Man page code fragments." alt="" coords="214,203,362,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,213,214,213,214,218,140,218"/>
+<area shape="rect" id="Node000007" href="$dd/d41/class_output_code_defer.html" title="Helper template class which defers all methods of OutputCodeIntf to an existing object of the templat..." alt="" coords="175,253,401,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="130,229,211,250,209,255,128,234"/>
+<area shape="rect" id="Node000008" href="$d5/d4a/class_output_code_recorder.html" title="Implementation that allows capturing calls made to the code interface to later invoke them on a Outpu..." alt="" coords="209,317,367,343"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="90,236,128,271,176,302,210,315,208,320,173,307,125,275,87,240"/>
+<area shape="rect" id="Node000009" href="$d2/df7/class_r_t_f_code_generator.html" title="Generator for RTF code fragments." alt="" coords="216,367,360,392"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="82,239,119,297,145,327,176,352,217,369,215,373,173,356,141,331,115,300,77,242"/>
+<area shape="rect" id="Node000010" href="$dd/d66/class_x_m_l_code_generator.html" title=" " alt="" coords="214,416,362,441"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="77,241,91,277,111,321,139,365,176,401,194,412,214,419,213,424,192,416,173,405,135,368,106,324,86,279,72,242"/>
+</map>

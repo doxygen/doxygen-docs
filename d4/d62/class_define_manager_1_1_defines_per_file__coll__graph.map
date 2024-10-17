@@ -1,0 +1,5 @@
+<map id="DefineManager::DefinesPerFile" name="DefineManager::DefinesPerFile">
+<area shape="rect" id="Node000001" title="Local class used to hold the defines for a single file." alt="" coords="5,93,228,119"/>
+<area shape="rect" id="Node000002" href="$d7/d10/class_define_manager.html" title="Class that manages the defines available while preprocessing files." alt="" coords="56,5,177,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,45,119,93,114,93,114,45"/>
+</map>

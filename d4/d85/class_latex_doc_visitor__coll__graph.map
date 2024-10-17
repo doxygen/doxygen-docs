@@ -1,0 +1,19 @@
+<map id="LatexDocVisitor" name="LatexDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for LaTeX output." alt="" coords="640,183,765,208"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="351,5,441,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,11,493,12,535,18,578,29,618,49,650,80,674,117,691,153,700,181,695,183,686,155,669,119,646,83,614,54,576,34,534,23,492,18,454,17"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="18,72,114,97"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,80,199,81,276,86,373,97,449,108,523,124,617,153,679,180,677,185,615,158,522,130,448,113,373,102,276,91,199,86,128,86"/>
+<area shape="rect" id="Node000005" href="$d0/d37/class_latex_code_generator.html" title="Generator for LaTeX code fragments." alt="" coords="318,148,474,173"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="128,96,340,145,339,150,127,101"/>
+<area shape="rect" id="Node000004" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="335,291,457,316"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,302,543,295,580,286,615,273,638,259,659,241,690,206,694,210,663,245,641,263,617,278,581,291,544,300,472,308"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="488,168,640,186,640,191,487,174"/>
+<area shape="rect" id="Node000006" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="5,136,127,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="141,149,318,155,317,161,141,154"/>
+<area shape="rect" id="Node000007" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="27,207,105,232"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="119,217,276,214,640,196,640,202,276,219,119,222"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="119,211,275,189,350,171,351,176,277,194,120,217"/>
+<area shape="rect" id="Node000008" href="$da/dc3/struct_latex_doc_visitor_1_1_latex_list_item_info.html" title=" " alt="" coords="300,341,492,381"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="505,355,562,343,589,332,614,318,643,293,666,262,694,207,699,209,671,265,647,297,618,323,591,337,563,348,506,360"/>
+</map>

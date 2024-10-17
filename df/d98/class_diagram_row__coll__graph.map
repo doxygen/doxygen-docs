@@ -1,0 +1,5 @@
+<map id="DiagramRow" name="DiagramRow">
+<area shape="rect" id="Node000001" title="Class representing a row in the built&#45;in class diagram." alt="" coords="5,93,112,119"/>
+<area shape="rect" id="Node000002" href="$d4/dc4/class_tree_diagram.html" title="Class representing the tree layout for the built&#45;in class diagram." alt="" coords="6,5,111,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,45,61,93,56,93,56,45"/>
+</map>

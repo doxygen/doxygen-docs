@@ -1,0 +1,9 @@
+<map id="BaseClassDef" name="BaseClassDef">
+<area shape="rect" id="Node000001" title="Class that contains information about an inheritance relation." alt="" coords="44,183,156,208"/>
+<area shape="rect" id="Node000002" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="8,80,88,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,119,56,138,64,157,85,181,81,184,59,160,51,140,47,120"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,5,91,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,45,51,80,45,80,45,45"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="113,80,191,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,119,125,160,110,184,106,181,120,157,140,117"/>
+</map>

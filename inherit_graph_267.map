@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="5,80,136,105"/>
+<area shape="rect" id="Node000001" href="$d1/d72/class_docbook_generator.html" title=" " alt="" coords="184,55,328,80"/>
+<area shape="poly" id="edge219_Node000000_Node000001" title=" " alt="" coords="149,79,183,75,184,80,150,85"/>
+<area shape="rect" id="Node000003" href="$d7/d41/class_html_generator.html" title="Generator for HTML output." alt="" coords="197,104,315,129"/>
+<area shape="poly" id="edge220_Node000000_Node000003" title=" " alt="" coords="150,100,197,106,196,112,150,106"/>
+<area shape="rect" id="Node000004" href="$d3/d77/class_latex_generator.html" title="Generator for LaTeX output." alt="" coords="195,153,317,179"/>
+<area shape="poly" id="edge221_Node000000_Node000004" title=" " alt="" coords="122,108,137,114,185,138,218,151,216,156,183,143,135,119,120,113"/>
+<area shape="rect" id="Node000005" href="$de/da5/class_man_generator.html" title="Generator for Man page output." alt="" coords="199,203,313,228"/>
+<area shape="poly" id="edge222_Node000000_Node000005" title=" " alt="" coords="131,110,138,115,154,134,162,153,170,171,186,189,205,200,202,205,182,193,165,174,157,155,150,137,134,119,128,114"/>
+<area shape="rect" id="Node000006" href="$d0/da4/class_r_t_f_generator.html" title="Generator for RTF output." alt="" coords="201,5,311,31"/>
+<area shape="poly" id="edge223_Node000000_Node000006" title=" " alt="" coords="110,72,183,40,214,28,216,33,185,44,112,76"/>
+<area shape="rect" id="Node000002" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="13,129,128,155"/>
+<area shape="poly" id="edge224_Node000002_Node000001" title=" " alt="" coords="118,122,135,114,183,89,213,78,214,83,185,94,137,119,120,127"/>
+<area shape="poly" id="edge225_Node000002_Node000003" title=" " alt="" coords="141,130,196,122,197,127,142,135"/>
+<area shape="poly" id="edge226_Node000002_Node000004" title=" " alt="" coords="142,149,195,155,194,161,142,154"/>
+<area shape="poly" id="edge227_Node000002_Node000005" title=" " alt="" coords="113,158,185,189,216,200,214,205,183,194,111,163"/>
+<area shape="poly" id="edge228_Node000002_Node000006" title=" " alt="" coords="126,121,134,115,150,96,157,78,165,59,182,40,202,28,205,33,186,44,170,62,162,80,154,99,138,119,129,125"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DocLexerContext" name="DocLexerContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,359,182,384"/>
+<area shape="rect" id="Node000002" href="$d6/df4/struct_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="73,271,157,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,310,118,358,113,358,113,310"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="40,119,35,147,32,180,36,214,48,245,61,259,77,268,74,273,57,263,44,248,31,215,27,180,30,146,35,118"/>
+<area shape="rect" id="Node000004" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="131,80,244,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,119,184,180,175,215,160,248,149,262,136,273,133,268,145,258,156,245,170,213,179,179,185,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="93,5,282,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,45,190,80,185,80,185,45"/>
+</map>

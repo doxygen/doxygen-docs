@@ -1,0 +1,16 @@
+<map id="ManGenerator" name="ManGenerator">
+<area shape="rect" id="Node000001" title="Generator for Man page output." alt="" coords="234,196,349,221"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="226,108,357,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,147,294,195,289,195,289,147"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="151,5,247,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,39,283,106,279,110,217,43"/>
+<area shape="rect" id="Node000006" href="$db/d92/class_man_code_generator.html" title="Generator for Man page code fragments." alt="" coords="53,108,201,133"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="176,42,163,56,146,84,134,109,129,107,141,81,159,53,172,38"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="272,5,351,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="309,45,296,109,291,107,304,44"/>
+<area shape="rect" id="Node000005" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="381,108,495,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="408,143,313,198,310,193,405,138"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,139,206,170,260,194,258,198,203,174,153,144"/>
+<area shape="rect" id="Node000007" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="5,5,127,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="82,41,123,107,118,109,78,44"/>
+</map>

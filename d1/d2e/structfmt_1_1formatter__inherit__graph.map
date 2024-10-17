@@ -1,0 +1,38 @@
+<map id="fmt::formatter&lt; T &gt;" name="fmt::formatter&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,353,159,379"/>
+<area shape="rect" id="Node000002" href="$db/d75/structfmt_1_1formatter.html" title=" " alt="" coords="307,317,457,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,355,306,341,307,347,173,360"/>
+<area shape="rect" id="Node000003" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting EntryType" alt="" coords="517,195,727,220"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="108,342,142,318,182,297,267,266,356,243,442,226,517,215,518,220,442,232,357,248,269,271,184,302,144,323,111,347"/>
+<area shape="rect" id="Node000004" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting MemberListType" alt="" coords="519,278,725,318"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="124,345,182,325,269,306,359,295,444,291,519,290,519,296,444,296,359,300,270,311,183,330,126,350"/>
+<area shape="rect" id="Node000005" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting MemberType" alt="" coords="507,5,737,31"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="89,339,122,258,148,211,181,168,215,136,253,109,295,87,338,68,426,41,507,25,508,30,427,46,340,73,297,91,256,114,218,140,185,172,152,214,127,260,94,341"/>
+<area shape="rect" id="Node000006" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting MethodTypes" alt="" coords="507,140,737,165"/>
+<area shape="poly" id="edge16_Node000001_Node000006" title=" " alt="" coords="100,340,136,301,181,263,219,239,259,219,345,188,429,168,506,157,507,162,430,174,346,193,262,224,222,243,184,267,140,305,104,344"/>
+<area shape="rect" id="Node000007" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting Protected" alt="" coords="517,88,727,113"/>
+<area shape="poly" id="edge17_Node000001_Node000007" title=" " alt="" coords="94,340,129,281,153,249,181,219,212,192,238,173,306,145,359,129,413,117,516,103,517,109,414,122,360,134,308,150,241,178,215,196,185,223,157,252,133,284,98,343"/>
+<area shape="rect" id="Node000008" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting QCString" alt="" coords="521,632,723,657"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="98,390,133,448,157,479,184,508,222,537,263,562,306,583,351,599,440,623,521,635,520,641,439,628,349,604,304,587,260,567,219,542,181,512,153,483,129,451,94,393"/>
+<area shape="rect" id="Node000009" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting RelatesType" alt="" coords="510,365,734,391"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="172,372,307,381,457,381,510,379,510,385,457,386,307,386,172,377"/>
+<area shape="rect" id="Node000010" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting RelationShip" alt="" coords="509,512,735,537"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="123,382,184,409,282,443,383,471,553,509,552,515,382,476,281,448,182,414,121,387"/>
+<area shape="rect" id="Node000011" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting Specifier" alt="" coords="521,696,723,721"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="93,392,105,431,124,480,150,530,185,576,220,608,260,634,303,655,348,672,439,694,521,704,521,709,438,699,346,677,301,660,257,639,216,612,181,580,146,533,119,482,100,433,87,393"/>
+<area shape="rect" id="Node000012" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting SrcLangExt" alt="" coords="513,435,731,460"/>
+<area shape="poly" id="edge22_Node000001_Node000012" title=" " alt="" coords="149,379,183,386,357,414,513,433,513,439,356,419,182,391,148,384"/>
+<area shape="rect" id="Node000013" href="$db/d75/structfmt_1_1formatter.html" title="adds support for formatting TypeSpecifier" alt="" coords="507,575,737,600"/>
+<area shape="poly" id="edge23_Node000001_Node000013" title=" " alt="" coords="107,386,142,418,184,449,226,474,271,496,364,531,454,556,532,572,531,577,453,561,362,536,269,501,224,479,181,454,139,422,104,390"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,307,505,264,594,218,596,222,508,268,431,312"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="471,317,481,315,518,309,519,315,482,321,472,322"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="418,306,438,285,455,261,466,234,471,210,473,164,478,120,487,97,505,73,539,46,577,28,579,33,542,51,509,77,492,100,483,122,478,165,477,210,471,236,460,263,442,288,422,309"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="414,305,455,260,469,238,477,218,486,199,505,180,538,163,540,168,508,184,491,202,482,220,474,240,459,264,418,309"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="417,305,437,284,455,261,465,241,470,224,474,190,481,158,490,141,505,125,527,111,530,116,508,129,494,145,486,159,479,191,475,225,470,243,460,263,441,288,421,309"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="446,363,460,378,476,410,483,441,483,471,480,500,477,528,479,556,488,583,509,611,537,630,534,634,505,615,483,586,474,557,472,528,475,500,478,471,478,442,471,412,455,381,442,367"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="472,347,483,349,559,363,558,368,482,354,471,352"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="440,362,459,378,476,402,484,425,492,447,509,469,542,493,578,509,576,514,539,498,505,473,487,449,479,427,472,404,455,381,437,366"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="446,363,460,378,468,396,473,420,478,477,480,536,484,580,489,629,494,648,509,668,528,683,550,694,548,698,525,688,505,672,489,650,484,630,479,581,475,536,473,478,468,421,463,398,455,381,442,367"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="432,361,508,400,587,432,585,437,506,404,430,366"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="444,363,459,378,474,401,480,423,482,466,485,506,493,526,509,547,528,562,550,572,548,577,525,566,505,551,489,529,480,508,477,466,475,424,469,403,455,381,440,366"/>
+</map>

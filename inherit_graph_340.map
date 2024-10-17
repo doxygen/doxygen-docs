@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,109,124,134"/>
+<area shape="rect" id="Node000001" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="185,5,349,45"/>
+<area shape="poly" id="edge237_Node000000_Node000001" title=" " alt="" coords="94,99,171,55,200,43,202,48,173,60,97,103"/>
+<area shape="rect" id="Node000002" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="185,69,349,109"/>
+<area shape="poly" id="edge238_Node000000_Node000002" title=" " alt="" coords="137,107,185,100,186,105,138,113"/>
+<area shape="rect" id="Node000003" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="185,133,349,173"/>
+<area shape="poly" id="edge239_Node000000_Node000003" title=" " alt="" coords="138,130,186,138,185,143,137,135"/>
+<area shape="rect" id="Node000004" href="$da/dc3/class_deep_copy_unique_ptr.html" title="Helper class add copy/assignment support to std::unique_ptr by making a deep copy Note that T may not..." alt="" coords="172,198,363,223"/>
+<area shape="poly" id="edge240_Node000000_Node000004" title=" " alt="" coords="96,139,132,162,173,183,209,195,208,200,171,188,129,167,93,144"/>
+</map>
