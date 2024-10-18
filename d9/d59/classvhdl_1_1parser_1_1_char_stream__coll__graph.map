@@ -1,0 +1,5 @@
+<map id="vhdl::parser::CharStream" name="vhdl::parser::CharStream">
+<area shape="rect" id="Node000001" title="This class describes a character stream that maintains line and column number positions of the charac..." alt="" coords="5,93,189,119"/>
+<area shape="rect" id="Node000002" href="$d4/d89/class_reader_stream.html" title=" " alt="" coords="40,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,45,100,93,95,93,95,45"/>
+</map>

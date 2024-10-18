@@ -1,0 +1,17 @@
+<map id="src/stringutil.h" name="src/stringutil.h">
+<area shape="rect" id="Node000001" title="Some helper functions for std::string." alt="" coords="486,5,601,31"/>
+<area shape="rect" id="Node000002" href="$d5/dd8/aliases_8cpp.html" title=" " alt="" coords="5,79,124,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,32,136,81,124,83,124,78,135,76,472,27"/>
+<area shape="rect" id="Node000003" href="$d0/d47/commentcnv_8l.html" title=" " alt="" coords="148,79,285,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="478,36,270,81,269,76,477,31"/>
+<area shape="rect" id="Node000004" href="$d7/d5f/commentscan_8l.html" title=" " alt="" coords="309,79,455,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="506,39,409,81,407,76,504,34"/>
+<area shape="rect" id="Node000005" href="$dc/d98/doxygen_8cpp.html" title=" " alt="" coords="479,79,607,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="546,44,546,79,541,79,541,44"/>
+<area shape="rect" id="Node000006" href="$de/d04/markdown_8cpp.html" title=" " alt="" coords="631,79,773,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="582,34,677,76,675,81,580,39"/>
+<area shape="rect" id="Node000007" href="$de/d2b/pyscanner_8l.html" title=" " alt="" coords="797,79,916,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="607,31,807,76,805,81,606,36"/>
+<area shape="rect" id="Node000008" href="$df/d2d/util_8cpp.html" title=" " alt="" coords="941,79,1034,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="615,27,929,76,941,78,940,83,928,81,614,32"/>
+</map>

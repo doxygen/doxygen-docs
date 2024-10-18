@@ -1,0 +1,11 @@
+<map id="PerlModDocVisitor" name="PerlModDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for PerlMod output." alt="" coords="107,181,249,207"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="5,93,95,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,124,162,179,159,183,77,129"/>
+<area shape="rect" id="Node000003" href="$d5/d6c/class_perl_mod_output.html" title=" " alt="" coords="119,93,237,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,133,181,181,175,181,175,133"/>
+<area shape="rect" id="Node000004" href="$d4/de6/class_perl_mod_output_stream.html" title=" " alt="" coords="95,5,261,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,45,181,93,175,93,175,45"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="261,93,340,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="283,131,252,160,208,184,205,179,248,155,280,127"/>
+</map>

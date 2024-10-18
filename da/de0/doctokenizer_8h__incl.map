@@ -1,0 +1,38 @@
+<map id="src/doctokenizer.h" name="src/doctokenizer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,5,406,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="95,79,162,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,33,175,77,174,72,302,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="186,79,263,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,33,256,73,253,69,317,28"/>
+<area shape="rect" id="Node000004" href="$d0/d73/htmlattrib_8h.html" title=" " alt="" coords="287,79,386,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,31,339,65,334,65,334,31"/>
+<area shape="rect" id="Node000006" href="$d7/d5c/qcstring_8h.html" title=" " alt="" coords="380,152,466,177"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="354,29,377,50,400,77,414,108,421,138,416,139,409,110,395,80,374,53,350,33"/>
+<area shape="rect" id="Node000017" href="$d7/dfc/construct_8h.html" title=" " alt="" coords="461,79,556,104"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="365,28,469,71,467,76,363,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="293,152,356,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="337,105,331,139,326,138,332,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="352,102,400,141,396,145,348,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="326,299,384,324"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="380,178,367,180,286,185,179,186,126,190,78,197,39,209,13,227,8,238,13,249,33,264,63,276,145,293,235,303,312,307,312,312,235,308,144,299,61,281,30,268,9,252,3,238,9,224,37,204,77,192,126,185,179,181,285,179,367,175,379,172"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="24,225,121,251"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="380,177,367,180,135,227,134,222,366,175,379,172"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="146,225,231,251"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="386,180,240,224,238,219,384,175"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="256,225,321,251"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="402,180,324,221,321,216,400,175"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="346,225,412,251"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="418,179,395,215,391,212,413,176"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="436,225,498,251"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="432,176,455,212,450,215,428,179"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="522,225,588,251"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="445,175,523,216,520,221,443,180"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="692,299,759,324"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="467,164,547,167,643,176,731,194,764,207,786,224,793,242,787,261,773,278,756,293,752,289,769,274,782,258,788,242,782,227,761,212,729,199,642,181,547,172,466,169"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="696,225,772,251"/>
+<area shape="poly" id="edge14_Node000006_Node000015" title=" " alt="" coords="467,173,682,222,681,227,466,178"/>
+<area shape="rect" id="Node000016" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="612,225,672,251"/>
+<area shape="poly" id="edge15_Node000006_Node000016" title=" " alt="" coords="459,175,599,220,597,225,457,180"/>
+<area shape="poly" id="edge17_Node000016_Node000007" title=" " alt="" coords="612,250,601,253,399,303,397,297,600,248,611,245"/>
+<area shape="poly" id="edge16_Node000016_Node000014" title=" " alt="" coords="657,249,703,287,699,292,653,253"/>
+</map>

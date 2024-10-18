@@ -1,0 +1,28 @@
+<map id="Entry" name="Entry">
+<area shape="rect" id="Node000001" title="Represents an unstructured piece of information, about an entity found in the sources." alt="" coords="669,364,725,389"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="674,349,681,341,697,337,711,340,720,346,722,356,718,365,713,363,717,355,715,349,709,345,697,343,684,345,678,353"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_entry_type.html" title="Wrapper class for the Entry type." alt="" coords="369,5,455,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,34,489,48,541,82,580,111,613,146,648,197,669,242,684,289,697,363,692,364,679,291,664,244,643,199,609,149,576,115,538,86,487,52,461,39"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="35,268,114,293"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,259,135,244,167,233,216,225,280,221,430,221,568,232,618,240,647,250,671,276,686,307,694,339,698,363,692,364,689,340,681,309,666,279,644,255,617,245,568,237,430,227,280,226,217,231,169,238,137,249,108,263"/>
+<area shape="rect" id="Node000004" href="$d3/dc3/struct_tag_info.html" title="This struct is used to capture the tag file information for an Entry." alt="" coords="377,265,447,291"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="127,278,312,277,377,276,377,281,312,282,127,283"/>
+<area shape="rect" id="Node000007" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="357,315,467,340"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="128,290,168,298,269,312,357,320,357,326,268,317,168,303,127,295"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="460,270,502,269,551,272,600,282,647,302,663,315,676,332,693,363,689,365,672,335,659,319,644,307,599,288,550,277,502,274,461,275"/>
+<area shape="rect" id="Node000005" href="$d7/dc8/class_type_specifier.html" title="Wrapper class for a number of boolean properties." alt="" coords="358,364,466,389"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="480,374,669,374,669,379,480,379"/>
+<area shape="rect" id="Node000006" href="$d7/d80/class_command_overrides.html" title=" " alt="" coords="336,413,488,439"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="502,417,572,409,645,394,668,386,670,391,646,399,573,414,503,423"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="480,331,560,342,646,358,670,365,668,370,645,363,559,347,480,337"/>
+<area shape="rect" id="Node000008" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="364,467,460,492"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="474,484,514,484,558,480,603,470,644,452,660,438,673,422,689,388,694,391,677,424,664,442,647,456,605,475,559,486,514,489,474,489"/>
+<area shape="rect" id="Node000009" href="$da/d1d/class_local_toc.html" title=" " alt="" coords="373,516,451,541"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="465,536,507,539,554,537,602,527,624,518,644,505,667,479,681,447,689,415,693,389,698,390,694,416,686,449,671,482,647,509,626,523,603,532,555,543,507,544,464,541"/>
+<area shape="rect" id="Node000010" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="378,565,446,591"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="460,587,503,592,552,592,601,583,623,573,644,560,653,548,661,530,676,481,692,389,697,390,681,483,666,532,657,551,647,564,626,578,602,588,553,598,503,598,459,592"/>
+<area shape="rect" id="Node000011" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,540,144,565"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="158,556,378,573,378,578,157,561"/>
+<area shape="rect" id="Node000012" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="32,589,117,615"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="131,595,378,578,378,583,131,601"/>
+</map>
