@@ -1,0 +1,7 @@
+<map id="ConfigInfo" name="ConfigInfo">
+<area shape="rect" id="Node000001" title="Section marker for grouping the configuration options." alt="" coords="15,241,103,267"/>
+<area shape="rect" id="Node000002" href="$d2/dd3/class_config_option.html" title="Abstract base class for any configuration option." alt="" coords="5,167,112,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,206,61,241,56,241,56,206"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="19,5,98,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,44,61,166,56,166,56,44"/>
+</map>

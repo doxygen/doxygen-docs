@@ -1,0 +1,18 @@
+<map id="RTFGenerator" name="RTFGenerator">
+<area shape="rect" id="Node000001" title="Generator for RTF output." alt="" coords="214,196,324,221"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="94,108,225,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,140,256,194,252,198,184,144"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="309,5,405,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,45,345,67,329,86,290,98,225,111,224,106,289,93,326,82,340,64,349,43"/>
+<area shape="rect" id="Node000006" href="$d2/df7/class_r_t_f_code_generator.html" title="Generator for RTF code fragments." alt="" coords="388,108,532,133"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="381,39,450,106,446,110,377,42"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="47,5,126,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="60,41,37,61,18,84,8,109,9,120,15,132,27,143,46,153,97,171,214,197,213,202,96,177,44,158,24,147,11,135,4,122,3,108,13,81,34,57,57,37"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="84,44,84,64,90,83,102,96,119,106,116,110,99,100,85,85,78,65,78,44"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="136,34,169,53,182,69,186,76,194,82,241,100,281,104,323,102,376,105,388,107,387,112,375,111,323,108,281,109,240,105,192,86,183,79,178,72,166,57,133,38"/>
+<area shape="rect" id="Node000005" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="249,108,364,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="298,147,277,197,272,194,293,145"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="423,142,296,198,294,193,420,137"/>
+<area shape="rect" id="Node000007" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="430,5,551,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="485,45,466,109,461,107,480,43"/>
+</map>

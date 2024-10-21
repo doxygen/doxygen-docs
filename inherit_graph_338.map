@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,84,56"/>
+<area shape="rect" id="Node000001" href="$d6/dbb/class_dot_node_map.html" title=" " alt="" coords="132,5,239,31"/>
+<area shape="poly" id="edge233_Node000000_Node000001" title=" " alt="" coords="97,31,131,25,132,30,98,37"/>
+<area shape="rect" id="Node000002" href="$d2/d76/class_use_map.html" title="module name &#45;&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed v..." alt="" coords="148,55,223,80"/>
+<area shape="poly" id="edge234_Node000000_Node000002" title=" " alt="" coords="98,50,148,58,147,64,97,55"/>
+</map>

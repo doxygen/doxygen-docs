@@ -1,0 +1,5 @@
+<map id="ManCodeGenerator" name="ManCodeGenerator">
+<area shape="rect" id="Node000001" title="Generator for Man page code fragments." alt="" coords="5,79,153,104"/>
+<area shape="rect" id="Node000002" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="19,5,140,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,44,82,79,77,79,77,44"/>
+</map>

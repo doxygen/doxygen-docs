@@ -1,0 +1,8 @@
+<map id="ConfigBool" name="ConfigBool">
+<area shape="rect" id="Node000001" title="Class representing a Boolean type option." alt="" coords="29,241,121,267"/>
+<area shape="rect" id="Node000002" href="$d2/dd3/class_config_option.html" title="Abstract base class for any configuration option." alt="" coords="146,167,253,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,201,97,243,94,239,166,197"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="41,44,31,112,31,152,38,191,51,218,67,240,63,243,46,221,33,193,26,152,25,112,36,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,39,190,164,186,168,63,42"/>
+</map>

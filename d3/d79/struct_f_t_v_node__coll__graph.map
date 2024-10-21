@@ -1,0 +1,7 @@
+<map id="FTVNode" name="FTVNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,137,138,163"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,43,61,77,75,112,90,135,86,138,70,115,56,78,47,45"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="109,5,194,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,45,139,78,124,115,110,138,105,135,120,112,134,77,143,43"/>
+</map>

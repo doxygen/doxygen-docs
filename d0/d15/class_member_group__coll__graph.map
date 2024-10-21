@@ -1,0 +1,17 @@
+<map id="MemberGroup" name="MemberGroup">
+<area shape="rect" id="Node000001" title="A class representing a group of members." alt="" coords="156,300,271,325"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="55,168,140,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,206,107,241,114,259,125,274,141,288,161,298,159,302,139,292,121,278,110,261,102,243,95,207"/>
+<area shape="rect" id="Node000003" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects as shown in documentation sections." alt="" coords="164,168,263,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,207,216,300,211,300,211,207"/>
+<area shape="rect" id="Node000004" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="5,80,123,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,110,194,165,192,170,95,115"/>
+<area shape="rect" id="Node000005" href="$d4/d15/class_member_group_ref_list.html" title=" " alt="" coords="147,80,307,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="220,119,217,130,215,168,210,168,212,129,215,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="114,5,339,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="229,45,229,80,224,80,224,45"/>
+<area shape="rect" id="Node000007" href="$d0/dd9/class_member_list_type.html" title="Wrapper class for the MemberListType type." alt="" coords="343,80,473,105"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="401,120,392,134,380,146,335,160,263,173,262,168,334,154,377,142,388,131,397,117"/>
+<area shape="rect" id="Node000008" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="298,168,377,193"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="338,207,330,243,322,262,310,278,291,292,270,302,268,298,288,288,306,274,317,259,325,241,333,206"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GetDefInput" name="GetDefInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,197,158,223"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,119,41,146,48,172,60,185,75,195,72,199,56,189,44,175,35,147,36,119"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="136,80,204,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,120,157,147,143,175,122,199,118,196,138,172,152,145,161,118"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="33,5,171,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,39,161,78,157,81,121,43"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="195,5,281,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="219,43,183,81,179,78,216,39"/>
+</map>

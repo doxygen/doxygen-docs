@@ -1,0 +1,6 @@
+<map id="vhdl::parser::ParseException" name="vhdl::parser::ParseException">
+<area shape="rect" id="Node000001" title="This exception is thrown when parse errors are encountered." alt="" coords="5,97,212,123"/>
+<area shape="rect" id="Node000002" href="$dc/de7/classvhdl_1_1parser_1_1_token.html" title="Describes the input token stream." alt="" coords="37,7,181,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,46,111,97,106,97,106,46"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="195,11,207,20,199,28,181,31,180,25,197,23,202,20,193,16"/>
+</map>

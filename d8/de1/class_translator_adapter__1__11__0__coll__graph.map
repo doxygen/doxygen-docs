@@ -1,0 +1,10 @@
+<map id="TranslatorAdapter_1_11_0" name="TranslatorAdapter_1_11_0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,243,196,268"/>
+<area shape="rect" id="Node000002" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="16,168,185,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,208,103,242,98,242,98,208"/>
+<area shape="rect" id="Node000003" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="52,5,139,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,44,103,168,98,168,94,45"/>
+<area shape="rect" id="Node000004" href="$d6/d78/class_translator_english.html" title=" " alt="" coords="117,80,250,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="122,38,171,77,167,82,118,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="165,117,114,169,110,166,161,114"/>
+</map>
