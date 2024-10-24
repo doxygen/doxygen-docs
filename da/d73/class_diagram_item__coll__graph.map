@@ -1,0 +1,10 @@
+<map id="DiagramItem" name="DiagramItem">
+<area shape="rect" id="Node000001" title="Class representing a single node in the built&#45;in class diagram." alt="" coords="52,168,160,193"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="175,172,187,181,178,189,161,191,160,186,176,184,181,181,172,177"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="43,119,48,143,60,156,75,166,72,170,56,160,44,145,38,120"/>
+<area shape="rect" id="Node000003" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="129,80,209,105"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,119,141,146,120,169,116,166,137,142,154,116"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="126,5,211,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="171,45,171,80,166,80,166,45"/>
+</map>

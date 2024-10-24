@@ -1,0 +1,17 @@
+<map id="MemberDefImpl" name="MemberDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,332,331,357"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="160,243,373,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,296,269,332,264,332,264,296"/>
+<area shape="rect" id="Node000003" href="$dd/d4b/class_member_def_mutable.html" title=" " alt="" coords="96,155,248,180"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,188,249,241,246,244,191,191"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,80,144,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,112,158,152,154,156,100,116"/>
+<area shape="rect" id="Node000005" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="168,80,267,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="205,119,182,156,177,153,200,116"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="175,5,260,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="220,45,220,80,215,80,215,45"/>
+<area shape="rect" id="Node000007" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="273,155,455,180"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="344,191,288,244,285,241,340,188"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="337,80,391,105"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="367,120,367,154,361,154,361,120"/>
+</map>

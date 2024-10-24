@@ -1,0 +1,18 @@
+<map id="COutlineParser::Private" name="COutlineParser::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="363,552,535,577"/>
+<area shape="rect" id="Node000002" href="$d4/dfb/structscanner_y_y__state.html" title=" " alt="" coords="384,464,513,489"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,503,451,551,446,551,446,503"/>
+<area shape="rect" id="Node000003" href="$d5/d79/class_outline_parser_interface.html" title="Abstract interface for outline parsers." alt="" coords="5,161,172,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,201,90,252,98,317,107,351,120,383,138,413,161,438,176,447,198,455,256,465,322,471,384,473,384,478,321,476,255,471,197,460,174,452,158,442,134,416,115,385,102,352,93,318,85,252,84,201"/>
+<area shape="rect" id="Node000004" href="$d0/d6b/class_comment_scanner.html" title=" " alt="" coords="197,161,335,187"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="259,201,246,250,237,313,237,347,242,380,252,411,269,438,286,449,315,458,384,469,383,474,313,463,284,454,265,442,247,413,236,381,232,347,231,313,241,249,254,200"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="387,5,465,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="425,44,419,94,416,174,419,254,434,377,449,463,444,464,429,378,414,255,410,174,414,93,419,44"/>
+<area shape="rect" id="Node000006" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="546,161,655,187"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="457,36,529,91,566,128,593,159,589,163,562,131,526,95,453,40"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="588,200,540,280,489,386,456,465,451,463,484,384,536,277,583,197"/>
+<area shape="rect" id="Node000007" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="679,161,775,187"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="725,201,709,279,705,327,708,367,703,404,693,423,677,442,650,456,608,466,514,476,513,471,608,461,648,451,674,438,689,420,698,403,702,367,700,327,703,278,719,200"/>
+<area shape="rect" id="Node000008" href="$dd/df8/class_clang_t_u_parser.html" title="Clang parser object for a single translation unit, which consists of a source file and the directly o..." alt="" coords="822,161,939,187"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="890,200,898,251,901,316,897,350,889,384,874,415,853,442,835,451,804,457,714,467,514,477,513,471,714,462,803,452,834,445,850,438,870,412,884,382,892,349,895,316,893,251,884,201"/>
+</map>

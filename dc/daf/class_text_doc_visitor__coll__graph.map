@@ -1,0 +1,7 @@
+<map id="TextDocVisitor" name="TextDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for TEXT output." alt="" coords="51,93,167,119"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="5,5,95,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,41,103,91,98,94,63,44"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="119,5,215,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,44,119,94,115,91,149,41"/>
+</map>

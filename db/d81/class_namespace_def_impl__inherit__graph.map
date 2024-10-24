@@ -1,0 +1,17 @@
+<map id="NamespaceDefImpl" name="NamespaceDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,332,359,357"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="177,243,391,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,296,287,332,281,332,281,296"/>
+<area shape="rect" id="Node000003" href="$dd/dd5/class_namespace_def_mutable.html" title=" " alt="" coords="97,155,271,180"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,188,265,241,262,244,205,191"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,80,144,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,111,168,152,165,157,102,115"/>
+<area shape="rect" id="Node000005" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="168,80,291,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="217,119,194,156,189,153,212,116"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="187,5,272,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="232,45,232,80,227,80,227,45"/>
+<area shape="rect" id="Node000007" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="295,155,478,180"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="366,191,307,244,303,241,362,187"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="359,80,414,105"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="389,120,389,154,384,154,384,120"/>
+</map>

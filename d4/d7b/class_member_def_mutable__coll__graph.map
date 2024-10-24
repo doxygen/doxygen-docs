@@ -1,0 +1,9 @@
+<map id="MemberDefMutable" name="MemberDefMutable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,152,221,177"/>
+<area shape="rect" id="Node000002" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,79,144,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,112,136,150,132,154,94,116"/>
+<area shape="rect" id="Node000003" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="168,79,267,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,116,159,154,155,150,194,112"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="175,5,260,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,44,220,79,215,79,215,44"/>
+</map>

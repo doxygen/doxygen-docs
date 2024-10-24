@@ -1,0 +1,29 @@
+<map id="DirDefImpl" name="DirDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="888,147,981,172"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="553,101,747,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="761,125,864,141,888,146,887,151,864,146,760,130"/>
+<area shape="rect" id="Node000003" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="305,39,369,64"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="383,50,544,60,645,71,747,86,807,97,865,116,917,144,914,149,863,120,806,102,746,91,645,76,544,66,382,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,58,586,99,585,104,382,63"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,26,305,45,304,50,158,31"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="32,55,117,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="131,61,304,51,305,56,131,67"/>
+<area shape="rect" id="Node000006" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="17,111,132,136"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="146,120,553,113,553,118,146,125"/>
+<area shape="rect" id="Node000007" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="245,160,428,185"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="143,137,169,142,253,157,253,163,167,147,141,142"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="441,157,529,142,603,124,604,129,530,147,442,162"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="47,177,102,203"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="116,185,245,176,245,181,116,190"/>
+<area shape="rect" id="Node000009" href="$dc/d2a/class_dir_list.html" title="A list of directories." alt="" coords="618,159,682,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="695,167,888,159,888,164,696,172"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="266,210,407,250"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="421,212,617,175,618,180,422,217"/>
+<area shape="rect" id="Node000011" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="611,221,689,247"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="703,236,780,233,823,227,863,214,896,194,920,171,924,174,899,198,865,219,824,232,781,239,703,241"/>
+<area shape="rect" id="Node000012" href="$d0/d18/class_file_list.html" title=" " alt="" coords="616,279,684,304"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="698,291,736,290,778,285,822,275,863,256,885,237,903,214,926,171,931,173,907,217,889,241,865,260,824,280,779,291,736,296,698,297"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="266,274,407,314"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="421,291,616,289,616,294,421,296"/>
+</map>

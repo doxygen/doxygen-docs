@@ -1,0 +1,8 @@
+<map id="anonymous_namespace{tagreader.cpp}::TagNamespaceInfo" name="anonymous_namespace{tagreader.cpp}::TagNamespaceInfo">
+<area shape="rect" id="Node000001" title="Container for namespace specific info that can be read from a tagfile." alt="" coords="5,197,264,237"/>
+<area shape="rect" id="Node000002" href="$d8/da1/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_compound_info.html" title="Base class for all compound types." alt="" coords="153,108,405,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,158,167,200,164,195,234,153"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="58,5,137,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="93,45,87,93,87,120,92,147,104,173,120,195,115,198,99,176,87,149,82,121,81,93,88,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,35,248,105,245,110,127,40"/>
+</map>

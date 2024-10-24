@@ -1,0 +1,13 @@
+<map id="DefinitionAliasMixin&lt; Base &gt;" name="DefinitionAliasMixin&lt; Base &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,200,235,240"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,110,60,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,143,92,174,127,198,124,202,88,178,52,147"/>
+<area shape="rect" id="Node000003" href="$d0/d58/class_definition_alias_impl.html" title=" " alt="" coords="191,110,338,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,147,181,202,178,198,239,143"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="101,5,186,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="136,44,123,88,121,112,123,137,134,170,149,198,144,201,129,172,118,138,116,112,118,87,130,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,41,175,62,194,82,237,108,235,112,191,86,171,66,155,44"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="231,5,309,31"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="324,21,354,32,379,53,383,69,379,85,370,114,352,139,326,161,297,179,236,204,234,199,294,175,323,157,348,136,366,112,374,83,378,69,374,56,352,37,322,26"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="262,44,259,55,259,84,264,109,259,110,254,85,254,54,257,43"/>
+</map>

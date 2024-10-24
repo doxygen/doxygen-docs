@@ -1,0 +1,8 @@
+<map id="LayoutDocManager::Private" name="LayoutDocManager::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,208,236"/>
+<area shape="rect" id="Node000002" href="$df/de7/struct_layout_nav_entry.html" title="Base class for the layout of a navigation item at the top of the HTML pages." alt="" coords="43,123,170,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,162,109,210,104,210,104,162"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="185,127,197,135,188,143,171,146,170,140,186,138,191,135,182,131"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="67,5,146,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="109,44,109,123,104,123,104,44"/>
+</map>

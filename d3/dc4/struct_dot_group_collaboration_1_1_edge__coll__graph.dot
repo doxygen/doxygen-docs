@@ -1,0 +1,22 @@
+digraph "DotGroupCollaboration::Edge"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="DotGroupCollaboration\l::Edge",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" pNEnd\npNStart",fontcolor="grey" ];
+  Node2 [id="Node000002",label="DotNode",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$dd/d7e/class_dot_node.html",tooltip="A node in a dot graph."];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_graph",fontcolor="grey" ];
+  Node3 [id="Node000003",label="DotGraph",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d32/class_dot_graph.html",tooltip="A dot graph."];
+  Node4 -> Node3 [id="edge3_Node000003_Node000004",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_dir",fontcolor="grey" ];
+  Node4 [id="Node000004",label="Dir",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d2/dc2/class_dir.html",tooltip="Class representing a directory in the file system."];
+  Node5 -> Node3 [id="edge4_Node000003_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_absPath\nm_baseName\nm_fileName\nm_relPath\nm_theGraph",fontcolor="grey" ];
+  Node5 [id="Node000005",label="QCString",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d9/d45/class_q_c_string.html",tooltip="This is an alternative implementation of QCString."];
+  Node5 -> Node2 [id="edge5_Node000002_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_label\nm_tooltip\nm_url",fontcolor="grey" ];
+  Node6 -> Node2 [id="edge6_Node000002_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" m_classDef",fontcolor="grey" ];
+  Node6 [id="Node000006",label="ClassDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/dcf/class_class_def.html",tooltip="A abstract class representing of a compound symbol."];
+  Node7 -> Node6 [id="edge7_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+}

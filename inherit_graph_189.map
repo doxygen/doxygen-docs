@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/dd5/class_index_intf.html" title="Abstract interface for index generators." alt="" coords="5,153,85,179"/>
+<area shape="rect" id="Node000001" href="$d4/db5/class_crawlmap.html" title=" " alt="" coords="139,5,227,31"/>
+<area shape="poly" id="edge168_Node000000_Node000001" title=" " alt="" coords="57,140,87,91,108,64,132,40,148,29,151,33,135,44,112,67,92,94,61,143"/>
+<area shape="rect" id="Node000002" href="$db/d32/class_doc_sets.html" title="A class that generates docset files." alt="" coords="145,55,220,80"/>
+<area shape="poly" id="edge169_Node000000_Node000002" title=" " alt="" coords="68,142,97,115,132,89,151,78,154,82,135,94,101,120,71,146"/>
+<area shape="rect" id="Node000003" href="$db/dd3/class_eclipse_help.html" title="Generator for Eclipse help files." alt="" coords="133,104,232,129"/>
+<area shape="poly" id="edge170_Node000000_Node000003" title=" " alt="" coords="93,146,145,127,147,132,95,151"/>
+<area shape="rect" id="Node000004" href="$d6/d14/class_f_t_v_help.html" title="A class that generates a dynamic tree view side panel." alt="" coords="145,153,221,179"/>
+<area shape="poly" id="edge171_Node000000_Node000004" title=" " alt="" coords="99,163,144,163,144,169,99,169"/>
+<area shape="rect" id="Node000005" href="$d4/db3/class_html_help.html" title="A class that generated the HTML Help specific files." alt="" coords="141,203,225,228"/>
+<area shape="poly" id="edge172_Node000000_Node000005" title=" " alt="" coords="95,181,147,200,145,205,93,186"/>
+<area shape="rect" id="Node000006" href="$de/d4f/class_qhp.html" title=" " alt="" coords="159,252,207,277"/>
+<area shape="poly" id="edge173_Node000000_Node000006" title=" " alt="" coords="72,186,135,237,160,251,157,256,132,242,68,190"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/class_sitemap.html" title=" " alt="" coords="145,301,221,327"/>
+<area shape="poly" id="edge174_Node000000_Node000007" title=" " alt="" coords="62,189,92,238,112,263,135,287,153,299,150,304,132,291,108,267,88,241,57,192"/>
+</map>

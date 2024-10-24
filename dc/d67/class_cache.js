@@ -1,0 +1,26 @@
+var class_cache =
+[
+    [ "const_iterator", "dc/d67/class_cache.html#a28677bb60d07d35d925f8d7852e8f142", null ],
+    [ "iterator", "dc/d67/class_cache.html#a79258c643559f458b14ecb02a0258d00", null ],
+    [ "kv_pair", "dc/d67/class_cache.html#a0378ae0d907403c4e9ae21da645f9331", null ],
+    [ "Cache", "dc/d67/class_cache.html#aaa77900cf0925ea6e46653361bc6be29", null ],
+    [ "begin", "dc/d67/class_cache.html#a710ca4c838a720d74a5a9063df23a27e", null ],
+    [ "begin", "dc/d67/class_cache.html#a5212a44b518fd416891d0a0751c8ae78", null ],
+    [ "capacity", "dc/d67/class_cache.html#a62ce1e1112e08368aff14b6627d2d039", null ],
+    [ "clear", "dc/d67/class_cache.html#aaa0c3a5019640bfd305277ac83ff553f", null ],
+    [ "end", "dc/d67/class_cache.html#a3328cf128d88cc86cbf81ce38dc81f0f", null ],
+    [ "end", "dc/d67/class_cache.html#a980ba5495fea787d5e88a5f6a24a2f4b", null ],
+    [ "find", "dc/d67/class_cache.html#a31d7c56fdd7cf7147e93bbc7b5420901", null ],
+    [ "hits", "dc/d67/class_cache.html#ace97657a7c672dcc74d30e43c4006ea7", null ],
+    [ "insert", "dc/d67/class_cache.html#a2346678720d2078c031e7ea436e402b6", null ],
+    [ "insert", "dc/d67/class_cache.html#a1cf01dfdbe1b56e62c25112e771b23fa", null ],
+    [ "misses", "dc/d67/class_cache.html#aaea59f2a9da7bf4416ed4e2de1c955a3", null ],
+    [ "remove", "dc/d67/class_cache.html#ac3a7d2f92c1e3652b0279dcafe563f8e", null ],
+    [ "resize", "dc/d67/class_cache.html#a4da60b9993165ac0170ae98b91cd9299", null ],
+    [ "size", "dc/d67/class_cache.html#a8b8abd9f417e818217ba17f9756f41eb", null ],
+    [ "m_cacheItemList", "dc/d67/class_cache.html#a226d4dd4795121ff2915e7363cd97fa5", null ],
+    [ "m_cacheItemMap", "dc/d67/class_cache.html#ac777fc9de9e949a74106b11a9370703c", null ],
+    [ "m_capacity", "dc/d67/class_cache.html#a779e62967f4cc5217b0fdc4158ca4311", null ],
+    [ "m_hits", "dc/d67/class_cache.html#a848baa79896ab6ebca4433c41b0098a0", null ],
+    [ "m_misses", "dc/d67/class_cache.html#a16e8b2b3815ee6a0d9a025ee9b3896ee", null ]
+];

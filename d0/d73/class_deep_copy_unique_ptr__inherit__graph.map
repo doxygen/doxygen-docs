@@ -1,0 +1,11 @@
+<map id="DeepCopyUniquePtr&lt; T &gt;" name="DeepCopyUniquePtr&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Helper class add copy/assignment support to std::unique_ptr by making a deep copy Note that T may not..." alt="" coords="212,77,403,102"/>
+<area shape="rect" id="Node000003" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="544,5,708,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="384,71,543,39,544,44,385,77"/>
+<area shape="rect" id="Node000004" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="544,69,708,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="417,87,544,87,544,92,417,92"/>
+<area shape="rect" id="Node000005" href="$da/dc3/class_deep_copy_unique_ptr.html" title=" " alt="" coords="544,133,708,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="385,102,544,134,543,140,384,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,77,163,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,87,212,87,212,92,177,92"/>
+</map>

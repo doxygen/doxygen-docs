@@ -1,0 +1,10 @@
+<map id="RefItem" name="RefItem">
+<area shape="rect" id="Node000001" title="This struct represents an item in the list of references." alt="" coords="113,303,187,328"/>
+<area shape="rect" id="Node000002" href="$d7/de8/class_ref_list.html" title="List of cross&#45;referenced items." alt="" coords="117,176,183,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,215,153,303,147,303,147,215"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="38,45,28,84,20,134,22,188,27,214,38,239,53,260,73,277,117,300,115,305,70,281,49,263,33,241,22,216,16,189,15,134,23,83,33,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,41,145,174,140,177,57,44"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="207,176,293,201"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="243,215,226,247,203,280,173,305,169,300,199,277,222,245,238,212"/>
+</map>

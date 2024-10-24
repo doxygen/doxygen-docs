@@ -1,0 +1,15 @@
+<map id="src/symbolmap.h" name="src/symbolmap.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,5,405,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,91,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,33,105,79,104,74,290,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,79,239,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,33,217,75,215,71,311,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,79,326,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,32,311,68,306,66,328,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="351,79,409,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="347,30,368,66,364,68,342,32"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="434,79,494,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="359,28,433,69,430,74,356,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="519,79,588,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="373,28,506,72,505,77,371,33"/>
+</map>

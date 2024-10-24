@@ -1,0 +1,8 @@
+<map id="ConfigEnum" name="ConfigEnum">
+<area shape="rect" id="Node000001" title="Class representing an enum type option." alt="" coords="21,245,121,271"/>
+<area shape="rect" id="Node000002" href="$d2/dd3/class_config_option.html" title="Abstract base class for any configuration option." alt="" coords="129,169,235,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,204,90,247,87,243,152,200"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="41,44,31,113,31,155,38,195,50,222,64,244,60,246,45,224,33,197,26,155,26,113,36,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,40,174,167,170,170,61,43"/>
+</map>

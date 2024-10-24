@@ -1,0 +1,19 @@
+<map id="ConfigOption" name="ConfigOption">
+<area shape="rect" id="Node000001" title="Abstract base class for any configuration option." alt="" coords="5,179,112,204"/>
+<area shape="rect" id="Node000002" href="$d4/ded/class_config_bool.html" title="Class representing a Boolean type option." alt="" coords="175,5,267,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,164,103,103,129,69,158,40,177,28,180,33,162,44,133,73,108,106,74,167"/>
+<area shape="rect" id="Node000003" href="$d5/d86/class_config_disabled.html" title="Section marker for compile time optional options." alt="" coords="161,55,281,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,166,112,128,159,89,180,78,182,82,161,94,116,131,80,170"/>
+<area shape="rect" id="Node000004" href="$df/d59/class_config_enum.html" title="Class representing an enum type option." alt="" coords="171,104,271,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,170,159,138,185,127,188,132,161,143,97,174"/>
+<area shape="rect" id="Node000005" href="$dd/d89/class_config_info.html" title="Section marker for grouping the configuration options." alt="" coords="177,153,265,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,178,176,170,177,175,126,184"/>
+<area shape="rect" id="Node000006" href="$d4/d52/class_config_int.html" title="Class representing an integer type option." alt="" coords="181,203,261,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="126,199,181,207,180,212,125,204"/>
+<area shape="rect" id="Node000007" href="$dd/df8/class_config_list.html" title="Class representing a list type option." alt="" coords="177,252,264,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="99,208,161,237,189,249,187,254,159,242,97,212"/>
+<area shape="rect" id="Node000008" href="$d3/db9/class_config_obsolete.html" title="Section marker for obsolete options." alt="" coords="160,301,281,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="81,213,117,250,161,286,185,299,182,304,159,291,113,254,77,216"/>
+<area shape="rect" id="Node000009" href="$d1/dff/class_config_string.html" title="Class representing a string type option." alt="" coords="170,351,271,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="74,215,108,275,133,307,162,336,182,348,179,353,158,340,129,311,104,278,69,218"/>
+</map>

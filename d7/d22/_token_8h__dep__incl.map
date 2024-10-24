@@ -1,0 +1,29 @@
+<map id="vhdlparser/Token.h" name="vhdlparser/Token.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="351,5,495,31"/>
+<area shape="rect" id="Node000002" href="$d3/dd5/_error_handler_8h.html" title=" " alt="" coords="110,79,298,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,37,240,81,239,76,374,32"/>
+<area shape="rect" id="Node000003" href="$d5/df9/_vhdl_parser_8h.html" title=" " alt="" coords="97,152,271,177"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="337,26,268,32,197,42,137,58,115,68,101,80,96,90,96,99,109,118,132,136,159,150,156,154,129,140,105,122,91,101,90,89,97,77,113,64,136,53,196,37,267,26,337,20"/>
+<area shape="rect" id="Node000008" href="$d7/dad/_vhdl_parser_token_manager_8h.html" title=" " alt="" coords="358,299,559,339"/>
+<area shape="poly" id="edge17_Node000001_Node000008" title=" " alt="" coords="481,33,512,51,537,77,549,107,552,138,547,170,537,201,507,258,477,300,473,297,502,255,532,199,542,169,546,138,544,108,532,80,509,55,479,38"/>
+<area shape="rect" id="Node000009" href="$d7/de0/_parse_exception_8h.html" title=" " alt="" coords="598,79,805,104"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="481,31,657,76,656,81,480,37"/>
+<area shape="rect" id="Node000010" href="$d4/df9/_token_manager_8h.html" title=" " alt="" coords="323,79,523,104"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="425,44,425,79,420,79,420,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,118,190,153,185,151,194,117"/>
+<area shape="rect" id="Node000005" href="$d2/dc3/_vhdl_parser_error_handler_8hpp.html" title=" " alt="" coords="5,299,200,339"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="153,112,118,129,87,154,68,177,56,198,53,222,59,250,71,275,87,297,83,300,66,278,53,252,48,222,51,197,64,174,83,150,115,125,150,107"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="255,106,298,124,347,150,395,183,435,224,446,242,454,262,460,298,455,299,448,263,441,244,431,227,391,187,344,154,296,129,253,111"/>
+<area shape="rect" id="Node000004" href="$de/dea/vhdldocgen_8cpp.html" title=" " alt="" coords="275,225,421,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,180,322,223,320,228,222,185"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="123,185,92,202,68,227,63,244,66,263,87,297,83,300,61,265,57,244,63,224,89,197,121,180"/>
+<area shape="rect" id="Node000007" href="$d9/d48/vhdlstring_8h.html" title=" " alt="" coords="78,225,250,251"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="180,191,170,226,165,224,174,190"/>
+<area shape="rect" id="Node000006" href="$d1/d86/vhdljjparser_8cpp.html" title=" " alt="" coords="206,387,354,412"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="159,342,255,384,253,389,156,347"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="149,263,120,300,115,297,144,260"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="221,252,389,296,387,301,220,257"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="404,347,307,389,305,384,402,342"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="372,110,223,154,222,149,370,105"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="451,111,467,129,480,151,488,191,486,232,478,270,469,299,464,297,473,268,481,232,483,192,475,153,463,132,447,115"/>
+</map>

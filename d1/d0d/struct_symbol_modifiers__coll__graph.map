@@ -1,0 +1,5 @@
+<map id="SymbolModifiers" name="SymbolModifiers">
+<area shape="rect" id="Node000001" title="Holds yyextra&#45;&gt;modifiers (ie attributes) for one symbol (variable, function, etc)" alt="" coords="5,152,136,177"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="31,5,110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,45,73,152,68,152,68,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DotManager" name="DotManager">
+<area shape="rect" id="Node000001" title="Singleton that manages parallel dot invocations and patching files for embedding image maps." alt="" coords="5,93,108,119"/>
+<area shape="rect" id="Node000002" href="$d9/df5/class_thread_pool.html" title="Class managing a pool of worker threads." alt="" coords="9,5,104,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,45,59,93,54,93,54,45"/>
+</map>

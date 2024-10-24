@@ -1,0 +1,7 @@
+<map id="SIData_CurrentDoc" name="SIData_CurrentDoc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,93,174,119"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,41,96,91,92,94,60,44"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="115,5,194,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,44,111,94,106,91,138,41"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="GetDefResult" name="GetDefResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,168,345,193"/>
+<area shape="rect" id="Node000002" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="349,80,448,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,116,307,170,304,166,372,112"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="248,5,333,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,36,383,78,380,82,318,41"/>
+<area shape="rect" id="Node000004" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="152,80,232,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="266,41,210,82,207,77,262,37"/>
+<area shape="rect" id="Node000005" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="257,80,325,105"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="293,45,293,80,288,80,288,45"/>
+<area shape="rect" id="Node000007" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="5,80,128,105"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="243,37,103,83,101,77,241,32"/>
+<area shape="rect" id="Node000008" href="$d8/d09/class_group_def.html" title="A model of a group of symbols." alt="" coords="473,80,557,105"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="340,32,480,77,479,83,338,37"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,112,279,165,275,169,214,116"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="293,119,293,167,288,167,288,119"/>
+<area shape="rect" id="Node000006" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="376,5,515,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="409,39,316,82,314,78,407,34"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="468,39,505,78,502,82,464,43"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="111,108,262,165,260,170,109,113"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="472,113,322,170,320,165,471,108"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="HtmlGenerator" name="HtmlGenerator">
+<area shape="rect" id="Node000001" title="Generator for HTML output." alt="" coords="156,343,275,368"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="41,255,171,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,287,202,340,199,345,130,291"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="201,130,297,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,167,121,257,118,252,223,163"/>
+<area shape="rect" id="Node000006" href="$da/db6/class_html_code_generator.html" title="Generator for HTML code fragments." alt="" coords="334,255,486,280"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="275,163,358,229,393,252,390,257,355,233,271,167"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="283,5,361,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="269,22,197,30,160,41,125,57,84,84,56,110,36,143,18,188,10,214,9,236,15,257,31,278,58,302,90,320,124,333,157,342,155,347,122,338,88,325,55,306,27,282,10,259,3,237,5,213,13,186,31,140,52,107,81,79,122,52,158,36,196,25,268,16"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="270,31,228,43,184,62,143,88,126,105,111,124,98,158,95,194,99,228,105,254,100,255,94,229,90,195,93,157,106,121,122,101,140,84,182,57,227,38,268,26"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="375,20,451,30,493,39,533,52,597,75,620,92,642,121,652,154,649,183,632,209,606,233,586,243,556,251,487,262,486,256,555,245,584,238,603,228,628,206,644,181,647,154,637,124,617,96,594,80,532,57,492,44,450,35,375,25"/>
+<area shape="rect" id="Node000008" href="$d2/dd6/struct_html_code_generator_1_1_line_info.html" title=" " alt="" coords="467,123,627,163"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="356,35,514,120,511,125,354,40"/>
+<area shape="rect" id="Node000005" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="195,255,310,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="245,293,223,343,218,341,240,291"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="372,288,243,345,241,340,370,283"/>
+<area shape="rect" id="Node000007" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="321,130,443,155"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="390,168,410,254,405,255,385,170"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="517,174,425,256,421,252,514,170"/>
+</map>

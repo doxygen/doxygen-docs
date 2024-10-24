@@ -1,0 +1,20 @@
+<map id="DirRelation" name="DirRelation">
+<area shape="rect" id="Node000001" title="A usage relation between two directories." alt="" coords="136,359,231,384"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="43,271,121,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,306,118,333,156,356,153,361,115,337,93,309"/>
+<area shape="rect" id="Node000003" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="237,183,301,208"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,222,261,277,251,308,236,336,223,350,208,361,205,356,220,346,232,333,246,306,256,276,265,221"/>
+<area shape="rect" id="Node000006" href="$df/d42/class_used_dir.html" title="Usage information of a directory." alt="" coords="146,271,221,296"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="232,217,211,234,198,253,189,272,185,269,193,250,207,230,228,213"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="199,108,338,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,148,271,182,266,182,266,148"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="362,108,447,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="372,142,292,185,289,180,370,138"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,310,186,358,181,358,181,310"/>
+<area shape="rect" id="Node000007" href="$d3/d29/class_file_pair_linked_map.html" title="A linked map of file pairs." alt="" coords="29,183,167,208"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="106,220,120,245,136,258,154,268,151,273,133,263,116,248,102,222"/>
+<area shape="rect" id="Node000008" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="5,108,175,133"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="95,147,99,182,94,183,90,147"/>
+<area shape="rect" id="Node000009" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="10,5,170,45"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="93,59,93,108,87,108,87,59"/>
+</map>

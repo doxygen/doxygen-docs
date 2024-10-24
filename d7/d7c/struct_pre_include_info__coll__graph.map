@@ -1,0 +1,11 @@
+<map id="PreIncludeInfo" name="PreIncludeInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,183,161,208"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,119,43,139,48,157,60,171,75,180,72,185,56,175,44,160,37,139,37,119"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="128,80,196,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,119,135,160,117,184,112,181,130,157,150,117"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="25,5,163,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,39,153,78,149,81,113,43"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="187,5,273,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="211,43,175,81,171,78,208,39"/>
+</map>

@@ -1,0 +1,28 @@
+digraph "GetDefResult"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="GetDefResult",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" md",fontcolor="grey" ];
+  Node2 [id="Node000002",label="MemberDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$da/d09/class_member_def.html",tooltip="A model of a class/file/namespace member symbol."];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="Definition",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d5/dcc/class_definition.html",tooltip="The common base class of all entity definitions found in the sources."];
+  Node4 -> Node1 [id="edge3_Node000001_Node000004",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" cd",fontcolor="grey" ];
+  Node4 [id="Node000004",label="ClassDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d1/dcf/class_class_def.html",tooltip="A abstract class representing of a compound symbol."];
+  Node3 -> Node4 [id="edge4_Node000004_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 -> Node1 [id="edge5_Node000001_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" fd",fontcolor="grey" ];
+  Node5 [id="Node000005",label="FileDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$de/db0/class_file_def.html",tooltip="A model of a file symbol."];
+  Node6 -> Node5 [id="edge6_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="DefinitionMutable",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d46/class_definition_mutable.html",tooltip=" "];
+  Node3 -> Node5 [id="edge7_Node000005_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 -> Node1 [id="edge8_Node000001_Node000007",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" nd",fontcolor="grey" ];
+  Node7 [id="Node000007",label="NamespaceDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d0/d07/class_namespace_def.html",tooltip="An abstract interface of a namespace symbol."];
+  Node3 -> Node7 [id="edge9_Node000007_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 -> Node1 [id="edge10_Node000001_Node000008",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" gd",fontcolor="grey" ];
+  Node8 [id="Node000008",label="GroupDef",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$d8/d09/class_group_def.html",tooltip="A model of a group of symbols."];
+  Node6 -> Node8 [id="edge11_Node000008_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node8 [id="edge12_Node000008_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

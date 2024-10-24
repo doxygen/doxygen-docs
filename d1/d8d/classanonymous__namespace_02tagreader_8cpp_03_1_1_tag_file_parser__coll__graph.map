@@ -1,0 +1,18 @@
+<map id="anonymous_namespace{tagreader.cpp}::TagFileParser" name="anonymous_namespace{tagreader.cpp}::TagFileParser">
+<area shape="rect" id="Node000001" title="Tag file parser." alt="" coords="620,274,840,314"/>
+<area shape="rect" id="Node000002" href="$d7/dea/classanonymous__namespace_02tagreader_8cpp_03_1_1_tag_compound_variant.html" title="Variant class that holds a unique pointer to one of the specific container types." alt="" coords="214,5,441,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,57,528,84,564,102,598,123,638,158,673,200,720,272,716,275,669,203,635,162,594,127,561,106,526,89,453,62"/>
+<area shape="rect" id="Node000003" href="$d0/d8d/classanonymous__namespace_02tagreader_8cpp_03_1_1_tag_member_info.html" title="Container for member specific info that can be read from a tagfile." alt="" coords="209,246,445,286"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="459,272,620,284,620,289,459,278"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,299,84,324"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="47,284,53,257,65,227,82,197,106,174,145,154,185,140,227,131,269,128,312,129,356,134,441,153,522,181,594,214,699,272,696,276,591,218,520,186,440,158,355,139,312,134,269,133,227,137,186,145,147,159,110,179,86,201,69,229,59,259,52,286"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,295,108,293,209,277,209,282,108,298,98,300"/>
+<area shape="rect" id="Node000005" href="$d0/da8/classanonymous__namespace_02tagreader_8cpp_03_1_1_tag_enum_value_info.html" title="Container for enum values that are scoped within an enum." alt="" coords="200,310,455,350"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="72,331,89,343,109,351,148,359,188,359,227,355,263,347,264,353,228,360,188,365,147,364,107,357,87,347,69,335"/>
+<area shape="rect" id="Node000006" href="$d1/d9a/classanonymous__namespace_02tagreader_8cpp_03_1_1_tag_include_info.html" title="Container for include info that can be read from a tagfile." alt="" coords="213,374,442,414"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="56,336,76,377,91,396,109,410,128,416,154,417,220,411,221,417,155,423,127,421,107,415,87,399,71,379,51,338"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="468,315,619,301,620,306,469,320"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="447,369,595,334,669,312,671,317,597,339,448,374"/>
+<area shape="rect" id="Node000007" href="$d3/d7e/class_x_m_l_locator.html" title=" " alt="" coords="278,439,377,464"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="390,440,488,420,543,403,595,382,654,348,703,312,706,316,657,352,597,387,544,408,490,425,391,446"/>
+</map>

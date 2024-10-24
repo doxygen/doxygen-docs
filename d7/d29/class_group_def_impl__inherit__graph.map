@@ -1,0 +1,15 @@
+<map id="GroupDefImpl" name="GroupDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,243,313,268"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="149,168,363,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,208,259,242,253,242,253,208"/>
+<area shape="rect" id="Node000003" href="$d8/d09/class_group_def.html" title="A model of a group of symbols." alt="" coords="137,80,221,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,114,247,166,243,169,196,118"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,36,164,78,160,82,101,41"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="168,5,253,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,45,186,81,181,79,197,43"/>
+<area shape="rect" id="Node000006" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="245,80,427,105"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="318,117,269,169,265,166,314,114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="309,5,363,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="339,45,339,80,333,80,333,45"/>
+</map>

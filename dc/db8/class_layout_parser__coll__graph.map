@@ -1,0 +1,11 @@
+<map id="LayoutParser" name="LayoutParser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,211,227,236"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,44,27,94,29,121,38,147,55,168,78,185,128,208,126,213,75,190,52,172,33,149,23,123,22,94,32,43"/>
+<area shape="rect" id="Node000003" href="$df/de7/struct_layout_nav_entry.html" title="Base class for the layout of a navigation item at the top of the HTML pages." alt="" coords="111,123,237,148"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="70,38,163,121,159,125,66,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,162,177,210,171,210,171,162"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="253,127,264,135,256,143,238,146,237,140,254,138,259,135,250,131"/>
+<area shape="rect" id="Node000004" href="$d3/d7e/class_x_m_l_locator.html" title=" " alt="" coords="353,123,451,148"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="360,155,206,213,204,208,358,150"/>
+</map>

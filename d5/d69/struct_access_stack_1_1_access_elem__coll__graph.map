@@ -1,0 +1,12 @@
+<map id="AccessStack::AccessElem" name="AccessStack::AccessElem">
+<area shape="rect" id="Node000001" title="Element in the stack." alt="" coords="51,172,240,197"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,44,53,76,64,108,77,127,94,144,127,170,124,174,90,148,73,131,59,111,48,77,45,45"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="111,82,179,107"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="76,37,132,79,128,84,72,41"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,121,148,172,143,172,143,121"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="115,5,253,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="174,44,154,83,149,80,169,42"/>
+<area shape="rect" id="Node000005" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="203,82,282,107"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="235,122,215,150,197,164,177,174,175,170,194,159,211,146,230,119"/>
+</map>

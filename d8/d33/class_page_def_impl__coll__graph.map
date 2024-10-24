@@ -1,0 +1,29 @@
+<map id="PageDefImpl" name="PageDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="341,299,446,324"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="124,196,329,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,226,376,296,373,301,256,231"/>
+<area shape="rect" id="Node000003" href="$dd/d41/class_page_def.html" title="A model of a page symbol." alt="" coords="102,108,178,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,141,216,194,213,197,159,145"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="115,13,253,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,51,148,109,143,107,170,49"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,13,91,38"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="50,52,53,91,63,137,82,183,96,203,114,219,170,252,230,275,290,291,341,301,340,306,289,297,229,281,167,257,110,223,92,206,77,186,57,139,48,92,45,52"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="71,46,131,106,127,110,67,50"/>
+<area shape="rect" id="Node000006" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="277,13,392,38"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="304,47,269,74,254,91,241,109,232,132,228,155,228,196,223,195,223,155,227,130,236,107,250,87,266,70,300,43"/>
+<area shape="rect" id="Node000007" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="305,108,487,133"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="343,50,358,82,381,106,378,110,354,86,339,53"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="362,142,251,198,248,193,360,137"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="417,13,471,38"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="434,51,404,109,400,107,430,49"/>
+<area shape="rect" id="Node000009" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="354,196,433,221"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="396,235,396,299,391,299,391,235"/>
+<area shape="rect" id="Node000010" href="$d9/de6/class_page_linked_ref_map.html" title=" " alt="" coords="457,196,602,221"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="519,235,504,257,484,277,462,291,437,301,435,296,459,286,481,273,500,253,515,232"/>
+<area shape="rect" id="Node000011" href="$d2/db7/class_linked_ref_map.html" title=" " alt="" coords="511,108,710,133"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="592,145,543,197,539,194,588,142"/>
+<area shape="rect" id="Node000012" href="$d2/db7/class_linked_ref_map.html" title="Container class representing a vector of objects with keys." alt="" coords="519,5,702,45"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="613,59,613,108,608,108,608,59"/>
+<area shape="rect" id="Node000013" href="$da/d1d/class_local_toc.html" title=" " alt="" coords="627,196,704,221"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="650,234,628,257,600,277,562,293,521,303,447,312,446,307,520,298,560,287,597,272,625,253,646,230"/>
+</map>

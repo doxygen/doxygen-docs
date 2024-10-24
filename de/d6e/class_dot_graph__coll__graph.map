@@ -1,0 +1,7 @@
+<map id="DotGraph" name="DotGraph">
+<area shape="rect" id="Node000001" title="A dot graph." alt="" coords="25,152,109,177"/>
+<area shape="rect" id="Node000002" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="5,5,47,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,45,31,85,42,127,58,150,53,153,37,129,26,85,23,45"/>
+<area shape="rect" id="Node000003" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="71,5,149,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,45,83,129,75,153,70,151,78,127,101,44"/>
+</map>

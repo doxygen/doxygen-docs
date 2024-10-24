@@ -1,0 +1,18 @@
+<map id="DotGfxHierarchyTable" name="DotGfxHierarchyTable">
+<area shape="rect" id="Node000001" title="Represents a graphical class hierarchy." alt="" coords="19,347,185,372"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="252,161,336,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,201,295,229,288,263,275,296,254,325,226,339,183,349,182,344,224,334,251,321,271,293,283,261,289,229,292,200"/>
+<area shape="rect" id="Node000005" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="63,259,141,284"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="264,196,186,237,132,261,129,256,183,232,261,191"/>
+<area shape="rect" id="Node000003" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="280,5,321,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,44,297,161,292,161,297,44"/>
+<area shape="rect" id="Node000004" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="19,5,97,31"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="47,44,31,81,16,129,8,182,9,208,15,234,31,268,51,299,92,345,88,348,47,302,26,271,10,236,4,209,3,182,10,128,26,79,43,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="83,38,136,80,202,126,267,159,265,164,199,130,133,84,80,42"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="60,44,62,113,74,195,85,229,98,257,93,259,80,231,69,197,57,114,55,44"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="105,298,105,346,99,346,99,298"/>
+<area shape="rect" id="Node000006" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="146,161,226,187"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="136,195,119,206,106,221,100,240,102,258,96,259,95,239,101,219,115,202,133,190"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="170,5,255,31"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="211,45,197,128,191,162,185,161,191,128,206,44"/>
+</map>

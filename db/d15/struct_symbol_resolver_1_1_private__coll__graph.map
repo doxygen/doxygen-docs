@@ -1,0 +1,14 @@
+<map id="SymbolResolver::Private" name="SymbolResolver::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,183,257,208"/>
+<area shape="rect" id="Node000002" href="$d9/d45/class_q_c_string.html" title="This is an alternative implementation of QCString." alt="" coords="5,80,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,118,58,139,71,157,89,170,110,180,108,185,86,175,67,161,53,141,46,120"/>
+<area shape="rect" id="Node000003" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="113,80,211,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,119,168,183,163,183,160,119"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="119,5,205,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="165,45,165,80,159,80,159,45"/>
+<area shape="rect" id="Node000005" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="236,80,304,105"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="192,36,254,78,251,82,189,41"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="260,119,247,140,229,161,193,185,190,180,226,157,242,137,256,116"/>
+<area shape="rect" id="Node000006" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="229,5,367,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="291,45,277,81,272,79,286,43"/>
+</map>

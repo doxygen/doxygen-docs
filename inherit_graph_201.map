@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/dba/struct_layout_doc_entry.html" title="Base class representing a piece of a documentation page." alt="" coords="5,55,131,80"/>
+<area shape="rect" id="Node000001" href="$df/df4/struct_layout_doc_entry_member_decl.html" title="Represents of a member declaration list with configurable title and subtitle." alt="" coords="179,5,387,31"/>
+<area shape="poly" id="edge175_Node000000_Node000001" title=" " alt="" coords="137,49,226,28,227,33,138,54"/>
+<area shape="rect" id="Node000002" href="$d2/def/struct_layout_doc_entry_member_def.html" title="Represents of a member definition list with configurable title." alt="" coords="181,55,384,80"/>
+<area shape="poly" id="edge176_Node000000_Node000002" title=" " alt="" coords="145,65,181,65,181,70,145,70"/>
+<area shape="rect" id="Node000003" href="$d4/dc3/struct_layout_doc_entry_simple.html" title="Represents of a piece of a documentation page without configurable parts." alt="" coords="197,104,368,129"/>
+<area shape="poly" id="edge177_Node000000_Node000003" title=" " alt="" coords="138,81,227,101,226,107,137,86"/>
+<area shape="rect" id="Node000004" href="$dd/da0/struct_layout_doc_entry_section.html" title=" " alt="" coords="435,104,608,129"/>
+<area shape="poly" id="edge178_Node000003_Node000004" title=" " alt="" coords="382,114,434,114,434,119,382,119"/>
+</map>

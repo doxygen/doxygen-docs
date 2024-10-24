@@ -1,0 +1,9 @@
+<map id="TextGeneratorOLImpl" name="TextGeneratorOLImpl">
+<area shape="rect" id="Node000001" title="Implements TextGeneratorIntf for an OutputDocInterface stream." alt="" coords="15,181,175,207"/>
+<area shape="rect" id="Node000002" href="$d0/dcf/class_text_generator_intf.html" title="Abstract interface for a hyperlinked text fragment." alt="" coords="5,93,141,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,131,94,180,89,181,77,133"/>
+<area shape="rect" id="Node000003" href="$df/dc8/class_output_list.html" title="Class representing a list of output generators that are written to in parallel." alt="" coords="166,93,255,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,129,112,183,109,179,183,125"/>
+<area shape="rect" id="Node000004" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="149,5,272,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="213,45,213,93,208,93,208,45"/>
+</map>
