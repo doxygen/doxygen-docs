@@ -1,0 +1,9 @@
+<map id="TranslatorEnglish" name="TranslatorEnglish">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,79,242,104"/>
+<area shape="rect" id="Node000003" href="$d0/d16/class_translator_japanese_en.html" title=" " alt="" coords="5,152,167,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,115,102,154,99,150,149,110"/>
+<area shape="rect" id="Node000004" href="$d0/d3a/class_translator_korean_en.html" title=" " alt="" coords="191,152,338,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,110,252,150,248,154,199,115"/>
+<area shape="rect" id="Node000002" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="132,5,219,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,44,178,79,173,79,173,44"/>
+</map>

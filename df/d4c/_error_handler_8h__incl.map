@@ -1,0 +1,19 @@
+<map id="vhdlparser/ErrorHandler.h" name="vhdlparser/ErrorHandler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,5,229,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,72,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,33,67,72,64,68,118,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,225,139,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,31,115,211,110,211,131,31"/>
+<area shape="rect" id="Node000004" href="$d1/d2f/_java_c_c_8h.html" title=" " alt="" coords="177,152,257,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,30,206,139,202,141,139,32"/>
+<area shape="rect" id="Node000008" href="$dd/dcd/_token_8h.html" title=" " alt="" coords="198,79,269,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="152,29,208,68,205,73,149,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="201,180,140,220,137,215,199,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="163,225,240,251"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="217,178,209,213,204,212,212,177"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="264,225,333,251"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="232,175,277,214,273,218,229,179"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="358,225,445,251"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="248,175,359,218,357,223,246,180"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="233,105,225,139,220,138,228,104"/>
+</map>

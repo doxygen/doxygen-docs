@@ -1,0 +1,27 @@
+<map id="PythonCodeParser::Private" name="PythonCodeParser::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,394,911,419"/>
+<area shape="rect" id="Node000002" href="$d4/d4f/structpycode_y_y__state.html" title=" " alt="" coords="501,394,627,419"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="641,404,716,404,716,409,641,409"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="222,161,293,186"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,165,347,164,392,169,438,181,479,203,501,224,519,249,544,303,558,355,564,393,559,394,553,356,539,305,514,251,497,228,476,207,436,186,391,174,346,170,306,170"/>
+<area shape="rect" id="Node000004" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="196,211,319,237"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="333,228,417,240,453,249,479,260,511,291,535,329,552,365,562,393,557,395,547,367,531,331,507,295,476,265,452,254,416,245,332,233"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="32,341,117,366"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="131,351,288,357,383,365,478,379,527,391,525,396,477,384,382,370,287,362,131,356"/>
+<area shape="rect" id="Node000006" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="223,402,291,427"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="127,368,224,401,222,406,125,373"/>
+<area shape="rect" id="Node000008" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="208,261,307,286"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="116,333,226,284,228,289,118,337"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,411,501,406,501,411,305,416"/>
+<area shape="rect" id="Node000007" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,407,144,433"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="157,415,223,413,223,418,158,420"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="321,281,398,300,439,314,479,332,521,362,552,392,549,395,518,366,476,337,437,319,397,305,320,286"/>
+<area shape="rect" id="Node000009" href="$d4/df2/class_variable_context.html" title=" " alt="" coords="194,451,321,477"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="334,459,404,452,477,439,536,417,538,422,478,444,405,457,334,464"/>
+<area shape="rect" id="Node000010" href="$de/da0/class_call_context.html" title="Represents the call context." alt="" coords="208,501,307,526"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="320,514,397,509,438,501,476,487,500,472,521,454,552,418,556,421,525,457,503,476,478,492,439,506,398,515,320,520"/>
+<area shape="rect" id="Node000011" href="$da/d0c/class_symbol_resolver.html" title=" " alt="" coords="193,554,321,579"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="335,573,370,572,407,568,443,559,476,543,507,515,531,480,547,446,557,418,562,420,552,448,535,483,511,519,479,548,445,564,408,573,370,578,335,578"/>
+<area shape="rect" id="Node000012" href="$d5/dae/class_tooltip_manager.html" title="Class that manages the tooltips for a source file." alt="" coords="196,607,319,633"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="333,630,369,631,406,627,443,618,476,600,497,582,514,559,539,507,553,456,559,419,564,420,558,458,544,509,519,561,501,585,479,605,445,623,407,632,369,636,333,635"/>
+</map>
