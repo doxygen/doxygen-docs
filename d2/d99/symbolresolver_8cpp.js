@@ -1,0 +1,25 @@
+var symbolresolver_8cpp =
+[
+    [ "CacheStatistics", "df/d7d/struct_cache_statistics.html", "df/d7d/struct_cache_statistics" ],
+    [ "CacheStatsWrapper", "da/da0/struct_cache_stats_wrapper.html", "da/da0/struct_cache_stats_wrapper" ],
+    [ "AccessStack", "db/d8f/class_access_stack.html", "db/d8f/class_access_stack" ],
+    [ "AccessStack::AccessElem", "d3/d6a/struct_access_stack_1_1_access_elem.html", "d3/d6a/struct_access_stack_1_1_access_elem" ],
+    [ "SymbolResolver::Private", "d9/dc5/struct_symbol_resolver_1_1_private.html", "d9/dc5/struct_symbol_resolver_1_1_private" ],
+    [ "AUTO_TRACE", "d2/d99/symbolresolver_8cpp.html#a210042a14f3a393be09c743c219126ae", null ],
+    [ "AUTO_TRACE_ADD", "d2/d99/symbolresolver_8cpp.html#a05be586784f268b947ad777aa316c4e6", null ],
+    [ "AUTO_TRACE_EXIT", "d2/d99/symbolresolver_8cpp.html#a81912d2a3d12aab7a9e546e5299e2e09", null ],
+    [ "LookupCache", "d2/d99/symbolresolver_8cpp.html#ae99410ed40c872f7b5fc68b7b817e7ef", null ],
+    [ "VisitedKeys", "d2/d99/symbolresolver_8cpp.html#a62fc03f5f79aa6176eb0cb02cb054ac9", null ],
+    [ "VisitedNamespaceKeys", "d2/d99/symbolresolver_8cpp.html#a03559acac4e6e0def9c8804b0fcd7beb", null ],
+    [ "VisitedNamespaces", "d2/d99/symbolresolver_8cpp.html#a589f084c907127f8eb7da515347f2bc4", null ],
+    [ "computeIdealCacheParam", "d2/d99/symbolresolver_8cpp.html#a7315390f4dd62479074b9aea10a1c8a4", null ],
+    [ "getCacheSize", "d2/d99/symbolresolver_8cpp.html#a74b61bc40a2163910f5e5efb350a5e91", null ],
+    [ "getSymbolLookupCache", "d2/d99/symbolresolver_8cpp.html#a7468e1e179d00b61507770f5c0f5f71c", null ],
+    [ "getTypeLookupCache", "d2/d99/symbolresolver_8cpp.html#a5a470c28328edb127553a936ddd2fc94", null ],
+    [ "isCodeSymbol", "d2/d99/symbolresolver_8cpp.html#a0632c385ff1dbdd8af012ee995e3c1a7", null ],
+    [ "mergeStatistics", "d2/d99/symbolresolver_8cpp.html#a38d8a3ff2e251df28c568b0e76e6071d", null ],
+    [ "g_cacheTypedefMutex", "d2/d99/symbolresolver_8cpp.html#a1a8971085fc5238a1829570b5ca71aab", null ],
+    [ "g_substMap", "d2/d99/symbolresolver_8cpp.html#a97c888fb61ffbf3dbbf9fe3f8589b201", null ],
+    [ "g_symbolCacheStatistics", "d2/d99/symbolresolver_8cpp.html#aa9f2b19ee5b9503a8652e14fec2dc74b", null ],
+    [ "g_typeCacheStatistics", "d2/d99/symbolresolver_8cpp.html#ac398194c6162242ffae3b2a16176fdb8", null ]
+];

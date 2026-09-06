@@ -1,0 +1,23 @@
+<map id="HtmlGenerator" name="HtmlGenerator">
+<area shape="rect" id="Node000001" title="Generator for HTML output." alt="" coords="331,391,450,416"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="160,295,290,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,324,371,388,369,393,256,329"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="209,150,305,175"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,190,230,295,225,294,249,188"/>
+<area shape="rect" id="Node000006" href="$da/db6/class_html_code_generator.html" title="Generator for HTML code fragments." alt="" coords="314,295,466,320"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="277,184,354,269,379,293,375,296,350,273,273,188"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="263,5,334,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="250,21,186,30,153,41,122,57,64,103,41,128,23,154,12,181,8,209,14,238,30,269,58,303,93,330,132,352,174,368,258,389,331,398,331,403,257,395,172,374,130,357,90,335,55,307,25,272,9,240,3,209,6,179,18,151,36,125,60,100,120,52,151,36,185,25,249,16"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="251,38,214,54,175,77,139,106,111,143,105,165,107,187,117,209,132,230,171,266,208,292,204,297,167,270,128,233,112,211,102,188,99,164,107,140,135,102,172,72,212,49,249,33"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="340,34,373,51,408,75,440,104,465,140,472,163,471,186,465,208,455,230,429,269,404,296,400,293,425,266,451,228,460,207,466,185,466,163,460,143,436,108,404,79,370,56,338,39"/>
+<area shape="rect" id="Node000008" href="$d2/dd6/struct_html_code_generator_1_1_line_info.html" title=" " alt="" coords="612,143,772,183"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="347,19,429,29,475,39,519,52,563,72,604,95,670,140,667,145,602,100,561,76,517,57,473,44,428,34,347,24"/>
+<area shape="rect" id="Node000005" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="490,295,605,320"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="529,332,482,369,429,393,427,388,480,364,525,328"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="393,334,393,390,388,390,388,334"/>
+<area shape="rect" id="Node000007" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="330,150,451,175"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="393,189,393,295,388,295,388,189"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="657,193,594,234,519,273,445,297,444,292,517,268,592,229,654,188"/>
+<area shape="rect" id="Node000009" href="$d9/d33/struct_html_generator_1_1_toc_state.html" title=" " alt="" coords="630,295,812,320"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="668,326,431,393,430,388,667,321"/>
+</map>

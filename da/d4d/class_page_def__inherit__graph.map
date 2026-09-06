@@ -1,0 +1,11 @@
+<map id="PageDef" name="PageDef">
+<area shape="rect" id="Node000001" title="A model of a page symbol." alt="" coords="105,79,181,104"/>
+<area shape="rect" id="Node000004" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="40,152,245,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,118,145,152,140,152,140,118"/>
+<area shape="rect" id="Node000002" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,39,134,77,130,80,93,42"/>
+<area shape="rect" id="Node000003" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="168,5,253,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,42,156,80,152,77,188,39"/>
+<area shape="rect" id="Node000005" href="$dd/de8/class_page_def_impl.html" title=" " alt="" coords="90,225,195,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="145,191,145,225,140,225,140,191"/>
+</map>

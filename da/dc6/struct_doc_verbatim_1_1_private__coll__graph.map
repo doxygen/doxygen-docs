@@ -1,0 +1,11 @@
+<map id="DocVerbatim::Private" name="DocVerbatim::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,432,181,457"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,176,76,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,215,28,254,23,304,27,357,34,383,44,407,56,420,70,430,68,434,52,424,40,409,29,384,22,358,18,304,23,253,31,214"/>
+<area shape="rect" id="Node000003" href="$df/d95/class_doc_node_list.html" title=" " alt="" coords="109,176,213,201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,215,161,303,151,357,134,409,116,433,112,430,129,407,146,356,155,303,159,215"/>
+<area shape="rect" id="Node000004" href="$d0/d08/class_grow_vector.html" title=" " alt="" coords="45,101,277,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="163,141,163,176,158,176,158,141"/>
+<area shape="rect" id="Node000005" href="$d0/d08/class_grow_vector.html" title="std::vector like container optimized for pushing elements to the back." alt="" coords="93,5,228,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,45,163,101,158,101,158,45"/>
+</map>

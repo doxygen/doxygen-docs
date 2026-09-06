@@ -1,0 +1,8 @@
+<map id="anonymous_namespace{tagreader.cpp}::TagRequirementInfo" name="anonymous_namespace{tagreader.cpp}::TagRequirementInfo">
+<area shape="rect" id="Node000001" title="Container for requirement specific info that can be read from a tagfile." alt="" coords="5,233,272,273"/>
+<area shape="rect" id="Node000002" href="$d8/da1/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_compound_info.html" title="Base class for all compound types." alt="" coords="169,133,421,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,182,170,235,167,231,252,178"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="62,5,133,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="93,44,84,109,85,146,92,183,105,209,122,231,118,235,100,212,87,185,79,147,79,108,88,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,36,268,130,265,135,124,40"/>
+</map>

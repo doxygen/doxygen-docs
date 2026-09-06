@@ -1,0 +1,10 @@
+<map id="DiagramItem" name="DiagramItem">
+<area shape="rect" id="Node000001" title="Class representing a single node in the built&#45;in class diagram." alt="" coords="51,176,159,201"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="173,179,182,182,185,189,177,197,159,200,159,195,175,192,180,188,178,186,171,184"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,80,76,105"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="39,119,39,135,44,151,56,164,72,174,69,178,53,168,40,153,34,136,33,119"/>
+<area shape="rect" id="Node000003" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="129,80,209,105"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="161,119,141,154,120,178,116,174,137,150,156,117"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="126,5,211,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="171,45,171,80,166,80,166,45"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PreIncludeInfo" name="PreIncludeInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,196,161,221"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,80,76,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,119,37,145,44,171,56,184,71,194,68,198,52,188,40,173,32,146,32,119"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="132,80,200,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,120,153,146,139,173,118,198,114,194,134,171,148,144,157,118"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="29,5,167,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,39,157,78,153,81,117,43"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="191,5,277,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="215,43,179,81,175,78,212,39"/>
+</map>
