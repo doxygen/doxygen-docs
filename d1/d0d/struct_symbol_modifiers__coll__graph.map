@@ -1,0 +1,5 @@
+<map id="SymbolModifiers" name="SymbolModifiers">
+<area shape="rect" id="Node000001" title="Holds yyextra&#45;&gt;modifiers (ie attributes) for one symbol (variable, function, etc)." alt="" coords="5,181,136,207"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="35,5,106,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,44,73,181,68,181,68,44"/>
+</map>

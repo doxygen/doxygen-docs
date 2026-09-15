@@ -1,0 +1,11 @@
+<map id="pyscannerYY_state" name="pyscannerYY_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="245,221,390,247"/>
+<area shape="rect" id="Node000002" href="$d0/d6b/class_comment_scanner.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,44,78,79,84,120,99,161,110,179,124,195,143,206,173,214,245,225,244,230,172,219,141,211,121,199,106,183,94,163,79,121,73,79,71,45"/>
+<area shape="rect" id="Node000003" href="$d5/d79/class_outline_parser_interface.html" title="Abstract interface for outline parsers." alt="" coords="169,5,335,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,45,258,116,267,157,282,196,303,219,299,223,278,199,262,158,253,116,248,45"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="359,5,430,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="390,45,387,55,379,96,377,129,372,161,356,199,335,223,331,219,351,196,366,159,372,128,374,95,381,54,384,43"/>
+<area shape="rect" id="Node000005" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="467,5,563,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="521,44,523,79,521,120,510,162,501,182,487,199,471,209,448,217,391,228,390,223,447,212,469,204,484,195,496,179,505,160,516,119,518,79,516,45"/>
+</map>

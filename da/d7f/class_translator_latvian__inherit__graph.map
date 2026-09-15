@@ -1,0 +1,9 @@
+<map id="TranslatorLatvian" name="TranslatorLatvian">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,225,168,251"/>
+<area shape="rect" id="Node000002" href="$dc/db8/class_translator_adapter__1__16__0.html" title=" " alt="" coords="5,152,196,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,191,103,225,98,225,98,191"/>
+<area shape="rect" id="Node000003" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree." alt="" coords="16,79,185,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,118,103,152,98,152,98,118"/>
+<area shape="rect" id="Node000004" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments." alt="" coords="57,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,44,103,79,98,79,98,44"/>
+</map>
