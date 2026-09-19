@@ -1,0 +1,7 @@
+<map id="DotGraph" name="DotGraph">
+<area shape="rect" id="Node000001" title="A dot graph." alt="" coords="24,181,108,207"/>
+<area shape="rect" id="Node000002" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="5,5,47,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,45,22,98,25,128,34,156,52,179,48,183,29,159,20,129,17,98,19,44"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="71,5,141,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,45,79,158,72,182,67,180,74,157,99,44"/>
+</map>

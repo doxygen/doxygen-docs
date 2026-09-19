@@ -1,0 +1,18 @@
+<map id="DotGfxHierarchyTable" name="DotGfxHierarchyTable">
+<area shape="rect" id="Node000001" title="Represents a graphical class hierarchy." alt="" coords="25,411,191,436"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="266,200,350,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,239,311,273,304,313,290,354,265,389,235,403,192,413,190,408,233,398,261,385,285,351,299,312,305,273,307,239"/>
+<area shape="rect" id="Node000005" href="$dd/d7e/class_dot_node.html" title="A node in a dot graph." alt="" coords="69,315,147,340"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="280,235,227,270,196,293,143,317,140,312,193,288,224,266,277,231"/>
+<area shape="rect" id="Node000003" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="294,5,335,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,44,311,200,306,200,311,44"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="29,5,99,31"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="55,44,35,90,17,152,8,221,10,256,17,290,34,326,56,360,98,409,94,412,51,363,29,329,12,291,5,257,3,221,12,151,30,89,50,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="85,39,138,95,208,155,230,168,253,179,288,198,286,202,251,184,228,173,205,160,134,99,81,43"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="66,44,67,133,71,188,80,243,92,282,105,314,100,316,87,284,75,245,66,189,62,133,61,44"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="111,354,111,410,105,410,105,354"/>
+<area shape="rect" id="Node000006" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="160,200,240,225"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="168,234,132,255,112,269,106,292,108,314,103,315,101,292,107,267,129,251,165,230"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="184,5,269,31"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="226,44,211,158,205,200,199,199,206,157,221,44"/>
+</map>

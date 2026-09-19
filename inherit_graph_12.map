@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/da1/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_compound_info.html" title="Base class for all compound types." alt="" coords="5,293,257,333"/>
+<area shape="rect" id="Node000001" href="$d6/dbb/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_class_info.html" title="Container for class specific info that can be read from a tagfile." alt="" coords="330,5,547,45"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="143,280,166,230,201,169,247,107,274,79,304,55,329,42,331,46,307,60,277,83,251,111,205,172,171,232,148,282"/>
+<area shape="rect" id="Node000002" href="$da/d0a/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_concept_info.html" title="Container for concept specific info that can be read from a tagfile." alt="" coords="321,69,556,109"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="150,280,176,243,212,199,255,155,304,119,329,107,331,112,307,124,258,160,216,202,181,246,154,283"/>
+<area shape="rect" id="Node000003" href="$d9/da7/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_dir_info.html" title="Container for directory specific info that can be read from a tagfile." alt="" coords="338,133,539,173"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="162,282,225,231,264,205,304,183,337,170,339,175,306,188,266,210,228,235,166,286"/>
+<area shape="rect" id="Node000004" href="$d4/d4b/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_file_info.html" title="Container for file specific info that can be read from a tagfile." alt="" coords="336,197,541,237"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="194,286,305,247,348,235,349,240,306,252,195,291"/>
+<area shape="rect" id="Node000005" href="$d3/d8e/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_group_info.html" title="Container for group specific info that can be read from a tagfile." alt="" coords="328,261,549,301"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="271,296,328,290,328,295,272,301"/>
+<area shape="rect" id="Node000006" href="$de/dae/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_module_info.html" title="Container for module specific info that can be read from a tagfile." alt="" coords="323,325,554,365"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="271,325,323,331,323,336,270,330"/>
+<area shape="rect" id="Node000007" href="$d3/d36/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_namespace_info.html" title="Container for namespace specific info that can be read from a tagfile." alt="" coords="309,389,568,429"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="195,336,306,375,349,387,348,392,305,380,194,341"/>
+<area shape="rect" id="Node000008" href="$d3/da0/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_package_info.html" title="Container for package specific info that can be read from a tagfile." alt="" coords="321,453,556,493"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="166,341,228,391,266,417,306,439,337,451,335,456,304,444,264,422,225,396,162,345"/>
+<area shape="rect" id="Node000009" href="$d2/d70/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_page_info.html" title="Container for page specific info that can be read from a tagfile." alt="" coords="332,517,545,557"/>
+<area shape="poly" id="edge9_Node000000_Node000009" title=" " alt="" coords="154,344,181,381,216,424,258,467,307,503,333,516,331,520,304,508,255,471,212,428,176,384,150,347"/>
+<area shape="rect" id="Node000010" href="$de/db1/structanonymous__namespace_02tagreader_8cpp_03_1_1_tag_requirement_info.html" title="Container for requirement specific info that can be read from a tagfile." alt="" coords="305,581,572,621"/>
+<area shape="poly" id="edge10_Node000000_Node000010" title=" " alt="" coords="148,345,171,395,205,455,251,516,277,543,307,567,328,579,325,584,304,572,274,547,247,520,201,458,166,397,143,347"/>
+</map>

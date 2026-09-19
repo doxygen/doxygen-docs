@@ -1,0 +1,21 @@
+<map id="libxml/xml.l" name="libxml/xml.l">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,5,276,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,33,84,76,83,71,195,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,79,171,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,33,163,72,159,68,210,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,79,257,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,31,229,65,223,65,223,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="282,79,349,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="242,29,292,68,288,72,239,33"/>
+<area shape="rect" id="Node000006" href="$d0/d62/xml_8h.html" title=" " alt="" coords="373,79,431,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="255,28,361,71,359,76,253,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="207,152,285,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="378,106,285,149,283,144,376,102"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="309,152,396,177"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="396,106,371,142,366,139,392,103"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="421,152,479,177"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="412,103,437,139,432,142,408,106"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="504,152,628,177"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="429,102,528,144,526,149,427,106"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="LatexGenerator" name="LatexGenerator">
+<area shape="rect" id="Node000001" title="Generator for LaTeX output." alt="" coords="212,217,335,243"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="99,121,230,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,154,262,215,258,219,187,158"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="320,5,416,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,45,359,74,341,99,299,112,231,125,230,120,298,107,337,95,354,71,363,44"/>
+<area shape="rect" id="Node000006" href="$d0/d37/class_latex_code_generator.html" title="Generator for LaTeX code fragments." alt="" coords="393,121,549,147"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="394,38,409,53,444,96,463,119,459,123,440,99,405,56,390,42"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="50,5,121,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="62,41,38,64,18,91,8,119,10,132,16,145,34,166,56,183,108,207,162,220,212,226,212,231,161,225,106,212,54,187,31,170,11,148,4,134,3,118,13,88,34,60,58,37"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="82,45,81,71,89,96,102,109,119,119,116,124,99,114,85,99,76,72,77,44"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="135,29,157,39,177,53,186,64,190,76,193,86,202,95,393,120,392,126,199,100,189,89,185,78,181,67,173,57,154,44,133,34"/>
+<area shape="rect" id="Node000005" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="254,121,368,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="304,160,281,218,276,216,299,158"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="435,155,299,220,297,215,433,150"/>
+<area shape="rect" id="Node000007" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="441,5,562,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="498,45,477,122,472,120,492,43"/>
+</map>

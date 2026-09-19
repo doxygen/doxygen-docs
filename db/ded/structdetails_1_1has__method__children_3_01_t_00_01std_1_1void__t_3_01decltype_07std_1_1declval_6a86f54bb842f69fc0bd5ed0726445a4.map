@@ -1,0 +1,10 @@
+<map id="details::has_method_children&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt; &gt;" name="details::has_method_children&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="48,211,233,280"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,44,69,80,77,119,96,167,120,209,115,212,91,170,71,121,64,81,62,45"/>
+<area shape="rect" id="Node000004" href="$d6/d7e/structdetails_1_1has__method__children.html" title=" " alt="" coords="87,80,280,120"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="95,36,157,78,154,82,92,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="346,87,458,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,127,401,159,395,175,385,189,361,204,324,217,234,235,233,230,322,211,358,199,382,185,391,172,396,157,401,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,132,144,145,137,178,138,210,132,210,132,177,140,143,148,129"/>
+</map>

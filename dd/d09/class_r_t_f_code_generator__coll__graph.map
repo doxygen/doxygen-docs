@@ -1,0 +1,9 @@
+<map id="RTFCodeGenerator" name="RTFCodeGenerator">
+<area shape="rect" id="Node000001" title="Generator for RTF code fragments." alt="" coords="127,101,271,127"/>
+<area shape="rect" id="Node000002" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="5,5,127,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,36,184,99,181,103,92,41"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="151,5,247,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,45,202,101,197,101,197,45"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="272,5,343,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,42,214,103,211,99,282,38"/>
+</map>
