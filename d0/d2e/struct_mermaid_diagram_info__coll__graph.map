@@ -1,0 +1,5 @@
+<map id="MermaidDiagramInfo" name="MermaidDiagramInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,167,187"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="51,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,44,89,161,83,161,83,44"/>
+</map>

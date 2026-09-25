@@ -1,0 +1,9 @@
+<map id="SectionInfo" name="SectionInfo">
+<area shape="rect" id="Node000001" title="class that provide information about a section." alt="" coords="112,161,207,187"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,44,47,90,55,114,68,136,88,152,113,162,111,167,86,156,64,139,50,117,42,92,37,45"/>
+<area shape="rect" id="Node000003" href="$df/d3a/class_section_type.html" title=" " alt="" coords="109,5,209,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,44,162,161,157,161,157,44"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="234,5,319,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,45,255,91,241,116,224,139,207,153,189,163,187,159,204,149,220,135,237,113,250,89,268,43"/>
+</map>
