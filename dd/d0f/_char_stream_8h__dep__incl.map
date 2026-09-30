@@ -1,0 +1,16 @@
+<map id="vhdlparser/CharStream.h" name="vhdlparser/CharStream.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,368,31"/>
+<area shape="rect" id="Node000002" href="$d5/df9/_vhdl_parser_8h.html" title=" " alt="" coords="126,79,301,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,43,225,80,221,77,255,39"/>
+<area shape="rect" id="Node000006" href="$d7/dad/_vhdl_parser_token_manager_8h.html" title=" " alt="" coords="225,225,426,265"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="296,40,316,78,325,118,330,159,330,225,324,225,324,159,320,119,311,80,291,43"/>
+<area shape="rect" id="Node000003" href="$d2/dc3/_vhdl_parser_error_handler_8hpp.html" title=" " alt="" coords="5,225,200,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,112,143,130,120,154,111,171,106,190,104,225,99,225,101,189,106,169,115,150,139,125,168,108"/>
+<area shape="rect" id="Node000005" href="$d9/d48/vhdlstring_8h.html" title=" " alt="" coords="129,152,301,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="216,118,217,152,212,152,211,118"/>
+<area shape="rect" id="Node000004" href="$d1/d86/vhdljjparser_8cpp.html" title=" " alt="" coords="139,313,287,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,271,198,311,195,315,139,276"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="188,187,131,227,128,223,185,183"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="244,183,300,223,297,227,241,187"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="289,275,232,315,229,311,286,271"/>
+</map>

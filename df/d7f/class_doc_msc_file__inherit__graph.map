@@ -1,0 +1,9 @@
+<map id="DocMscFile" name="DocMscFile">
+<area shape="rect" id="Node000001" title="Node representing a msc file." alt="" coords="37,225,133,251"/>
+<area shape="rect" id="Node000002" href="$d3/d7c/class_doc_diagram_file_base.html" title=" " alt="" coords="5,152,164,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,191,87,225,82,225,82,191"/>
+<area shape="rect" id="Node000003" href="$da/dfc/class_doc_compound_node.html" title="Base class for nodes with children." alt="" coords="9,79,160,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,118,87,152,82,152,82,118"/>
+<area shape="rect" id="Node000004" href="$d9/d0e/class_doc_node.html" title="Abstract node interface with type information." alt="" coords="44,5,125,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,44,87,79,82,79,82,44"/>
+</map>

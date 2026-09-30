@@ -1,0 +1,69 @@
+<map id="MemberDefImpl" name="MemberDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1475,712,1603,737"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="1081,102,1295,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1234,147,1285,184,1345,233,1404,293,1430,326,1453,361,1477,409,1497,461,1523,564,1535,653,1540,712,1534,712,1530,654,1517,565,1492,462,1472,411,1448,363,1426,329,1400,296,1341,237,1282,188,1231,152"/>
+<area shape="rect" id="Node000003" href="$dd/d4b/class_member_def_mutable.html" title=" " alt="" coords="684,317,836,343"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="769,303,787,268,812,227,846,187,887,154,921,142,969,133,1081,123,1081,128,970,138,922,147,889,159,849,191,817,230,791,271,774,306"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="291,493,429,519"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="402,485,729,340,731,345,404,490"/>
+<area shape="rect" id="Node000011" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="726,497,794,523"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="443,504,726,507,726,512,443,509"/>
+<area shape="rect" id="Node000013" href="$d0/ded/class_module_def.html" title=" " alt="" coords="713,596,807,621"/>
+<area shape="poly" id="edge18_Node000013_Node000004" title=" " alt="" coords="422,520,657,581,714,595,712,600,655,586,421,525"/>
+<area shape="rect" id="Node000027" href="$d8/d09/class_group_def.html" title="A model of a group of symbols." alt="" coords="718,435,802,460"/>
+<area shape="poly" id="edge39_Node000027_Node000004" title=" " alt="" coords="443,491,718,451,718,456,444,497"/>
+<area shape="rect" id="Node000005" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="311,368,409,393"/>
+<area shape="poly" id="edge20_Node000001_Node000005" title=" " alt="" coords="423,378,863,383,1113,393,1217,401,1295,411,1381,424,1416,438,1453,467,1477,496,1496,530,1522,600,1535,666,1539,711,1534,712,1530,666,1517,602,1491,532,1472,499,1449,471,1413,442,1380,429,1294,417,1216,406,1113,398,863,388,423,383"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="423,366,464,359,683,334,684,339,464,365,423,371"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="75,619,161,644"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="128,605,147,567,175,520,211,470,253,427,284,406,317,391,319,396,287,410,256,431,215,474,180,522,152,569,133,607"/>
+<area shape="rect" id="Node000010" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="508,693,588,719"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="174,638,508,697,507,702,174,644"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="174,618,725,514,726,519,175,624"/>
+<area shape="rect" id="Node000012" href="$d0/d07/class_namespace_def.html" title="An abstract interface of a namespace symbol." alt="" coords="911,748,1034,773"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="162,647,218,669,281,690,368,712,457,729,635,750,793,758,911,759,911,765,793,764,635,755,457,734,366,717,279,695,216,674,160,652"/>
+<area shape="poly" id="edge19_Node000013_Node000006" title=" " alt="" coords="174,627,713,608,713,613,174,632"/>
+<area shape="rect" id="Node000022" href="$da/d32/class_member_group.html" title="A class representing a group of members." alt="" coords="1131,803,1245,828"/>
+<area shape="poly" id="edge31_Node000022_Node000006" title=" " alt="" coords="148,650,207,691,281,732,331,751,370,763,464,778,655,799,844,810,1010,814,1131,814,1131,819,1010,819,844,816,655,805,464,783,369,768,329,756,279,736,204,696,145,655"/>
+<area shape="poly" id="edge40_Node000027_Node000006" title=" " alt="" coords="134,605,159,575,193,539,233,505,279,478,337,457,399,442,461,434,523,429,634,431,718,439,717,444,634,436,523,435,462,439,400,448,339,462,281,483,236,509,196,543,163,578,139,609"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="303,73,417,99"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="431,86,1081,115,1081,120,431,92"/>
+<area shape="rect" id="Node000008" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="669,32,851,57"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="431,79,632,62,684,55,685,60,632,67,431,85"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="866,53,959,66,1058,83,1122,99,1121,105,1057,89,959,71,865,58"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="333,5,387,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="401,18,668,36,668,41,401,23"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="602,706,888,715,973,719,1057,715,1081,710,1141,705,1188,706,1295,710,1451,714,1475,716,1474,721,1451,719,1295,715,1188,711,1141,711,1082,715,1058,721,973,724,888,721,602,711"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="808,504,951,497,1141,495,1237,499,1325,508,1399,523,1429,533,1452,545,1473,562,1490,583,1516,631,1531,677,1538,711,1533,713,1526,678,1511,633,1486,586,1469,566,1449,550,1427,538,1398,528,1325,513,1237,504,1141,500,952,502,808,509"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="1048,753,1474,726,1475,731,1048,759"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="820,600,931,596,995,599,1058,607,1082,617,1137,629,1185,636,1268,640,1350,647,1397,656,1452,673,1489,690,1520,709,1518,714,1487,695,1450,678,1396,662,1349,652,1267,646,1184,641,1136,634,1081,622,1057,613,994,604,931,601,820,605"/>
+<area shape="rect" id="Node000014" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="301,1209,419,1235"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="400,1238,477,1273,585,1316,717,1358,865,1393,943,1405,1021,1411,1099,1412,1175,1405,1250,1390,1321,1366,1387,1331,1449,1285,1464,1268,1477,1244,1498,1180,1513,1100,1524,1013,1533,845,1535,738,1540,738,1539,845,1529,1013,1518,1101,1503,1181,1481,1246,1468,1271,1452,1289,1390,1336,1323,1370,1251,1395,1176,1410,1099,1417,1020,1417,942,1410,864,1398,716,1364,583,1321,475,1278,398,1243"/>
+<area shape="rect" id="Node000023" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects as shown in documentation sections." alt="" coords="711,967,809,992"/>
+<area shape="poly" id="edge33_Node000023_Node000014" title=" " alt="" coords="392,1200,736,990,739,994,395,1205"/>
+<area shape="rect" id="Node000015" href="$d1/d48/class_example_list.html" title=" " alt="" coords="1137,560,1239,585"/>
+<area shape="poly" id="edge22_Node000001_Node000015" title=" " alt="" coords="1253,567,1299,570,1351,576,1403,590,1452,612,1481,634,1504,661,1534,710,1529,713,1500,664,1477,638,1449,616,1401,595,1350,582,1299,575,1253,573"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="671,547,849,572"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="863,560,1137,568,1136,574,863,565"/>
+<area shape="rect" id="Node000017" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="725,1132,795,1157"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="809,1146,922,1154,1064,1159,1135,1157,1200,1152,1254,1143,1293,1129,1349,1089,1396,1038,1435,981,1467,921,1492,863,1511,810,1532,737,1537,738,1516,812,1497,865,1472,924,1440,984,1400,1041,1352,1093,1296,1134,1256,1148,1201,1158,1135,1163,1064,1164,922,1160,809,1152"/>
+<area shape="rect" id="Node000019" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="1133,1193,1243,1219"/>
+<area shape="poly" id="edge27_Node000019_Node000017" title=" " alt="" coords="806,1160,889,1183,954,1193,1020,1200,1133,1204,1133,1209,1020,1205,953,1199,887,1189,805,1165"/>
+<area shape="poly" id="edge37_Node000022_Node000017" title=" " alt="" coords="808,1137,867,1126,935,1104,968,1089,1001,1070,1030,1047,1055,1020,1068,997,1072,975,1065,929,1060,907,1059,884,1064,861,1079,837,1103,821,1130,813,1131,818,1105,826,1083,841,1069,863,1064,885,1065,906,1070,929,1077,975,1073,999,1059,1024,1034,1051,1004,1075,971,1094,936,1109,868,1131,809,1142"/>
+<area shape="rect" id="Node000018" href="$d7/dc8/class_type_specifier.html" title="Wrapper class for a number of boolean properties." alt="" coords="1134,852,1242,877"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="1256,874,1301,877,1351,875,1402,867,1449,848,1479,824,1503,793,1520,762,1530,736,1535,739,1525,764,1507,796,1483,827,1452,852,1404,872,1352,881,1301,882,1255,879"/>
+<area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="1256,1212,1311,1217,1368,1219,1417,1215,1436,1210,1449,1203,1462,1188,1473,1168,1493,1114,1508,1047,1519,974,1531,831,1534,737,1540,738,1536,831,1524,974,1513,1048,1498,1116,1478,1171,1466,1191,1452,1207,1438,1215,1418,1220,1368,1224,1311,1223,1256,1218"/>
+<area shape="rect" id="Node000020" href="$d6/d05/class_argument_lists.html" title=" " alt="" coords="1130,1243,1246,1268"/>
+<area shape="poly" id="edge28_Node000001_Node000020" title=" " alt="" coords="1241,1269,1290,1279,1346,1282,1374,1280,1401,1274,1426,1264,1449,1248,1463,1232,1475,1210,1495,1150,1511,1076,1521,995,1532,839,1535,738,1540,738,1538,839,1527,996,1516,1077,1501,1152,1480,1212,1467,1235,1452,1252,1429,1268,1403,1279,1375,1285,1346,1288,1289,1284,1240,1274"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="656,1231,864,1256"/>
+<area shape="poly" id="edge29_Node000020_Node000021" title=" " alt="" coords="878,1244,1130,1251,1130,1256,878,1249"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="1259,818,1352,815,1402,807,1450,793,1472,781,1493,766,1525,735,1528,739,1497,770,1475,786,1452,798,1403,813,1352,821,1259,824"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="812,960,926,916,992,887,1056,854,1080,837,1130,821,1131,826,1083,842,1059,859,994,892,928,921,814,965"/>
+<area shape="rect" id="Node000024" href="$d4/d15/class_member_group_ref_list.html" title=" " alt="" coords="280,993,440,1019"/>
+<area shape="poly" id="edge34_Node000023_Node000024" title=" " alt="" coords="454,1007,540,1007,632,1002,710,989,711,994,632,1007,540,1013,454,1013"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="5,993,231,1019"/>
+<area shape="poly" id="edge35_Node000024_Node000025" title=" " alt="" coords="244,1003,280,1003,280,1009,244,1009"/>
+<area shape="rect" id="Node000026" href="$d0/dd9/class_member_list_type.html" title="Wrapper class for the MemberListType type." alt="" coords="295,940,425,965"/>
+<area shape="poly" id="edge36_Node000023_Node000026" title=" " alt="" coords="438,955,711,973,710,979,438,960"/>
+<area shape="poly" id="edge38_Node000001_Node000027" title=" " alt="" coords="816,442,963,438,1153,441,1247,449,1333,462,1403,481,1431,493,1452,508,1474,531,1493,558,1518,617,1532,672,1539,711,1533,712,1527,673,1513,619,1488,561,1470,535,1449,512,1428,498,1402,486,1332,467,1247,454,1153,447,963,443,816,447"/>
+</map>

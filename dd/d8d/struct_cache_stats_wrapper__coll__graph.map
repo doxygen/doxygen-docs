@@ -1,0 +1,9 @@
+<map id="CacheStatsWrapper" name="CacheStatsWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,212,211,237"/>
+<area shape="rect" id="Node000002" href="$df/d7d/struct_cache_statistics.html" title=" " alt="" coords="5,109,128,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,147,80,167,90,186,117,210,113,214,86,190,75,169,68,148"/>
+<area shape="rect" id="Node000003" href="$dc/d67/class_cache.html" title=" " alt="" coords="152,101,299,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,154,178,190,152,214,149,210,174,186,203,151"/>
+<area shape="rect" id="Node000004" href="$dc/d67/class_cache.html" title=" " alt="" coords="166,5,285,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,45,228,101,223,101,223,45"/>
+</map>

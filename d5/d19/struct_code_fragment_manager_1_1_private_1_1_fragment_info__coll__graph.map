@@ -1,0 +1,7 @@
+<map id="CodeFragmentManager::Private::FragmentInfo" name="CodeFragmentManager::Private::FragmentInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,121,212,161"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,44,37,71,44,96,55,109,69,119,66,123,52,113,40,99,31,71,32,44"/>
+<area shape="rect" id="Node000003" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="149,5,271,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,45,198,72,183,99,158,123,154,119,179,96,193,70,202,43"/>
+</map>

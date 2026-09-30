@@ -1,0 +1,17 @@
+<map id="MemberGroup" name="MemberGroup">
+<area shape="rect" id="Node000001" title="A class representing a group of members." alt="" coords="155,332,269,357"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="49,176,135,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,215,98,261,106,285,119,306,136,320,155,330,153,334,133,324,115,310,101,287,93,262,88,215"/>
+<area shape="rect" id="Node000003" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects as shown in documentation sections." alt="" coords="163,176,261,201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,215,215,332,209,332,209,215"/>
+<area shape="rect" id="Node000004" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="5,80,123,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,110,195,174,192,178,92,115"/>
+<area shape="rect" id="Node000005" href="$d4/d15/class_member_group_ref_list.html" title=" " alt="" coords="147,80,307,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="219,119,216,130,214,176,208,176,211,129,214,117"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="114,5,339,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="229,45,229,80,224,80,224,45"/>
+<area shape="rect" id="Node000007" href="$d0/dd9/class_member_list_type.html" title="Wrapper class for the MemberListType type." alt="" coords="346,80,475,105"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="406,120,397,138,383,154,336,168,262,182,261,177,335,163,380,150,393,135,401,117"/>
+<area shape="rect" id="Node000008" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="305,176,375,201"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="343,215,336,262,327,288,313,310,293,325,271,335,269,331,290,321,309,306,323,285,331,261,338,215"/>
+</map>

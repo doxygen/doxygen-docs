@@ -1,0 +1,7 @@
+<map id="FileName" name="FileName">
+<area shape="rect" id="Node000001" title="Class representing all files with a certain base name." alt="" coords="127,116,211,141"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,184,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,55,163,114,159,118,115,58"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="209,13,279,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,51,180,118,176,114,225,48"/>
+</map>

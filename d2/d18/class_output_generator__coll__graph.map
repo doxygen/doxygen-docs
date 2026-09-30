@@ -1,0 +1,7 @@
+<map id="OutputGenerator" name="OutputGenerator">
+<area shape="rect" id="Node000001" title="Base class for shared implementation for all output generators." alt="" coords="41,121,172,147"/>
+<area shape="rect" id="Node000002" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="5,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,42,104,120,99,122,62,44"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="126,5,197,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,45,132,99,117,123,112,120,127,96,150,42"/>
+</map>

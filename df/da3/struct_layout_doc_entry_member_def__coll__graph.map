@@ -1,0 +1,9 @@
+<map id="LayoutDocEntryMemberDef" name="LayoutDocEntryMemberDef">
+<area shape="rect" id="Node000001" title="Represents of a member definition list with configurable title." alt="" coords="119,101,321,127"/>
+<area shape="rect" id="Node000002" href="$d9/dba/struct_layout_doc_entry.html" title="Base class representing a piece of a documentation page." alt="" coords="5,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,36,203,99,200,103,97,40"/>
+<area shape="rect" id="Node000003" href="$d0/dd9/class_member_list_type.html" title="Wrapper class for the MemberListType type." alt="" coords="155,5,285,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,45,223,101,217,101,217,45"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="309,5,379,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,41,237,103,234,99,316,37"/>
+</map>

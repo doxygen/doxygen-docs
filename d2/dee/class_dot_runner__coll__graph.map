@@ -1,0 +1,5 @@
+<map id="DotRunner" name="DotRunner">
+<area shape="rect" id="Node000001" title="Helper class to run dot from doxygen." alt="" coords="5,101,96,127"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="15,5,86,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,45,53,101,48,101,48,45"/>
+</map>

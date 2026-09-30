@@ -1,0 +1,7 @@
+<map id="TextGeneratorXMLImpl" name="TextGeneratorXMLImpl">
+<area shape="rect" id="Node000001" title="Implements TextGeneratorIntf for an XML stream." alt="" coords="57,101,228,127"/>
+<area shape="rect" id="Node000002" href="$d0/dcf/class_text_generator_intf.html" title="Abstract interface for a hyperlinked text fragment." alt="" coords="5,5,141,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,40,136,100,132,103,88,43"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="165,5,261,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,43,154,103,149,100,194,40"/>
+</map>

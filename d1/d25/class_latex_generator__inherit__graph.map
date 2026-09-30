@@ -1,0 +1,7 @@
+<map id="LatexGenerator" name="LatexGenerator">
+<area shape="rect" id="Node000001" title="Generator for LaTeX output." alt="" coords="83,79,205,104"/>
+<area shape="rect" id="Node000002" href="$d3/d8e/class_output_generator.html" title="Base class for shared implementation for all output generators." alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,38,134,77,130,80,91,42"/>
+<area shape="rect" id="Node000003" href="$d9/de9/class_output_gen_intf.html" title="Abstract interface for output generators." alt="" coords="160,5,275,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,42,158,80,154,77,194,38"/>
+</map>

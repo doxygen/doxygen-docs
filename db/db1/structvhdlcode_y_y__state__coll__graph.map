@@ -1,0 +1,19 @@
+<map id="vhdlcodeYY_state" name="vhdlcodeYY_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="311,333,448,359"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,89,76,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,128,24,167,17,215,18,241,22,265,30,288,44,307,56,314,79,320,148,329,311,340,310,345,148,334,78,325,54,319,40,311,25,290,17,266,12,241,12,215,18,166,29,126"/>
+<area shape="rect" id="Node000003" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="307,89,406,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,124,311,135,302,148,283,192,275,230,281,267,302,308,315,321,332,331,329,336,311,326,297,311,276,268,270,230,278,190,297,145,307,131,320,120"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="293,5,378,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="279,28,252,35,225,45,200,61,180,82,175,91,175,100,181,122,193,180,206,226,228,266,268,307,289,321,312,331,310,336,286,326,264,311,224,269,201,228,188,182,175,123,170,101,170,90,176,78,197,56,222,40,251,30,278,23"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,44,356,88,351,89,339,45"/>
+<area shape="rect" id="Node000006" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="431,89,499,114"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="367,36,448,86,445,91,364,40"/>
+<area shape="rect" id="Node000005" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="527,89,650,114"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="596,127,600,167,599,216,588,267,577,290,561,311,543,323,515,331,449,342,448,337,514,326,541,318,558,307,572,288,583,265,594,216,595,167,591,128"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="466,128,456,226,446,276,434,311,421,325,406,335,403,331,417,321,429,308,441,275,450,225,460,128"/>
+<area shape="rect" id="Node000007" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="402,5,541,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="472,44,468,89,463,88,467,44"/>
+<area shape="rect" id="Node000008" href="$d5/dae/class_tooltip_manager.html" title="Class that manages the tooltips for a source file." alt="" coords="674,89,797,114"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="734,129,726,170,709,220,682,270,665,292,643,312,609,326,560,336,448,346,448,340,559,331,608,321,641,307,661,289,678,267,704,218,720,168,729,128"/>
+</map>

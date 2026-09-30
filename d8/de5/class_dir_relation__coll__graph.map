@@ -1,0 +1,20 @@
+<map id="DirRelation" name="DirRelation">
+<area shape="rect" id="Node000001" title="A usage relation between two directories." alt="" coords="136,383,231,408"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="51,287,121,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,324,103,341,115,357,131,370,151,380,148,385,129,375,111,361,99,344,91,326"/>
+<area shape="rect" id="Node000003" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="237,191,301,216"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,230,266,292,257,327,240,360,227,374,211,385,208,380,223,370,236,357,252,326,261,291,267,229"/>
+<area shape="rect" id="Node000006" href="$df/d42/class_used_dir.html" title="Usage information of a directory." alt="" coords="146,287,221,312"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="228,224,207,242,194,265,188,287,183,286,189,263,203,238,225,220"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="199,116,338,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,156,271,190,266,190,266,156"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="362,116,447,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="372,150,292,193,289,188,370,146"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,326,186,382,181,382,181,326"/>
+<area shape="rect" id="Node000007" href="$d3/d29/class_file_pair_linked_map.html" title="A linked map of file pairs." alt="" coords="23,191,162,216"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="97,229,101,246,109,261,127,276,147,286,145,290,124,280,105,264,96,248,92,230"/>
+<area shape="rect" id="Node000008" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="5,116,175,141"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="94,155,95,190,90,190,88,156"/>
+<area shape="rect" id="Node000009" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="10,5,170,45"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="93,59,93,116,87,116,87,59"/>
+</map>
