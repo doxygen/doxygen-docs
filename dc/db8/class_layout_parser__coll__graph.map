@@ -1,0 +1,13 @@
+<map id="LayoutParser" name="LayoutParser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,237,406,263"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,44,24,72,19,104,20,136,33,165,50,179,76,192,147,214,227,230,299,240,299,246,227,235,146,219,74,197,47,184,29,168,15,138,13,104,19,71,28,43"/>
+<area shape="rect" id="Node000004" href="$df/de7/struct_layout_nav_entry.html" title="Base class for the layout of a navigation item at the top of the HTML pages." alt="" coords="111,141,237,167"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="63,38,165,139,161,143,60,42"/>
+<area shape="rect" id="Node000003" href="$dc/d1d/class_layout_doc_manager.html" title="Singleton providing access to the (user configurable) layout of the documentation." alt="" coords="356,141,504,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="414,179,364,239,360,235,410,176"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,171,332,235,329,239,207,175"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="253,145,264,154,256,162,238,165,237,160,253,158,259,154,250,149"/>
+<area shape="rect" id="Node000005" href="$d3/d7e/class_x_m_l_locator.html" title=" " alt="" coords="546,141,645,167"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="588,180,575,199,558,216,531,227,492,235,406,247,406,242,491,230,529,222,555,211,571,196,583,177"/>
+</map>

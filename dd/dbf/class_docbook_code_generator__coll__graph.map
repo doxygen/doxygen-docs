@@ -1,0 +1,9 @@
+<map id="DocbookCodeGenerator" name="DocbookCodeGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,161,288,187"/>
+<area shape="rect" id="Node000002" href="$db/d44/class_output_code_intf.html" title="Base class for code generators." alt="" coords="5,5,127,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,39,191,159,187,163,83,43"/>
+<area shape="rect" id="Node000003" href="$d3/d30/class_text_stream.html" title="Text streaming class that buffers data." alt="" coords="151,5,247,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,44,202,161,197,161,197,44"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="272,5,343,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="298,45,274,90,240,139,216,163,212,159,236,136,269,87,294,42"/>
+</map>

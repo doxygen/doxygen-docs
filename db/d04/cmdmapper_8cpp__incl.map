@@ -1,0 +1,34 @@
+<map id="src/cmdmapper.cpp" name="src/cmdmapper.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,5,564,31"/>
+<area shape="rect" id="Node000002" href="$d3/d42/cmdmapper_8h.html" title=" " alt="" coords="434,79,545,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,31,492,65,487,65,487,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="286,152,363,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,106,365,149,363,144,462,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="782,299,840,324"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="546,95,611,106,686,129,723,146,758,167,789,193,815,224,821,239,824,255,821,286,816,285,819,255,816,240,810,227,785,196,755,171,720,150,684,134,610,111,545,100"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="490,152,614,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="502,103,535,140,531,143,498,106"/>
+<area shape="rect" id="Node000006" href="$de/dec/dstring_8h.html" title=" " alt="" coords="388,152,466,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="481,106,448,143,444,140,477,103"/>
+<area shape="poly" id="edge13_Node000006_Node000004" title=" " alt="" coords="467,172,480,175,549,181,639,186,726,198,762,208,788,223,799,237,806,252,813,284,808,285,801,254,794,239,784,227,759,213,725,203,638,192,548,186,479,180,466,178"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="24,225,110,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="388,177,376,180,124,228,123,222,375,175,387,172"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="134,225,200,251"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="388,179,214,227,212,222,387,174"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="87,299,154,324"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="388,178,375,180,292,185,184,186,130,190,81,197,41,209,14,227,9,237,9,245,21,263,46,279,76,292,73,297,43,284,17,267,4,247,4,235,11,224,39,204,80,191,129,184,184,181,292,179,375,175,387,172"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="308,225,370,251"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="415,179,366,219,363,214,411,175"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="394,225,460,251"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="430,178,430,212,424,212,424,178"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="484,225,551,251"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="443,175,494,214,490,219,440,179"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="576,225,652,251"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="458,175,572,218,570,223,456,180"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="676,225,773,251"/>
+<area shape="poly" id="edge14_Node000006_Node000014" title=" " alt="" coords="467,173,664,220,663,225,466,178"/>
+<area shape="rect" id="Node000015" href="$db/d7c/utf8_8h.html" title="Various UTF8 related helper functions." alt="" coords="224,225,284,251"/>
+<area shape="poly" id="edge15_Node000006_Node000015" title=" " alt="" coords="400,180,296,222,294,218,398,175"/>
+<area shape="poly" id="edge17_Node000015_Node000004" title=" " alt="" coords="285,245,297,248,431,270,564,286,768,304,767,310,563,291,430,275,296,253,283,251"/>
+<area shape="poly" id="edge16_Node000015_Node000009" title=" " alt="" coords="234,253,156,294,153,290,231,248"/>
+</map>

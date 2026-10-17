@@ -1,0 +1,29 @@
+<map id="DirDefImpl" name="DirDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="904,144,997,169"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="561,101,755,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="769,118,881,133,914,141,912,147,879,138,768,123"/>
+<area shape="rect" id="Node000003" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol." alt="" coords="309,37,373,63"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="387,44,479,43,604,48,674,56,744,68,814,85,881,108,911,124,936,142,933,146,908,128,879,112,812,90,743,73,673,61,604,54,479,48,387,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,56,594,99,593,104,385,62"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,25,309,44,308,49,157,31"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="32,55,117,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="131,61,308,49,309,55,131,66"/>
+<area shape="rect" id="Node000006" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="17,115,132,140"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="146,123,561,114,561,119,146,128"/>
+<area shape="rect" id="Node000007" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="249,163,432,188"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="126,141,169,153,249,165,249,170,167,158,124,147"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="445,167,537,153,584,139,625,124,627,129,585,145,538,158,446,172"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="47,188,102,213"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="115,194,249,181,250,187,116,199"/>
+<area shape="rect" id="Node000009" href="$dc/d2a/class_dir_list.html" title="A list of directories." alt="" coords="626,169,690,195"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="704,175,904,158,904,163,704,181"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="270,213,411,253"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="424,217,626,184,626,190,425,222"/>
+<area shape="rect" id="Node000011" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="623,237,693,263"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="707,256,746,259,790,258,836,252,879,237,900,223,917,204,941,168,945,171,921,208,903,227,881,242,837,257,791,264,746,264,707,261"/>
+<area shape="rect" id="Node000012" href="$d0/d18/class_file_list.html" title=" " alt="" coords="624,291,692,316"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="706,310,746,314,791,313,837,305,879,286,906,260,925,228,937,195,944,169,949,170,943,197,930,230,910,264,881,291,838,310,791,319,746,319,705,315"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="270,283,411,323"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="425,301,624,301,624,306,425,306"/>
+</map>
