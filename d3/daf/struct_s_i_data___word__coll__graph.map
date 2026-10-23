@@ -1,0 +1,5 @@
+<map id="SIData_Word" name="SIData_Word">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,111,127"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="23,5,93,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,45,61,101,55,101,55,45"/>
+</map>

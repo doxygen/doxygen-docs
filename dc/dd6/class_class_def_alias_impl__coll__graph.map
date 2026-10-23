@@ -1,0 +1,23 @@
+<map id="ClassDefAliasImpl" name="ClassDefAliasImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="141,455,283,480"/>
+<area shape="rect" id="Node000002" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="135,365,289,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,419,215,454,209,454,209,419"/>
+<area shape="rect" id="Node000003" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="5,197,85,222"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="52,235,67,287,80,315,99,339,117,353,136,363,134,368,114,357,95,343,76,318,62,289,46,236"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="96,5,181,31"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="140,44,141,97,148,164,163,230,185,305,207,364,202,366,180,306,157,231,143,165,136,97,135,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,41,100,56,79,94,65,134,50,197,45,196,59,132,74,92,95,53,109,38"/>
+<area shape="rect" id="Node000005" href="$d0/d58/class_definition_alias_impl.html" title=" " alt="" coords="173,130,320,155"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="143,44,150,70,163,96,185,115,211,128,209,132,182,119,159,99,145,72,138,45"/>
+<area shape="rect" id="Node000007" href="$d8/d83/class_definition_alias_mixin.html" title=" " alt="" coords="403,255,557,295"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="195,19,301,30,350,39,384,52,407,77,430,115,464,187,474,222,480,254,475,255,469,224,459,189,426,118,403,81,381,57,349,44,301,35,195,25"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="244,169,240,188,217,365,211,365,235,188,238,168"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="245,170,246,201,251,216,259,229,282,242,317,253,403,265,402,271,316,258,279,247,255,233,246,218,241,202,240,170"/>
+<area shape="rect" id="Node000006" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="470,5,541,31"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="513,44,515,72,514,104,506,137,489,166,476,176,463,182,437,183,411,181,397,184,383,190,352,214,333,237,317,264,293,296,231,367,227,364,289,293,312,261,329,234,349,210,380,186,396,179,410,176,437,177,462,177,473,172,485,162,501,135,508,103,510,72,507,44"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="457,29,411,40,364,57,333,75,304,95,260,132,257,128,301,91,330,70,362,52,409,35,456,24"/>
+<area shape="poly" id="edge13_Node000007_Node000006" title=" " alt="" coords="522,42,527,54,534,109,527,165,512,215,493,255,488,253,507,213,521,163,529,109,521,55,517,44"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="440,304,364,344,290,368,288,363,362,339,438,300"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="707,130,762,155"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="707,165,652,198,586,233,532,257,529,252,584,228,649,193,704,160"/>
+</map>

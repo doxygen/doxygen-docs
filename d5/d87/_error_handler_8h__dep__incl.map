@@ -1,0 +1,17 @@
+<map id="vhdlparser/ErrorHandler.h" name="vhdlparser/ErrorHandler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,295,31"/>
+<area shape="rect" id="Node000002" href="$d5/df9/_vhdl_parser_8h.html" title=" " alt="" coords="114,79,289,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,44,204,79,199,79,199,44"/>
+<area shape="rect" id="Node000003" href="$d2/dc3/_vhdl_parser_error_handler_8hpp.html" title=" " alt="" coords="5,225,200,265"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="153,38,125,56,104,80,91,117,88,157,93,195,99,225,94,226,87,196,83,157,85,116,99,77,122,52,151,34"/>
+<area shape="rect" id="Node000006" href="$d7/dad/_vhdl_parser_token_manager_8h.html" title=" " alt="" coords="225,225,426,265"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="246,34,277,52,303,77,323,114,332,155,333,194,331,225,326,225,328,194,327,156,318,116,299,80,273,57,244,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,114,149,131,130,153,114,190,107,226,102,224,109,189,126,151,146,128,168,110"/>
+<area shape="rect" id="Node000005" href="$d9/d48/vhdlstring_8h.html" title=" " alt="" coords="141,152,313,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="213,116,225,151,220,153,208,118"/>
+<area shape="rect" id="Node000004" href="$d1/d86/vhdljjparser_8cpp.html" title=" " alt="" coords="139,313,287,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,271,198,311,195,315,139,276"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="198,187,134,227,131,223,195,183"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="254,184,303,223,300,227,250,188"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="289,275,232,315,229,311,286,271"/>
+</map>

@@ -1,0 +1,24 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="DotGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d0/d32/class_dot_graph.html",tooltip="A dot graph."];
+  Node0 -> Node1 [id="edge149_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="DotCallGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d0/dff/class_dot_call_graph.html",tooltip="Representation of an call graph."];
+  Node0 -> Node2 [id="edge150_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="DotClassGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$df/d1c/class_dot_class_graph.html",tooltip="Representation of a class inheritance or dependency graph."];
+  Node0 -> Node3 [id="edge151_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="DotDirDeps",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/dd4/class_dot_dir_deps.html",tooltip="Representation of an directory dependency graph."];
+  Node0 -> Node4 [id="edge152_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="DotGfxHierarchyTable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d1f/class_dot_gfx_hierarchy_table.html",tooltip="Represents a graphical class hierarchy."];
+  Node0 -> Node5 [id="edge153_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="DotGroupCollaboration",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d5f/class_dot_group_collaboration.html",tooltip="Representation of a group collaboration graph."];
+  Node0 -> Node6 [id="edge154_Node000000_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="DotInclDepGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/d03/class_dot_incl_dep_graph.html",tooltip="Representation of an include dependency graph."];
+  Node0 -> Node7 [id="edge155_Node000000_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="DotLegendGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d4/d2c/class_dot_legend_graph.html",tooltip="Representation of a legend explaining the meaning of boxes, arrows, and colors."];
+}

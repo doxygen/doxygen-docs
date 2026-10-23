@@ -1,0 +1,5 @@
+<map id="RefList" name="RefList">
+<area shape="rect" id="Node000001" title="List of cross&#45;referenced items." alt="" coords="7,161,74,187"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,44,43,161,38,161,38,44"/>
+</map>
