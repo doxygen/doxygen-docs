@@ -1,0 +1,7 @@
+<map id="ConfigDisabled" name="ConfigDisabled">
+<area shape="rect" id="Node000001" title="Section marker for compile time optional options." alt="" coords="5,276,125,301"/>
+<area shape="rect" id="Node000002" href="$d2/dd3/class_config_option.html" title="Abstract base class for any configuration option." alt="" coords="12,201,119,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,241,68,276,63,276,63,241"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="30,5,101,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,44,68,201,63,201,63,44"/>
+</map>

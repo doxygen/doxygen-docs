@@ -1,0 +1,5 @@
+<map id="CitePosition" name="CitePosition">
+<area shape="rect" id="Node000001" title="class that provide information about the p[osition of a citation name" alt="" coords="5,101,105,127"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="20,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,45,58,101,53,101,53,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LatexDocVisitor" name="LatexDocVisitor">
+<area shape="rect" id="Node000001" title="Concrete visitor implementation for LaTeX output." alt="" coords="5,79,131,104"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_doc_visitor.html" title="Helper base class for functionality shared by all visitors." alt="" coords="23,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,44,71,79,65,79,65,44"/>
+</map>
