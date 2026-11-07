@@ -1,0 +1,14 @@
+<map id="DotNode" name="DotNode">
+<area shape="rect" id="Node000001" title="A node in a dot graph." alt="" coords="181,315,260,340"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="60,200,144,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,237,121,264,139,289,159,304,182,314,180,319,156,308,135,293,116,267,105,239"/>
+<area shape="rect" id="Node000003" href="$d2/dc2/class_dir.html" title="Class representing a directory in the file system." alt="" coords="5,5,47,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="25,44,25,98,30,128,40,156,59,180,82,198,79,202,56,184,36,159,25,129,20,98,20,44"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="128,5,199,31"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="194,38,204,53,218,90,227,128,234,204,231,270,225,315,220,314,226,270,229,204,222,129,213,91,200,56,189,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="121,40,106,56,93,94,90,135,95,172,101,199,96,200,90,173,85,135,87,93,101,53,117,36"/>
+<area shape="rect" id="Node000005" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="315,200,395,225"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="333,236,236,317,233,313,329,232"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="313,5,398,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="358,44,358,200,353,200,353,44"/>
+</map>

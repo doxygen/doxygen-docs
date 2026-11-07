@@ -1,0 +1,5 @@
+<map id="DotGfxHierarchyTable" name="DotGfxHierarchyTable">
+<area shape="rect" id="Node000001" title="Represents a graphical class hierarchy." alt="" coords="5,79,171,104"/>
+<area shape="rect" id="Node000002" href="$d0/d32/class_dot_graph.html" title="A dot graph." alt="" coords="46,5,130,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,44,91,79,85,79,85,44"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="XMLCodeParser::Private" name="XMLCodeParser::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,489,413,515"/>
+<area shape="rect" id="Node000002" href="$d1/d7e/structxmlcode_y_y__state.html" title=" " alt="" coords="257,393,391,419"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,433,327,489,321,489,321,433"/>
+<area shape="rect" id="Node000003" href="$db/d8e/class_output_code_list.html" title="Class representing a list of different code generators." alt="" coords="5,89,128,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,128,66,179,72,244,80,278,91,311,108,341,130,367,150,378,181,387,257,398,256,403,180,392,148,383,126,371,103,344,86,313,74,279,67,245,60,179,62,128"/>
+<area shape="rect" id="Node000004" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="153,89,223,114"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="185,128,177,177,175,241,178,275,185,308,197,339,215,368,234,384,257,394,255,399,231,388,211,371,193,342,180,310,173,276,170,241,172,177,180,127"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="413,5,499,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="488,36,542,81,568,111,588,146,613,209,627,264,627,291,621,317,608,343,587,371,574,381,555,389,505,400,447,406,392,408,391,403,447,400,505,395,553,384,571,377,583,367,603,341,616,315,621,290,621,265,608,210,583,148,564,114,538,85,485,40"/>
+<area shape="rect" id="Node000006" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="290,89,358,114"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="427,40,344,91,341,86,424,36"/>
+<area shape="rect" id="Node000008" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol." alt="" coords="404,89,503,114"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="458,45,456,89,451,88,452,45"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="327,128,327,393,321,393,321,128"/>
+<area shape="rect" id="Node000007" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="251,5,389,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="324,45,326,88,321,89,319,45"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="455,128,444,265,436,333,425,371,409,386,389,396,387,391,405,381,420,368,430,332,439,265,449,128"/>
+</map>

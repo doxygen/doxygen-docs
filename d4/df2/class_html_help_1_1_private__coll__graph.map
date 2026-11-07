@@ -1,0 +1,14 @@
+<map id="HtmlHelp::Private" name="HtmlHelp::Private">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,328,194,353"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,212,76,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,251,38,278,47,303,60,316,78,326,75,330,57,320,42,305,33,279,33,251"/>
+<area shape="rect" id="Node000003" href="$df/d26/class_html_help_recoder.html" title="Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM..." alt="" coords="56,116,193,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,155,127,328,122,328,122,155"/>
+<area shape="rect" id="Node000004" href="$d0/d74/class_html_help_index.html" title="A helper class for HtmlHelp that manages a two level index in alphabetical order." alt="" coords="206,212,326,237"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="150,148,202,186,244,209,241,214,199,190,147,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,248,141,330,137,326,239,244"/>
+<area shape="rect" id="Node000005" href="$d0/d2c/class_linked_map.html" title=" " alt="" coords="218,116,407,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,155,274,213,269,211,298,152"/>
+<area shape="rect" id="Node000006" href="$d0/d2c/class_linked_map.html" title="Container class representing a vector of objects with keys." alt="" coords="233,5,393,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="315,59,315,116,310,116,310,59"/>
+</map>

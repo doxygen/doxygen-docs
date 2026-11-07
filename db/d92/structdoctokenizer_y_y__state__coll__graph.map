@@ -1,0 +1,16 @@
+<map id="doctokenizerYY_state" name="doctokenizerYY_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,469,320,495"/>
+<area shape="rect" id="Node000002" href="$da/d7a/class_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="127,345,211,370"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,383,187,413,203,444,226,467,222,471,198,447,182,415,172,384"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="12,80,83,105"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="40,119,23,174,10,247,8,286,12,325,21,363,39,397,63,423,92,443,125,458,159,467,158,472,124,463,90,448,59,427,34,400,16,365,6,326,3,286,5,246,18,172,35,118"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="49,119,51,213,57,259,67,291,75,300,84,304,108,314,153,342,150,347,106,318,82,309,72,304,62,293,51,260,46,213,44,120"/>
+<area shape="rect" id="Node000004" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="163,80,276,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,120,210,197,193,293,176,345,171,344,187,291,205,196,214,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="125,5,314,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,45,222,80,217,80,217,45"/>
+<area shape="rect" id="Node000006" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="235,345,321,370"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="273,384,245,470,240,468,268,382"/>
+<area shape="rect" id="Node000007" href="$df/d3a/class_section_type.html" title=" " alt="" coords="345,345,445,370"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="385,384,364,416,334,447,311,462,286,472,284,467,309,457,331,443,360,413,381,381"/>
+</map>

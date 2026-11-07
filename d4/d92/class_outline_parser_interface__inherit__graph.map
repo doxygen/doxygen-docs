@@ -1,0 +1,21 @@
+<map id="OutlineParserInterface" name="OutlineParserInterface">
+<area shape="rect" id="Node000001" title="Abstract interface for outline parsers." alt="" coords="5,153,172,179"/>
+<area shape="rect" id="Node000002" href="$df/d21/class_c_outline_parser.html" title="C&#45;like language parser using state&#45;based lexical scanning." alt="" coords="249,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,141,154,90,185,63,219,40,248,27,250,32,221,44,188,67,157,93,110,144"/>
+<area shape="rect" id="Node000003" href="$d9/d34/class_fortran_outline_parser.html" title="Fortran language parser using state&#45;based lexical scanning." alt="" coords="231,55,386,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,144,165,116,219,89,252,78,253,83,221,94,167,120,121,148"/>
+<area shape="rect" id="Node000006" href="$da/d7b/class_lex_outline_parser.html" title="Lex language parser using state&#45;based lexical scanning." alt="" coords="243,104,375,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,148,251,127,252,132,160,153"/>
+<area shape="rect" id="Node000007" href="$d4/d77/class_markdown_outline_parser.html" title=" " alt="" coords="220,153,397,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="186,163,220,163,220,169,186,169"/>
+<area shape="rect" id="Node000008" href="$df/dc2/class_null_outline_parser.html" title="/dev/null outline parser" alt="" coords="241,203,376,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="160,179,252,200,251,205,159,184"/>
+<area shape="rect" id="Node000009" href="$dd/d49/class_python_outline_parser.html" title="Python Language parser using state&#45;based lexical scanning." alt="" coords="231,252,386,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="122,184,168,211,221,237,257,249,255,254,219,242,166,216,120,189"/>
+<area shape="rect" id="Node000010" href="$df/d4b/class_v_h_d_l_outline_parser.html" title="VHDL parser using state&#45;based lexical scanning." alt="" coords="236,301,381,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="111,188,158,238,188,264,221,286,250,299,248,304,219,291,185,268,154,242,107,191"/>
+<area shape="rect" id="Node000004" href="$dd/db2/class_fortran_outline_parser_fixed.html" title=" " alt="" coords="445,31,635,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,55,445,51,445,56,400,61"/>
+<area shape="rect" id="Node000005" href="$da/d39/class_fortran_outline_parser_free.html" title=" " alt="" coords="449,80,631,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="400,75,449,80,448,85,399,80"/>
+</map>
