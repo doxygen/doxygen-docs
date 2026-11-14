@@ -1,0 +1,6 @@
+<map id="LayoutNavEntry" name="LayoutNavEntry">
+<area shape="rect" id="Node000001" title="Base class for the layout of a navigation item at the top of the HTML pages." alt="" coords="5,141,132,167"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="147,142,155,147,159,154,151,164,133,169,132,164,148,160,153,154,151,150,145,147"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="33,5,104,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="71,44,71,141,66,141,66,44"/>
+</map>

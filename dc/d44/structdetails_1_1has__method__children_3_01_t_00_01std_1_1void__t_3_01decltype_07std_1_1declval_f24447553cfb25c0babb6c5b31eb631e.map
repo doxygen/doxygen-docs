@@ -1,0 +1,9 @@
+<map id="details::has_method_children&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt; &gt;" name="details::has_method_children&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,191,280"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,87,133,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,126,96,210,90,211,78,127"/>
+<area shape="rect" id="Node000003" href="$d6/d7e/structdetails_1_1has__method__children.html" title=" " alt="" coords="157,80,351,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,132,137,212,133,208,221,128"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,5,313,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,44,257,80,251,80,251,44"/>
+</map>

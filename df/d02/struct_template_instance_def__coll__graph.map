@@ -1,0 +1,9 @@
+<map id="TemplateInstanceDef" name="TemplateInstanceDef">
+<area shape="rect" id="Node000001" title="Class that contains information about a template instance relation." alt="" coords="14,176,174,201"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,80,76,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,119,40,135,44,151,55,164,69,174,66,178,51,168,40,153,34,136,34,119"/>
+<area shape="rect" id="Node000003" href="$d1/dcf/class_class_def.html" title="A abstract class representing of a compound symbol." alt="" coords="109,80,189,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,119,122,153,105,177,101,174,117,151,135,116"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="106,5,191,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,45,151,80,146,80,146,45"/>
+</map>

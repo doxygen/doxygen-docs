@@ -1,0 +1,11 @@
+<map id="GetDefInput" name="GetDefInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,216,158,241"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,80,76,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,120,34,155,37,174,44,191,56,204,72,214,69,218,53,208,40,193,32,175,29,156,32,119"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="140,80,208,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,120,164,156,147,193,125,218,121,214,142,191,159,154,168,118"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="37,5,175,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="128,39,165,78,161,81,125,43"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="199,5,285,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="223,43,187,81,183,78,220,39"/>
+</map>
