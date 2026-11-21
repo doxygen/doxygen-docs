@@ -1,0 +1,5 @@
+<map id="ConceptDef::Part" name="ConceptDef::Part">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,136,127"/>
+<area shape="rect" id="Node000002" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="35,5,106,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,45,73,101,68,101,68,45"/>
+</map>

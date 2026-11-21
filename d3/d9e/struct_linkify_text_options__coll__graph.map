@@ -1,0 +1,14 @@
+<map id="LinkifyTextOptions" name="LinkifyTextOptions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,215,250,240"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,5,91,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,45,51,92,57,119,68,143,86,166,108,185,154,212,151,217,105,189,82,169,63,145,52,120,46,93,43,45"/>
+<area shape="rect" id="Node000003" href="$de/db0/class_file_def.html" title="A model of a file symbol." alt="" coords="145,110,213,135"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="75,37,165,108,162,112,72,41"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,149,181,214,176,214,176,149"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="115,5,253,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,45,182,110,177,110,180,44"/>
+<area shape="rect" id="Node000005" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list." alt="" coords="255,110,364,135"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="303,149,291,172,274,193,252,207,229,217,227,212,250,202,270,189,287,169,298,147"/>
+<area shape="rect" id="Node000006" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="278,5,349,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="315,45,312,110,307,110,310,44"/>
+</map>

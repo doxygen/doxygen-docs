@@ -1,0 +1,17 @@
+<map id="DefinitionImpl::Private" name="DefinitionImpl::Private">
+<area shape="rect" id="Node000001" title="Private data associated with a Symbol DefinitionImpl object." alt="" coords="259,376,427,401"/>
+<area shape="rect" id="Node000002" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,80,91,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,119,31,168,25,230,26,263,32,295,44,324,62,350,74,359,93,367,142,378,200,384,259,386,259,391,200,389,141,383,91,372,72,364,58,354,39,327,27,296,21,264,19,230,26,167,37,118"/>
+<area shape="rect" id="Node000003" href="$d1/df9/class_section_refs.html" title="class that represents a list of constant references to sections." alt="" coords="115,80,213,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,119,156,175,151,244,153,309,158,333,166,350,180,360,202,368,259,378,258,383,200,373,177,365,162,354,153,335,147,309,146,244,151,175,158,119"/>
+<area shape="rect" id="Node000004" href="$d3/d3b/class_group_list.html" title=" " alt="" coords="238,80,322,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,119,265,166,258,226,262,290,270,322,284,351,295,364,310,374,308,378,292,368,279,353,265,323,257,291,253,225,260,165,270,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="183,5,377,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,45,283,80,277,80,277,45"/>
+<area shape="rect" id="Node000006" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="371,80,442,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="409,119,401,242,392,307,380,353,360,378,356,374,375,351,387,306,395,241,403,119"/>
+<area shape="rect" id="Node000007" href="$d6/de7/struct_resettable_once.html" title="once_flag wrapper that is copyable (copy default&#45;initializes the flag) and resettable." alt="" coords="483,80,608,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="549,119,549,175,546,245,536,310,529,336,518,354,503,364,482,371,427,382,426,377,480,366,501,359,514,350,524,334,531,309,540,245,544,175,543,119"/>
+<area shape="rect" id="Node000008" href="$d1/d7d/class_member_vector.html" title="A vector of MemberDef object." alt="" coords="655,80,772,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="722,118,730,168,732,231,729,265,720,297,706,327,686,354,673,361,650,366,585,376,427,387,426,381,584,370,649,361,671,356,682,350,702,325,715,295,723,264,727,231,725,168,717,119"/>
+</map>

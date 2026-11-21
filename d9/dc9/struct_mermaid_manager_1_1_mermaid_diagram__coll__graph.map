@@ -1,0 +1,7 @@
+<map id="MermaidManager::MermaidDiagram" name="MermaidManager::MermaidDiagram">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,257,264,283"/>
+<area shape="rect" id="Node000002" href="$d0/daf/struct_mermaid_diagram_info.html" title=" " alt="" coords="54,161,215,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,201,137,257,132,257,132,201"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="99,5,170,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,44,137,161,132,161,132,44"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DocLexerContext" name="DocLexerContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,412,182,437"/>
+<area shape="rect" id="Node000002" href="$da/d7a/class_token_info.html" title="Data associated with a token used by the comment block parser." alt="" coords="73,316,157,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,355,118,412,113,412,113,355"/>
+<area shape="rect" id="Node000003" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="5,80,76,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="36,119,28,155,23,200,27,247,34,270,44,290,57,304,75,314,72,319,54,309,40,294,29,272,22,248,18,200,23,155,31,118"/>
+<area shape="rect" id="Node000004" href="$db/d4d/class_html_attrib_list.html" title="Class representing a list of HTML attributes." alt="" coords="135,80,248,105"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="196,119,197,155,193,200,183,248,164,293,153,307,139,318,135,314,149,304,160,291,178,247,188,200,191,155,191,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="97,5,286,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,45,194,80,189,80,189,45"/>
+</map>
