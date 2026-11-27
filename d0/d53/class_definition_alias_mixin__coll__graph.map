@@ -1,0 +1,13 @@
+<map id="DefinitionAliasMixin&lt; Base &gt;" name="DefinitionAliasMixin&lt; Base &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,235,237,275"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,60,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,164,92,209,126,232,123,237,88,213,47,168"/>
+<area shape="rect" id="Node000003" href="$d0/d58/class_definition_alias_impl.html" title=" " alt="" coords="199,130,346,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,167,182,236,178,233,249,163"/>
+<area shape="rect" id="Node000004" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="103,5,189,31"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="139,44,124,99,120,132,123,163,136,201,152,233,147,236,131,203,118,165,115,132,118,98,133,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,42,171,70,191,95,215,114,242,128,240,132,212,119,187,99,166,72,152,45"/>
+<area shape="rect" id="Node000005" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="237,5,308,31"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="322,19,358,30,375,39,388,53,394,65,394,75,389,98,376,139,357,169,330,192,291,213,231,237,229,232,289,208,327,187,353,166,371,137,383,97,389,74,389,66,384,56,371,44,356,35,321,24"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="267,44,265,55,263,76,265,97,272,129,266,130,259,98,257,76,259,54,262,43"/>
+</map>

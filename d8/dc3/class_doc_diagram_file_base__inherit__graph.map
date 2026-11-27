@@ -1,0 +1,17 @@
+<map id="DocDiagramFileBase" name="DocDiagramFileBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,152,383,177"/>
+<area shape="rect" id="Node000004" href="$d6/ddb/class_doc_dia_file.html" title="Node representing a dia file." alt="" coords="5,225,97,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,184,93,228,91,223,249,179"/>
+<area shape="rect" id="Node000005" href="$df/d37/class_doc_dot_file.html" title="Node representing a dot file." alt="" coords="122,225,215,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="271,186,192,227,189,223,268,181"/>
+<area shape="rect" id="Node000006" href="$df/d4c/class_doc_mermaid_file.html" title="Node representing a mermaid file." alt="" coords="239,225,367,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="306,191,306,225,301,225,301,191"/>
+<area shape="rect" id="Node000007" href="$d3/d7d/class_doc_msc_file.html" title="Node representing a msc file." alt="" coords="391,225,487,251"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="338,181,418,223,416,227,336,186"/>
+<area shape="rect" id="Node000008" href="$dc/dac/class_doc_plant_uml_file.html" title="Node representing a uml file." alt="" coords="511,225,642,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="361,178,533,223,532,228,360,183"/>
+<area shape="rect" id="Node000002" href="$da/dfc/class_doc_compound_node.html" title="Base class for nodes with children." alt="" coords="228,79,379,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,118,306,152,301,152,301,118"/>
+<area shape="rect" id="Node000003" href="$d9/d0e/class_doc_node.html" title="Abstract node interface with type information." alt="" coords="263,5,344,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,44,306,79,301,79,301,44"/>
+</map>

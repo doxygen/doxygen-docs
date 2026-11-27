@@ -1,0 +1,29 @@
+<map id="PageDefImpl" name="PageDefImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="337,348,442,373"/>
+<area shape="rect" id="Node000002" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="124,212,329,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,244,377,346,374,350,249,248"/>
+<area shape="rect" id="Node000003" href="$dd/d41/class_page_def.html" title="A model of a page symbol." alt="" coords="102,116,178,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,150,218,210,214,214,158,153"/>
+<area shape="rect" id="Node000004" href="$d0/d46/class_definition_mutable.html" title=" " alt="" coords="115,13,253,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,52,147,117,143,115,171,50"/>
+<area shape="rect" id="Node000005" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources." alt="" coords="5,13,91,38"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="49,52,52,115,59,152,70,187,88,214,114,235,153,265,186,285,266,322,340,345,338,350,264,326,183,290,150,270,110,239,84,218,66,189,53,153,47,116,44,52"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="70,47,132,114,128,118,66,50"/>
+<area shape="rect" id="Node000006" href="$d3/ddf/class_definition_impl.html" title=" " alt="" coords="277,13,392,38"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="306,48,271,78,254,97,241,117,232,142,228,168,228,212,223,212,223,168,227,141,236,115,250,93,267,74,302,44"/>
+<area shape="rect" id="Node000007" href="$dd/d10/class_definition_mixin.html" title=" " alt="" coords="309,116,491,141"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="340,51,345,71,354,91,366,103,380,114,377,118,362,107,350,93,340,73,335,52"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="368,150,249,214,247,209,366,146"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="417,13,471,38"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="436,52,407,117,403,115,431,50"/>
+<area shape="rect" id="Node000009" href="$d0/d00/class_d_string.html" title="A String class for use with Doxygen wrapping std::string and adding some additional functionality off..." alt="" coords="354,212,425,237"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="392,251,392,348,387,348,387,251"/>
+<area shape="rect" id="Node000010" href="$d9/de6/class_page_linked_ref_map.html" title=" " alt="" coords="449,212,594,237"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="522,252,514,289,505,309,493,326,470,343,443,353,441,348,467,338,489,322,500,306,509,288,517,251"/>
+<area shape="rect" id="Node000011" href="$d2/db7/class_linked_ref_map.html" title=" " alt="" coords="515,116,714,141"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="596,153,535,214,531,210,592,149"/>
+<area shape="rect" id="Node000012" href="$d2/db7/class_linked_ref_map.html" title="Container class representing a vector of objects with keys." alt="" coords="523,5,706,45"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="617,59,617,116,612,116,612,59"/>
+<area shape="rect" id="Node000013" href="$da/d1d/class_local_toc.html" title=" " alt="" coords="619,212,696,237"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="655,252,641,290,630,310,614,326,583,339,539,349,443,359,442,354,538,344,582,334,610,322,625,307,637,288,650,250"/>
+</map>
